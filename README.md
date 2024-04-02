@@ -4,7 +4,17 @@
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
 
   </a>
-  ![LogoUPC](GuardianIQ/Documento-Aplicaciones-Web/images/upcLogo.png)
+  /
+|-- GuardianIQ
+|   |-- Documento-Aplicaciones-Web
+|       |-- documento.md
+|       |-- images
+|           |-- upcLogo.png
+|-- otra_carpeta
+|   |-- otro_documento.md
+
+![Texto alternativo](../GuardianIQ/Documento-Aplicaciones-Web/images/upcLogo.png)
+
 
 
   <p align="center">
