@@ -45,11 +45,11 @@
             <td>U202215313</td>
         </tr>
         <tr> 
-            <td>Hidalgo Lopez,Mathias Adriano</td>
+            <td>Hidalgo Lopez, Mathias Adriano</td>
             <td>U202213222</td>
         </tr>
         <tr> 
-            <td>Lobato Pozo,Sebastian Valente</td>
+            <td>Lobato Pozo, Sebastian Valente</td>
             <td>U202215312</td>
         </tr>
         <tr> 
