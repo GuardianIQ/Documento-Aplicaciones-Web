@@ -13,7 +13,7 @@
 |-- otra_carpeta
 |   |-- otro_documento.md
 
-![Texto alternativo](../GuardianIQ/Documento-Aplicaciones-Web/images/upcLogo.png)
+![Texto alternativo](images/upcLogo.png)
 
 
 
