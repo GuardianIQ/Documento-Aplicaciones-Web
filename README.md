@@ -2,8 +2,7 @@
 
 <div align="center">
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
-  <a href="https://github.com/OpenUniRider/UniRider-frontend.git">
-    <img src="./UPC.png" width="200px">
+
   </a>
 
   <p align="center">
