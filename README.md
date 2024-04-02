@@ -4,6 +4,8 @@
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
 
   </a>
+  ![LogoUPC](GuardianIQ/Documento-Aplicaciones-Web/images/upcLogo.png)
+
 
   <p align="center">
     Ingeniería de Software - 202401
