@@ -13,7 +13,7 @@
 |-- otra_carpeta
 |   |-- otro_documento.md
 
-![Texto alternativo](images/upcLogo.png)
+![LogoUpc](images/upcLogo.png)
 
 
 
