@@ -5,13 +5,7 @@
 
   </a>
   /
-|-- GuardianIQ
-|   |-- Documento-Aplicaciones-Web
-|       |-- documento.md
-|       |-- images
-|           |-- upcLogo.png
-|-- otra_carpeta
-|   |-- otro_documento.md
+
 
 ![LogoUpc](images/upcLogo.png)
 
