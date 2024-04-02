@@ -4,7 +4,7 @@
     <h1> Universidad Peruana de Ciencias Aplicadas </h1>
 
   </a>
-  /
+  
 
 
 ![LogoUpc](images/upcLogo.png)
