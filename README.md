@@ -267,7 +267,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
    
 **2.2.1. Diseño de entrevistas.**
 
-**Segmento objetivo #1:** Estudiantes Universitarios que necesiten movilizarse
+**Segmento objetivo #1:** 
 
 **User Flow que se evaluarán:**
 
