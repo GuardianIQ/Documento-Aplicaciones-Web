@@ -267,12 +267,6 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 
 
-
-
-# **Capítulo II: Requirements Elicitation & Analysis**
-
-## 2.1. Competidores.
-
 ### [**1.2.2. Lean UX Process.**](#lean-ux-process)
 #### [**1.2.2.1. Lean UX Problem Statements.**](#lean-ux-problem-statements)
    
