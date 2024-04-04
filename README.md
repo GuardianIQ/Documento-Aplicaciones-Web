@@ -192,13 +192,13 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
       - [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#5217-software-deployment-evidence-for-sprint-review)
       - [**5.2.1.8. Team Collaboration Insights during Sprint.**](#5218-team-collaboration-insights-during-sprint)
 
-**Capítulo I: Introducción**
+# [**Capítulo I: Introducción.**](#capítulo-i-introducción)
 
-  1.1  Startup Profile.
+## [**1.1  Startup Profile.**](#startup-profile)
    
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
-   **1.1.1. Descripción del startup.**
+### [**1.1.1. Descripción del startup.**](#descripción-de-la-startup)
    
    
    
@@ -213,7 +213,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
    **Logotipo del servicio**
 
   
-      **1.1.2.  Perfiles de los integrantes del equipo.**
+ ### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-integrantes-del-equipo)
 | descripcion                 | Perfiles de los integrantes del equipo |
 | ---                         | --- |
 |  descripcion                |  foto |
@@ -223,9 +223,9 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 | descripcion                 | foto |
 
 
-1.2. Solution Profile.
+## [**1.2. Solution Profile.**](#solution-profile)
 
-### 1.2.1. Antecedentes y Problemática.
+### [**1.2.1. Antecedentes y Problemática.**](#antecedentes-y-problemática)
 
 ##### What (Qué)
 
@@ -258,17 +258,39 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 ##### How (Cómo)
 ###### ¿Cómo se utilizará el producto?
 
+###### ¿Cómo lograremos desarrollar la correcta gestión del proceso de carpooling entre estudiantes?
+
+##### How much (Cuánto)
+###### ¿Cuál es la magnitud del problema?
+
+###### Quienes seran los beneficiados por el servicio?
+
+
+
 
 
 # **Capítulo II: Requirements Elicitation & Analysis**
 
 ## 2.1. Competidores.
 
+### [**1.2.2. Lean UX Process.**](#lean-ux-process)
+#### [**1.2.2.1. Lean UX Problem Statements.**](#lean-ux-problem-statements)
+   
+###### Problem Statement:
 
-    
+#### [**1.2.2.2. Lean UX Assumptions.**](#lean-ux-assumptions)
 
+#### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
 
-**2.1.1. Análisis competitivo.**
+#### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
+
+### [**1.2.3. Segmentos objetivo.**](#segmentos-objetivo)
+
+# [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation--analysis)
+
+## [**2.1. Competidores.**](#competidores)
+
+### [**2.1.1. Análisis competitivo.**](#análisis-competitivo)
 
 |Tipo | logo    |  nuestro logo |  |      |  |
 |---------|---------|-------------|------------|--------------------|------------|
@@ -285,33 +307,96 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 |Análisis SWOT|Amenazas ||||
 
      
-**2.1.2. Estrategias y tácticas frente a competidores.**
+### [**2.1.2. Estrategias y tácticas frente a competidores.**](#estrategias-y-tácticas-frente-a-competidores)
 
-
-## 2.2. Entrevistas.
+## [**2.2. Entrevistas.**](entrevistas)
    
-   
-**2.2.1. Diseño de entrevistas.**
+### [**2.2.1. Diseño de entrevistas.**](#diseño-de-entrevistas)
 
-**Segmento objetivo #1:** 
+**Segmento objetivo #1:**
+### Preguntas principales:
 
-**User Flow que se evaluarán:**
+### Preguntas complementarias:
 
-- Registro e inicio de sesión
-
-- Suscripción a un servicio
-
-- 
-
-- 
+**Segmento objetivo #1:**
 
 ### Preguntas principales:
 
 ### Preguntas complementarias:
 
-**2.2.2. Registro de entrevistas.**
+
+### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
 
 **Segmento objetivo #1:** 
+
+**Entrevistado N°1:** 
+
+- **Sexo:** Femenino
+
+- **Edad:** 19 años
+
+- **Ubicación en la que vive:** 
+
+**Acerca de la entrevista:**
+
+- **Link:** ------------------
+
+- **Instante en el que inicia:** ----------
+
+- **Duración:** --------
+
+**Resumen:**
+
+Texto
+
+
+
+**Entrevistado N°2:** ---------------
+
+- **Sexo:** ------
+
+- **Edad:** ------
+
+- **Ubicación en la que vive:** --------------
+
+**Acerca de la entrevista:**
+
+- **Link:** ------------------
+
+- **Instante en el que inicia:** ----------
+
+- **Duración:** --------
+
+**Resumen:**
+
+Texto
+
+
+
+
+**Entrevistado N°3:** ---------------
+
+- **Sexo:** ------
+
+- **Edad:** ------
+
+- **Ubicación en la que vive:** --------------
+
+**Acerca de la entrevista:**
+
+- **Link:** ------------------
+
+- **Instante en el que inicia:** ----------
+
+- **Duración:** --------
+
+**Resumen:**
+
+Texto
+
+
+
+**Segmento objetivo #2:** 
 
 **Entrevistado N°1:** ---------------
 
@@ -321,19 +406,18 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 **- Ubicación en la que vive:** --------------
 
+**Acerca de la entrevista:**
+
 **- Link:** ------------------
 
+**- Instante en el que inicia:** ----------
+
+**- Duración:** --------
 
 **Resumen:**
 
 Texto
 
-
-
-
-
-
-**Segmento objetivo #2:** 
 
 **Entrevistado N°2:** ---------------
 
@@ -343,18 +427,18 @@ Texto
 
 **- Ubicación en la que vive:** --------------
 
+**Acerca de la entrevista:**
+
 **- Link:** ------------------
+
+**- Instante en el que inicia:** ----------
+
+**- Duración:** --------
 
 **Resumen:**
 
 Texto
 
-
-
-
-
-
-**Segmento objetivo #3:** 
 
 **Entrevistado N°3:** ---------------
 
@@ -364,25 +448,85 @@ Texto
 
 **- Ubicación en la que vive:** --------------
 
+**Acerca de la entrevista:**
+
 **- Link:** ------------------
+
+**- Instante en el que inicia:** ----------
+
+**- Duración:** --------
 
 **Resumen:**
 
 Texto
 
-**2.2.3. Análisis de entrevistas.**
+### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
-## 2.3. Needfinding.
+De acuerdo con las entrevistas y resúmenes recopilados, hemos realizado el siguiente análisis de entrevistas, obteniendo así resultados concretos. 
 
-**2.3.1. User Personas.**
+#### Segmento objetivo #1:
 
-**2.3.2. User Task Matrix.**
+Hallazgos:
 
-**2.3.3. User Journey Mapping**
+- 
+  
+- 
+  
+- 
+  
+- 
+  
+- 
+  
+Hallazgos:
 
-**2.3.4. Empathy Mapping**
+#### Segmento objetivo #2: 
 
-**2.3.5. As-is Scenario Mapping**
+- 
+  
+- 
+  
+- 
+  
+- 
+  
+- 
+  
+Conclusiones:
+
+### Análisis por medio de herramientas estadísticas:
+
+- Segmento objetivo1: 
+
+- Segmento objetivo 2: 
+
+
+## [**2.3. Needfinding.**](#needfinding)
+
+Presentamos las siguientes necesidades principales que hemos analizado en base a nuestros usuarios:
+
+*Segmento #1:*
+-
+-
+-
+-
+-
+*Segmento #2:* 
+-
+-
+-
+-
+-
+
+### [**2.3.1. User Personas.**](#user-personas)
+
+### [**2.3.2. User Task Matrix.**](#user-task-matrix)
+
+### [**2.3.3. User Journey Mapping**](#user-journey-mapping)
+
+### [**2.3.4. Empathy Mapping**](#empathy-mapping)
+
+### [**2.3.5. As-is Scenario Mapping**](as-is-scenario-mapping)
 
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
 
@@ -483,4 +627,3 @@ Texto
 #### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
-
