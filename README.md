@@ -283,7 +283,7 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 # [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 
 ## [**2.1. Competidores.**](#competidores)
-hola muchachos
+
 ### [**2.1.1. Análisis competitivo.**](#análisis-competitivo)
 
 |Tipo | logo    |  nuestro logo |  |      |  |
