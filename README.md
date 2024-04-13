@@ -538,13 +538,15 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 
 ### [**4.3.1. Landing Page Wireframe.**](#landing-page-wireframe)
 
-![LpW1](images/WF1.png)
+![LpW1](images/WiFr1.png)
 
-![LpW2](images/WF2.png)
+![LpW2](images/WiFr2.png)
 
-![LpW3](images/WF3.png)
+![LpW3](images/WiFr3.png)
 
-![LpW4](images/WF4.png)
+![LpW4](images/WiFr4.png)
+
+![LpW5](images/WiFr5.png)
 
 ### [**4.3.2. Landing Page Mock-up.**](#landing-page-mock-up)
 
