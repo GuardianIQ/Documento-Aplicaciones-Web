@@ -550,13 +550,17 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 
 ### [**4.3.2. Landing Page Mock-up.**](#landing-page-mock-up)
 
-![LpM1](images/MU1.png)
+![LpM1](images/MoUp1.png)
 
-![LpM2](images/MU2.png)
+![LpM2](images/MoUp2.png)
 
-![LpM3](images/MU3.png)
+![LpM3](images/MoUp3.png)
 
-![LpM4](images/MU4.png)
+![LpM4](images/MoUp4.png)
+
+![LpM5](images/MoUp5.png)
+
+![LpM6](images/MoUp6.png)
 
 ## [**4.4. Web Applications UX/UI Design.**](#web-applications-ux-ui-design)
 
