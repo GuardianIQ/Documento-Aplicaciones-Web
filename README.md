@@ -884,14 +884,18 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 ### [5.2.1. Sprint 1.](#sprint-1)
 #### [5.2.1.1. Sprint Planning 1.](#sprint-planning-1)
 
-| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                              |
-| -------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sprint Planning Background       |
-| Date                             | 05/04/2024                                                                                                                                                                                                |
-| Time                             | 18:00 horas (GMT-5)                                                                                                                                                                                       |
-| Location                         | Reunión realizada mediante Discord                                                                                                                                                                        |
-| Prepared By                      | Lobato Pozo, Sebastian Valente       
 
+| Sprint #   | sprint 1 | |                                                                                                     |
+|------------|----|-|-----------------------------------------------------------
+| Sprint Planning Background       | Velocity:        |  16 puntos       |                                         
+| Begin(Date)                             | 05/04/2024                          |  |
+| Duration                             | 05/04/2024                          |15/04/2024  ||  |
+| Point                          |  (Virtual) Lima, Perú              |||                                         
+| Prepared By                      | Lobato Pozo, Sebastian Valente      ||                                         
+|Asistentes a la reunión| Ely Rivaldo Cortez Flores   
+| Asistentes a la reunión                      |   Sebastian Valente Lobato Pozo  
+| Asistentes a la reunión                      |   Mathias Adrano Hidalgo Lopez 
+| Asistentes a la reunión                      |   Astrid Jimena Boronda Heidinger
 #### [5.2.1.2. Sprint Backlog 1.](#sprint-backlog-1)
 
 | id   | Title                 | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To        | Status(To-do /InProcess/ToReview/Done) |
