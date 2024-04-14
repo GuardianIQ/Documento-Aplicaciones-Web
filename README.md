@@ -707,6 +707,104 @@ La funcionalidad de búsqueda se ha mejorado para que los usuarios puedan encont
 
 ### [**4.4.1. Web Applications Wireframes.**](#web-applications-wireframes)
 
+**a. Wireframes antes de ingresar a la aplicación GuardianIQ**
+ 
+Es una pantalla de carga previa antes de entrar a la aplicación GuardianIQ. También podrá aparecer luego de registrarse e iniciar sesión.
+
+![AWW1](images/Wireframes1.png)
+ 
+**b. Wireframes página principal sin usar cuenta**
+ 
+Se mostrará la página principal, pero no será posible acceder al contenido hasta que el usuario inicie sesión o se registre. En el caso de que se cree una cuenta, previamente debe determinar si tendrá una cuenta como usuario o como P.D.S (personal de seguridad).
+
+![AWW2](images/Wireframes2.png)
+ 
+**c. Wireframes para Inicio de Sesión**
+ 
+Al elegir iniciar sesión, se insertará el correo y contraseña con los que el usuario se registró anteriormente.
+
+![AWW3](images/Wireframes3.png)
+ 
+**d. Wireframes para registro de cuenta**
+ 
+Al elegir registro de cuenta, se tendrá que registrar nombres completo, correo electrónico, celular, DNI, pasaporte (solo si es extranjero), contraseña, edad y sexo, además que se deben aceptar los términos y condiciones.
+
+![AWW4](images/Wireframes4.png)
+
+**e. Wireframes barra de opciones**
+ 
+Al ingresar a la página principal con cuenta, será posible visualizar una barra de opciones que se podrá visualizar los pagos y facturas, las configuraciones, ayuda y soporte.
+
+![AWW5](images/Wireframes5.png)
+
+**f. Wireframes configuración de notificaciones**
+ 
+Al ingresar a configuraciones, el usuario puede activar y desactivar las notificaciones si así lo desea. De la misma forma, puede seleccionar aquellas opciones de notificar que quiere recibir.
+
+![AWW6](images/Wireframes6.png)
+ 
+**g. Wireframes opciones de cuenta**
+ 
+Al dirigirte al icono de perfil se mostrarán opciones como mis pedidos, que se tratan de la compra tanto de equipos de seguridad como servicios solicitados, mi cuenta y cerrar sesión.
+
+![AWW7](images/Wireframes7.png)
+ 
+**h. Wireframes de perfil del usuario**
+ 
+El usuario podrá visualizar los datos de su cuenta, siendo posible editarlo cuando sea necesario. Si así es el caso, debe dirigirse al icono de lápiz para hacer los cambios.
+
+![AWW8](images/Wireframes8.png)
+ 
+**i. Wireframes para contratar personal**
+ 
+La selección del apartado contratar personal mostrará los 3 tipos de seguridad que ofrecemos en la aplicación.
+
+![AWW9](images/Wireframes9.png)
+
+**j. Wireframes para buscar seguridad de vigilancia según el usuario**
+ 
+Si el usuario necesita contratar seguridad de vigilancia, deberá seleccionar esa opción una vez que ya haya seleccionado contratar personal. De esa manera, accedes a un formulario que debe rellenar para que la búsqueda se ajuste a su preferencia, viéndose a detalle la información general, horario de trabajo y experiencia laboral.
+
+![AWW10](images/Wireframes10.png)
+ 
+**k. Wireframes para buscar seguridad presencial según el usuario**
+ 
+Lo mismo pasa para contratar seguridad de vigilancia, también se accede a un formulario con algunos cambios pequeños adaptado a este tipo de servicio de seguridad.
+
+![AWW11](images/Wireframes11.png)
+ 
+**l. Wireframes resultados de la seguridad de vigilancia**
+ 
+Una vez que se envía el formulario,  aparecerán las opciones de personal de seguridad según lo rellenado. Se mostrarán varios perfiles que cumplen los criterios, además de que hay 2 botones: contratar y contactar.
+
+![AWW14](images/Wireframes14.png)
+ 
+**m. Wireframes filtro de búsqueda**
+ 
+Si quiere buscar otras opciones diferentes a como se enviaron en el formulario, se podrá seleccionar el botón filtrar para obtener otros tipos de selección a partir de diferentes criterios (información personal, horario de trabajo, experiencia)
+
+![AWW13](images/Wireframes13.png)
+
+![AWW15](images/Wireframes15.png)
+ 
+**n. Wireframes resultados de la seguridad de presencial**
+ 
+Una vez que se envía el formulario,  aparecerán las opciones de personal de seguridad según lo rellenado. Se mostrarán varios perfiles que cumplen los criterios, además de que hay 2 botones: contratar y contactar.
+
+![AWW12](images/Wireframes12.png)
+ 
+**o. Wireframes de equipos de seguridad**
+ 
+Al seleccionar el apartado de equipos de seguridad, se mostrará los dispositivos que ofrecemos al cliente, teniendo la opción de ver más información de los mismos.
+
+![AWW16](images/Wireframes16.png)
+ 
+**p. Wireframes de servicios activos**
+ 
+Al seleccionar el apartado de servicios activos, se visualizarán los servicios contratados por el usuario actualmente, teniendo la opción de ver los perfiles, mandarles un mensaje o terminar el contrato.
+
+![AWW17](images/Wireframes17.png)
+
 ### [**4.4.2. Web Applications Wireflow Diagrams.**](#web-applications-wireflow-diagrams)
 
 ### [**4.4.3. Web Applications Mock-ups.**](#web-applications-mock-ups)
