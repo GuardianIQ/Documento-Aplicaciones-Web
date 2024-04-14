@@ -645,6 +645,16 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 |Lobato Pozo, Sebastian Valente|U202215312@upc.edu.pe|
 |Travezaño Patiño, Eduard Gedeon|u20211a789@upc.edu.pe|
 
+**Despliegues**
+URL Landing Page desplegada:https://pageguardianiq.vercel.app/
+
+**Repositorios**
+URL del repositorio de Landing Page:https://github.com/GuardianIQ/LandingPage
+
+URL del repositorio del Reporte Final: https://github.com/GuardianIQ/Documento-Aplicaciones-Web
+
+**Implementacion de Gitflow**
+
 ### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
 
 ### [**5.1.4. Software Deployment Configuration.**](#software-deployment-configuration)
