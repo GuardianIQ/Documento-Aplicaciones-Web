@@ -760,7 +760,7 @@ La funcionalidad de búsqueda se ha mejorado para que los usuarios puedan encont
 
 **Software Testing**
 
-* _Gherkin_: Se utiliza para realziar pruebas de aceptación en un formato legible por humanos. Utilizamos Gherkin para definir los criterios de aceptación de nuestras historias de usuario y escenarios de prueba, nos permite validar el futuro  comportamiento de nuestra aplicación web de manera sistemática y eficiente. La sintaxis simple y estructurada de Gherkin nos permite describir el comportamiento esperado de la aplicación de forma clara y concisa.. https://cucumber.io/docs/gherkin/
+* _Cucumber_: Se utiliza para realizar pruebas de aceptación en un formato legible por humanos. Utilizamos Cucumber para definir los criterios de aceptación de nuestras historias de usuario y escenarios de prueba, nos permite validar el futuro  comportamiento de nuestra aplicación web de manera sistemática y eficiente. La sintaxis simple y estructurada de Gherkin nos permite describir el comportamiento esperado de la aplicación de forma clara y concisa.. https://cucumber.io/docs/gherkin/
 
 **Software Development**
 
