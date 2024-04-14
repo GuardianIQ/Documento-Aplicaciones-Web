@@ -804,13 +804,17 @@ Otro aspecto destacado de GitHub son las "actions", que posibilitan la automatiz
 
 Esta plataforma, que complementa la funcionalidad de Git, permite mantener repositorios de código en almacenamiento basado en la nube, facilitando el trabajo colaborativo al permitir que múltiples colaboradores trabajen en un mismo proyecto, visualizando las ediciones individuales de cada integrante y mejorando así la eficiencia del trabajo en equipo.
 
-## [**5.2. Landing Page, Services & Applications Implementation.**](#landing-page-services--applications-implementation)
+## [5.2. Landing Page, Services \& Applications Implementation.](#landing-page-services--applications-implementation)
+### [5.2.1. Sprint 1.](#sprint-1)
+#### [5.2.1.1. Sprint Planning 1.](#sprint-planning-1)
 
-
-
-### [**5.2.1. Sprint 1.**](#sprint-1)
-
-#### [**5.2.1.1. Sprint Planning 1.**](#sprint-planning-1)
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                                                                              |
+| -------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sprint Planning Background       |
+| Date                             | 05/04/2024                                                                                                                                                                                                |
+| Time                             | 18:00 horas (GMT-5)                                                                                                                                                                                       |
+| Location                         | Reunión realizada mediante Discord                                                                                                                                                                        |
+| Prepared By                      | Lobato Pozo, Sebastian Valente       
 
 #### [**5.2.1.2. Sprint Backlog 1.**](#sprint-backlog-1)
 
