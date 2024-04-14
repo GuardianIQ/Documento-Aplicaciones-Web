@@ -1020,6 +1020,11 @@ En el primer sprint, el equipo se organizo con la herramienta trello, esta herra
 Para la entrega del Sprint 1, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la
 sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones faciles de entender e intuitivas.
 
+| Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
+|-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
+| https://github.com/GuardianIQ/LandingPage/tree/main/features | LandingPage/main | 30cb741   | feat: add features (landingPage) | 14/04/24           |
+
+
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
 #### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
