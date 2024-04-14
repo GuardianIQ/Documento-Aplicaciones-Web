@@ -919,6 +919,9 @@ En el primer sprint, el equipo se organizo con la herramienta trello, esta herra
 
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
+Para la entrega del Sprint 1, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la
+sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones faciles de entender e intuitivas.
+
 #### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
 #### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
