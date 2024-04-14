@@ -825,6 +825,17 @@ URL del repositorio del Reporte Final: https://github.com/GuardianIQ/Documento-A
 
 ![GitFlow](images/GitFlowDiagram.png)
 
+Gitflow es un enfoque de ramificación diseñado específicamente para proyectos en Git, con el objetivo de estructurar las ramas de un proyecto de software de manera organizada. Este método establece diversas ramas y normas para su utilización, nos facilitò la colaboración y la administración del código en equipos de desarrollo. En GuardianIQ, optamos por implementar el modelo de Gitflow para el maejo de las ramas de nuestro proyecto.
+ 
+La rama **main** es la rama principal de nuestro proyecto, contiene la versión final y funcional.
+Estas variantes han sido previamente evaluadas y se ha verificado la total funcionalidad de estas tras su implementación a comparaciòn de las otras ramas. 
+
+La rama **develop** es la rama de desarrollo de nuestro proyecto, que contiene la versión inicial para despues someterla a pruebas, aunque están completadas al 100% y contienen todas las características que se esperan hasta ese momento. Esta rama tiene como proposito cargar la versión y llevar a cabo pruebas finales con el fin de corregir cualquier inconveniente antes de la publicación final en la
+rama main.
+
+La rama **feature** es la rama de características de nuestro proyecto, que contiene las nuevas características y funcionalidades que se estándesarrollando para GuardianIQ. Cada nueva característica se desarrolla en una rama de características separada, lo que permite a los miembros del equipo trabajar y analizar de forma independiente los cambios realizado, facilitando la integración de las nuevas características en la rama de desarrollo.
+
+La rama de **release** es donde se lleva a cabo una revisión exhaustiva de todos los cambios realizados y se analiza el proyecto en su totalidad. Una vez que se ha completado esta revisión y, en caso de no encontrar errores, los cambios se fusionarán con la rama principal (main).
 
 ### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
 
