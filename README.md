@@ -854,6 +854,8 @@ Al seleccionar el apartado de servicios activos, se visualizarán los servicios 
 
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
 
+![AWW2](images/dclase.png)
+
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
 
 ## [**4.8. Database Design.**](#database-design)
