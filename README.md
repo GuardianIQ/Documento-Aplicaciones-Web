@@ -611,6 +611,31 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 <br><br>
 * _Lucidchart_: Lucidchart es una herramienta de diagramación en línea que permite a los equipos crear diagramas, organigramas, mapas mentales y otros tipos de diagramas de manera colaborativa. Utilizamos Lucidchart para crear diagramas de flujo. La funcionalidad de colaboración en tiempo real de Lucidchart nos permite trabar de forma grupal y la toma de desiciones en tiempo real, ayudando a optimizar el tiempo de trabajo. https://www.lucidchart.com/
 
+
+**Software Testing**
+
+* _Gherkin_: Se utiliza para realziar pruebas de aceptación en un formato legible por humanos. Utilizamos Gherkin para definir los criterios de aceptación de nuestras historias de usuario y escenarios de prueba, nos permite validar el futuro  comportamiento de nuestra aplicación web de manera sistemática y eficiente. La sintaxis simple y estructurada de Gherkin nos permite describir el comportamiento esperado de la aplicación de forma clara y concisa.. https://cucumber.io/docs/gherkin/
+
+**Software Development**
+
+* _Visual Studio Code_: Visual Studio Code es un editor de código ligero y altamente personalizable que ofrece una amplia gama de funciones y extensiones para facilitar el desarrollo de software. Utilizamos Visual Studio Code como nuestro entorno de desarrollo integrado (IDE) para escribir, depurar y probar el código de nuestra landing Page. La interfaz intuitiva y las funciones avanzadas de Visual Studio Code nos permiten trabajar de manera eficiente y productiva, lo que nos ayuda a mantener un alto nivel de calidad en nuestro código y acelerar el proceso de desarrollo. https://code.visualstudio.com/
+<br><br>
+* _Structurizr_: Structurizr es una plataforma en línea que permite a los equipos documentar y visualizar la arquitectura de software de sus aplicaciones de forma colaborativa. Utilizamos Structurizr para crear diagramas de arquitectura de software que representan la estructura y los componentes de nuestra aplicación web, lo que nos permite mostrar de manera efectiva la arquitectura de nuestro sistema a los miembros del equipo y otras partes interesadas. Nos facilita la comprensión y el mantenimiento de la arquitectura de nuestro software. https://structurizr.com/
+<br><br>
+* _HTML_: HTML (HyperText Markup Language) es el lenguaje de marcado estándar utilizado para crear y diseñar páginas web. Utilizamos HTML para estructurar y organizar el contenido de nuestra Landing Page. https://developer.mozilla.org/en-US/docs/Web/HTML
+<br><br>
+* _CSS_: CSS (Cascading Style Sheets) es un lenguaje de diseño utilizado para definir la apariencia y el estilo visual de las páginas web. Utilizamos CSS para personalizar y dar formato al contenido de nuestra aplicación web, lo que nos permite controlar la tipografía, los colores, los márgenes y otros aspectos visuales de la interfaz de usuario. La sintaxis simple y flexible de CSS nos permite crear estilos personalizados y responsivos que se adaptan a diferentes dispositivos y tamaños de pantalla, lo que garantiza una presentación visual atractiva y coherente en nuestra aplicación. https://developer.mozilla.org/en-US/docs/Web/CSS
+<br><br>
+
+
+**Software Deployment**
+
+* _Git_: Git es un sistema de control de versiones distribuido que permite a los equipos colaborar en el desarrollo de software, realizar un seguimiento de los cambios en el código y gestionar las versiones de los archivos de forma eficiente. Utilizamos Git como nuestra herramienta de control de versiones para mantener un historial de los cambios en el código , lo que nos permite colaborar en el desarrollo de software de forma segura y eficaz. La funcionalidad de ramificación y fusión de Git nos permite trabajar en paralelo en diferentes funciones y características de la aplicación, lo que facilita la colaboración entre los miembros del equipo y garantiza la integridad y la calidad del código. https://git-scm.com/
+
+**Software Documentation and Project Management**
+
+* _GitHub_: GitHub es una plataforma en línea que permite a los equipos colaborar en el desarrollo de software, alojar repositorios de código y gestionar proyectos de forma eficiente. Utilizamos GitHub como nuestra plataforma de desarrollo de software para alojar el código fuente de nuestra aplicación web, realizar un seguimiento de los cambios en el código y gestionar las tareas y problemas del proyecto. La funcionalidad de control de versiones y colaboración de GitHub nos permite trabajar de forma conjunta en el desarrollo de software, lo que facilita la comunicación y la coordinación entre los miembros del equipo y garantiza la calidad y la integridad del código. https://github.com/
+
 ### [**5.1.2. Source Code Management.**](#source-code-management)
 
 ### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
