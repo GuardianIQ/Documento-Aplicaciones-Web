@@ -600,7 +600,16 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 
 **Project Management:**
 
-* _Trello_:  Es una plataforma de gestión de proyectos que facilita la colaboración en tiempo real, la organización de tareas. En nuestra StarUp, GuardianIQ, empleamos Trello para coordinar y supervisar el avance de nuestros proyectos, asignar responsabilidades a los miembros del equipo y mantenernos organizados en todo momento. Gracias a la interfaz amigable y las opciones de personalización de Trello, podemos adaptar la herramienta según nuestras necesidades específicas y asegurar una gestión eficiente de nuestros proyectos. 
+* _Trello_:  Es una plataforma de gestión de proyectos que facilita la colaboración en tiempo real, la organización de tareas. En nuestra StarUp, GuardianIQ, empleamos Trello para coordinar y supervisar el avance de nuestros proyectos, asignar responsabilidades a los miembros del equipo y mantenernos organizados en todo momento. Gracias a la interfaz amigable y las opciones de personalización de Trello, podemos adaptar la herramienta según nuestras necesidades específicas y asegurar una gestión eficiente de nuestros proyectos.
+  **Requirements Management**
+
+* _Miro_: Miro es una herramienta de colaboración en línea que permite a los equipos trabajar de forma conjunta en la creación de diagramas, mapas mentales, prototipos y otros tipos de contenido visual. Utilizamos Miro para realizar sesiones de lluvia de ideas, diseñar flujos de trabajo y diagramas de arquitectura para nuestro proyecto. La funcionalidad de colaboración en tiempo real de Miro nos permite trabajar de forma conjunta en la creación y edición de contenido visual, lo que facilita la comunicación y la toma de decisiones en el equipo. https://miro.com/
+
+**Product UX/UI Design**
+
+* _Figma_: Figma es una herramienta de diseño de interfaz de usuario basada en la nube que permite a los equipos colaborar en tiempo real, crear prototipos interactivos y diseñar interfaces de usuario.Utilizamos Figma para diseñar y prototipar la interfaz de usuario de nuestra aplicación web, lo que nos permite visualizar y compartir nuestras ideas de diseño de manera efectiva. La funcionalidad de colaboración en tiempo real de Figma nos permite trabajar de forma conjunta en el diseño de la aplicación y realizar ajustes en tiempo real. https://www.figma.com/
+<br><br>
+* _Lucidchart_: Lucidchart es una herramienta de diagramación en línea que permite a los equipos crear diagramas, organigramas, mapas mentales y otros tipos de diagramas de manera colaborativa. Utilizamos Lucidchart para crear diagramas de flujo. La funcionalidad de colaboración en tiempo real de Lucidchart nos permite trabar de forma grupal y la toma de desiciones en tiempo real, ayudando a optimizar el tiempo de trabajo. https://www.lucidchart.com/
 
 ### [**5.1.2. Source Code Management.**](#source-code-management)
 
