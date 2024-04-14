@@ -362,6 +362,7 @@ GuardianIQ se enfoca en adultos independientes, ya sea que vivan solos o compart
 
 
 **Segmento de Padres de Familia:**
+
 GuardianIQ también está diseñado para padres de familia que tienen hijos pequeños o adolescentes en casa y que dan prioridad a la seguridad de su hogar y de su familia. Estas personas buscan soluciones de seguridad integrales que les permitan tener bajo vigilancia y resguardo a sus hijos, asi como proteger su hogar mientras están en el trabajo o de vacaciones. GuardianIQ se esfuerza por brindar accesibilidad y aceptación a los padres para estas nuevas tecnologías, permitiéndoles una manera efectiva de proteger a sus hijos y hogares. La aplicación proporciona tranquilidad a los padres al brindarles este servicio.
 
 
