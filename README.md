@@ -650,9 +650,17 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 ## [**4.1. Style Guidelines.**](#style-guidelines)
 
 ### [**4.1.1. General Style Guidelines.**](#style-guidelines)
+Colores:
+![Paleta](images/Paleta.jpg)
+Tipografia:
+El tipo de fuente que se va a utilizar para los títulos con tamaño de letra 50 es Popping con un grosor Bold, subtítulos con tamaño 40 es Poppins con grosor Semibold.
 
 ### [**4.1.2. Web Style Guidelines.**](#web-style-guidelines)
-
+Colores:
+La paleta de colores seria la misma que para el general.
+![Paleta](images/Paleta.jpg)
+Tipografia:
+La tipografía de esto, aparte de la  tipografia general, utilizariamos un texto de Poppins por la forma del texto que se podria usar para el nombre de productos o asi, como este sería para nombres de productos. Llevaria un tamaño de 34 y luego un Sanchez para la descripción de algun producto. Al ser un texto para descripciones, el tamaño seria de 28.
 ## [**4.2. Information Architecture.**](#information-architecture)
 
 ### [**4.2.1. Organization Systems.**](#organization-systems)
