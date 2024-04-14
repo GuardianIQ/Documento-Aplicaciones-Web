@@ -935,7 +935,7 @@ La rama **feature** es la rama de características de nuestro proyecto, que cont
 
 La rama de **release** es donde se lleva a cabo una revisión exhaustiva de todos los cambios realizados y se analiza el proyecto en su totalidad. Una vez que se ha completado esta revisión y, en caso de no encontrar errores, los cambios se fusionarán con la rama principal (main).
 
-### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
+
 
 ### [5.1.3. Source Code Style Guide \& Conventions.](#source-code-style-guide--conventions)
 
