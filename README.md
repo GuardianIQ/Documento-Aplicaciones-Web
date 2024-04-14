@@ -1033,4 +1033,6 @@ Este primer Sprint solo trata la implementación del landing page, por lo que no
 
 #### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
+Durante este Sprint (Sprint 1), logramos desarrollar el landing page de GuardianIQ. Su propósito principal es atraer a potenciales clientes y mostrar la esencia de nuestro servicio. Respecto al Main de la landing page, optamos por utilizar Vercel para su despliegue. Aunque la página web aún no está completamente terminada, ya que faltan implementar redireccionamientos para mejorar la interacción con nuestros usuarios, consideramos que el progreso actual de nuestra landing page cumple con el requisito principal de transmitir nuestro servicio de forma clara y estilizada.
+
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
