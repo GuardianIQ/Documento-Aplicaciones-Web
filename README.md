@@ -1029,6 +1029,8 @@ sección de "Testing" se enfocó en la implementación de las necesidades de los
 
 #### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 
+Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
+
 #### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
 #### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
