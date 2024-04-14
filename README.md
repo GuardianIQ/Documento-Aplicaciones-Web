@@ -484,23 +484,23 @@ Texto
 
 **Entrevistado N°1:** ---------------
 
-**- Sexo:** ------
+- **Sexo:** Masculino
 
-**- Edad:** ------
+- **Edad:** 22
 
-**- Ubicación en la que vive:** --------------
+- **Ubicación en la que vive:** Surco
 
 **Acerca de la entrevista:**
 
-**- Link:** ------------------
+- **Link:** [https://youtu.be/q4J2Ti0qqO4](https://youtu.be/q4J2Ti0qqO4)
 
-**- Instante en el que inicia:** ----------
+- **Instante en el que inicia:** ----------
 
-**- Duración:** --------
+- **Duración:** 3:30
 
 **Resumen:**
 
-Texto
+La persona entrevistada se muestra muy preocupada en el hogar por su hija, puesto que tiene que salir muchas veces para trabajar. Consideró colocar cámaras de vigilancia para saber que cosas hace la niña o si le pasa algo. Nos cuenta que es complicado estar al tanto de todo lo que hace la niña porque es muy traviesa y que una vez cuando contrató una niñera, no se dió cuenta y su hija se cayó de su cama. Además, considera que tener alguna alarma que le avise cuando hay una situación de riesgo. Y las cámaras es lo que más le interesa comprar para la seguridad se hogar.
 
 
 **Entrevistado N°2:** ---------------
