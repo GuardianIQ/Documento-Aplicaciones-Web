@@ -763,6 +763,36 @@ URL del repositorio del Reporte Final: https://github.com/GuardianIQ/Documento-A
 
 ### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
 
+### [5.1.3. Source Code Style Guide \& Conventions.](#source-code-style-guide--conventions)
+
+En esta sección, se establece y documenta la guía de estilo y las convenciones de codificación que deben seguirse en el proyecto.Estas convenciones se aplicarán a los diversos lenguajes utilizdos como HTML,CSS y Gherkin.Se prefiere que toda la nomenclatura y la documentación se realicen en inglés.
+
+### HTML
+- Se debe cerrar cada elemento HTML adecuadamente.
+- Utilizar minúsculas para los nombres de elementos y atributos.
+- Emplear comillas alrededor de los valores de los atributos, especialmente cuando incluyan espacios.
+- Especificar el texto alt y las dimensiones width y height para todas las imágenes.
+- Separar cada apartado comentando la estructura de cada sección
+
+### CSS
+- Utilizar nombres de clases descriptivos y breves.
+- Separar declaraciones y selectores en nuevas líneas para mejorar la legibilidad.
+- Utilizar nombres de variables distintos para diferenciarlas de otros componentes estilizados.
+
+### Gherkin
+- Utilizar los bloques Given, When, y Then para estructurar los escenarios.
+- Separar escenarios con dos líneas en blanco.
+- Utilizar palabras clave significativas y descriptivas.
+- Usar saltos de línea para mejorar la legibilidad y agrupar información.
+
+### [5.1.4. Software Deployment Configuration.](#software-deployment-configuration)
+
+En este trabajo utilizaremos Git y Github
+
+**Git**: Git es un sistema de control de versiones distribuido muy utilizado en el desarrollo de software, concebido por Linus Torvalds en 2005. Ha evolucionado hasta convertirse en una herramienta esencial para la colaboración y el seguimiento de cambios en proyectos, tanto de código abierto como privados. Una de sus ventajas principales radica en su capacidad para registrar los cambios en los archivos de un proyecto a lo largo del tiempo. Los desarrolladores pueden crear ramas, realizar modificaciones en estas y fusionarlas de manera eficiente, permitiendo así el trabajo simultáneo en diferentes aspectos del proyecto sin interferencias.
+
+El modelo distribuido de Git garantiza que cada desarrollador tenga una copia completa del repositorio, incluyendo su historial de cambios, lo que otorga flexibilidad y seguridad. Los cambios pueden compartirse y sincronizarse a través de repositorios remotos como GitHub, facilitando la colaboración en equipo. Además, Git proporciona una serie de características y comandos que simplifican la gestión de versiones, como la creación de ramas para nuevas funcionalidades o correcciones de errores sin afectar la rama principal, así como la capacidad de revertir cambios y rastrear versiones anteriores.
+
 ### [**5.1.4. Software Deployment Configuration.**](#software-deployment-configuration)
 
 ## [**5.2. Landing Page, Services & Applications Implementation.**](#landing-page-services--applications-implementation)
