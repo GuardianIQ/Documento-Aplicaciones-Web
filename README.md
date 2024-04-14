@@ -354,6 +354,10 @@ Creemos que al implementar planes de servicio con diferentes rangos de precios e
 
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 
+![LpW1](images/leanuxcanva1.png)
+
+[https://miro.com/app/board/uXjVKU1mM2Y=/?share_link_id=551111949405](https://miro.com/app/board/uXjVKU1mM2Y=/?share_link_id=551111949405)
+
 ### [**1.2.3. Segmentos objetivo.**](#segmentos-objetivo)
 
 **Segmento de Adultos Independientes:**
