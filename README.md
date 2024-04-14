@@ -341,9 +341,29 @@ GuardianIQ debe presentarse como una solución integral y confiable para la segu
 
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
 
+###### Hypothesis 01
+
+Creemos que al desarrollar la aplicación GuardianIQ con una interfaz interactiva, fácil de usar y un tutorial de inicio, mejorará la experiencia del usuario y su satisfacción. Consideraremos que hemos tenido éxito cuando al menos el 80% de los usuarios emitan comentarios positivos sobre la interfaz en la tienda de descargas, además de alcanzar un promedio de calificación de 4.5 estrellas en la App Store/Play Store.
+###### Hypothesis 02
+
+Creemos que al vincular las notificaciones clave con el dispositivo móvil del cliente en GuardianIQ, permitirá un mejor seguimiento del hogar y una notificación inmediata en caso de que el personal  detecte movimientos o comportamientos extraños en la localización. Consideraremos que hemos tenido éxito cuando observamos un aumento del 45% en el seguimiento de los hogares por parte de los clientes al detectarse una actividad inusual.
+
+###### Hypothesis 03
+Creemos que al implementar planes de servicio con diferentes rangos de precios en GuardianIQ, aumentaremos el acceso a más hogares. Consideraremos que hemos tenido éxito cuando observemos un incremento del 15% en el número de familias que eligen nuestro producto debido a la variedad de precios que se ajustan a sus necesidades y posibilidades.
+
+
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
 
 ### [**1.2.3. Segmentos objetivo.**](#segmentos-objetivo)
+
+**Segmento de Adultos Independientes:**
+
+GuardianIQ se enfoca en adultos independientes, ya sea que vivan solos o compartan su hogar con compañeros de cuarto. Este grupo demográfico tiende a tener ingresos estables y llevar un estilo de vida activo fuera de casa. Priorizando la seguridad de su hogar, buscan soluciones prácticas y efectivas para proteger sus propiedades y pertenencias mientras están fuera. GuardianIQ ofrece una solución facilitando la instalación de dispositivos IOT, y su monitoreo constante en tiempo real, asi como notificaciones en caso de intrusión.
+
+
+**Segmento de Padres de Familia:**
+GuardianIQ también está diseñado para padres de familia que tienen hijos pequeños o adolescentes en casa y que dan prioridad a la seguridad de su hogar y de su familia. Estas personas buscan soluciones de seguridad integrales que les permitan tener bajo vigilancia y resguardo a sus hijos, asi como proteger su hogar mientras están en el trabajo o de vacaciones. GuardianIQ se esfuerza por brindar accesibilidad y aceptación a los padres para estas nuevas tecnologías, permitiéndoles una manera efectiva de proteger a sus hijos y hogares. La aplicación proporciona tranquilidad a los padres al brindarles este servicio.
+
 
 # [**Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation--analysis)
 
