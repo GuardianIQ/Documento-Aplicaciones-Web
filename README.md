@@ -742,6 +742,8 @@ La funcionalidad de búsqueda se ha mejorado para que los usuarios puedan encont
 **Project Management:**
 
 * _Trello_:  Es una plataforma de gestión de proyectos que facilita la colaboración en tiempo real, la organización de tareas. En nuestra StarUp, GuardianIQ, empleamos Trello para coordinar y supervisar el avance de nuestros proyectos, asignar responsabilidades a los miembros del equipo y mantenernos organizados en todo momento. Gracias a la interfaz amigable y las opciones de personalización de Trello, podemos adaptar la herramienta según nuestras necesidades específicas y asegurar una gestión eficiente de nuestros proyectos.
+  ![LogoUpc](images/trelloLogo.jpg)
+  
   **Requirements Management**
 
 * _Miro_: Miro es una herramienta de colaboración en línea que permite a los equipos trabajar de forma conjunta en la creación de diagramas, mapas mentales, prototipos y otros tipos de contenido visual. Utilizamos Miro para realizar sesiones de lluvia de ideas, diseñar flujos de trabajo y diagramas de arquitectura para nuestro proyecto. La funcionalidad de colaboración en tiempo real de Miro nos permite trabajar de forma conjunta en la creación y edición de contenido visual, lo que facilita la comunicación y la toma de decisiones en el equipo. https://miro.com/
