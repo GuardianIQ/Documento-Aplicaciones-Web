@@ -305,6 +305,40 @@ Existe una brecha de confianza entre nuestros usuarios y el servicio de vigilanc
 
 #### [**1.2.2.2. Lean UX Assumptions.**](#lean-ux-assumptions)
 
+**Business assumptions:
+
+Se asume que los usuarios están dispuestos a pagar por un servicio de vigilancia remota de sus cámaras de seguridad debido a su preocupación por la seguridad de sus hogares y propiedades.
+
+Se asume que los usuarios prefieren un servicio de vigilancia remota ofrecido por profesionales capacitados en lugar de depender únicamente de sistemas de seguridad automatizados.
+
+Se asume que los usuarios valoran la conveniencia y la tranquilidad que ofrece un servicio de vigilancia remota, lo que les permite monitorear sus hogares incluso cuando están ausentes.
+
+Se asume que la privacidad y la protección de los datos son preocupaciones principales para los usuarios al utilizar un servicio de vigilancia remota, y están dispuestos a confiar en nuestra empresa para salvaguardar esta información de manera adecuada.
+
+**User Assumptions:**
+
+###### ¿Quién es el usuario? 
+
+El usuario de GuardianIQ son personas independientes y padres de familia
+¿Dónde encaja nuestro producto en su trabajo o vida?
+Encaja en la vida diaria y en el trabajo de nuestros usuarios ya que al tener una aplicación conectada a su hogar pueden estar pendientes de su hogar sin importar donde estén en el gimnasio, de compras, con sus hijos, en el trabajo. SecureIA permite esa facilidad de monitoreo. 
+
+###### ¿Qué problemas tiene nuestro producto? ¿Resolver? 
+
+GuardianIQ puede enfrentar desafíos en la configuración inicial asi como la preocupación sobre la privacidad y la confiabilidad del servicio de vigilancia remota de cámaras o personal de seguridad. 
+
+###### ¿Cuándo y cómo es nuestro producto? ¿Usado? 
+
+GuardianIQ se utiliza tanto durante el día como durante la noche, ya que la delincuencia puede ocurrir en cualquier momento. 
+
+###### ¿Qué características son importantes? 
+
+Una interfaz donde el usuario pueda adquirir los servicios de vigilancia remota de cámaras por parte de profesionales capacitados, asesoramiento en dispositivos IoT para mejorar la seguridad del hogar, y una respuesta rápida ante emergencias. Además, la contratación de personal de seguridad presencial puede ser una opción para aquellos que buscan una protección adicional.
+
+###### ¿Cómo debe verse nuestro producto y cómo comportarse?
+
+GuardianIQ debe presentarse como una solución integral y confiable para la seguridad en zonas urbanas. La interfaz de usuario debe ser intuitiva y fácil de usar, y el servicio debe comportarse de manera confiable y eficiente, brindando a los usuarios la tranquilidad y la protección que necesitan en un entorno urbano desafiante.
+
 #### [**1.2.2.3. Lean UX Hypothesis Statements.**](#lean-ux-hypothesis-statements)
 
 #### [**1.2.2.4. Lean UX Canvas.**](#lean-ux-canvas)
