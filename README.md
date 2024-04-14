@@ -613,6 +613,27 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 ### [**2.3.5. As-is Scenario Mapping**](as-is-scenario-mapping)
 
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
+-Startup : Empresa de reciente creación, generalmente con un modelo de negocio innovador y escalable. Estas compañías suelen estar en una etapa inicial de desarrollo y crecimiento, con el objetivo de resolver un problema específico en el mercado de manera novedosa y rentable.
+-Usuario/User : Persona, entidad o sistema que interactúa con un sistema informático, una plataforma en línea, un dispositivo electrónico o cualquier otro servicio o producto.
+-Business assumptions: Supuestos fundamentales sobre cómo funcionará el negocio en términos de modelo de ingresos, estructura de costos, canales de distribución, relaciones con los clientes u otros aspectos empresariales
+-User Assumptions: Estos son supuestos sobre las necesidades, deseos, comportamientos y preferencias de los usuarios finales o clientes del producto o servicio.
+-Interfaz: Forma en que los usuarios interactúan con un sistema o dispositivo
+-Dispositivos IoT: Objetos físicos que están conectados a internet y que están diseñados para recopilar y compartir datos a través de esta conexión.
+-Hypothesis: Explicación propuesta o suposición sobre un fenómeno u observación que puede ser probada mediante experimentación o una mayor observación.
+-App Store/Play Store: Plataformas de distribución digital de aplicaciones móviles para dispositivos iOS y Android, respectivamente. 
+-Marketing: Proceso de planificar y ejecutar estrategias para promocionar y vender productos o servicios. 
+-Segmento Objetivo: Se refiere a un grupo específico de consumidores o clientes hacia los cuales una empresa dirige sus esfuerzos de marketing y ventas. También se le conoce como público objetivo.
+-URL: Es una cadena de caracteres que se utiliza para identificar de manera única la ubicación de un recurso en internet.
+-SEO Tags: Elementos específicos de un sitio web que se utilizan para optimizar su visibilidad en los motores de búsqueda como Google.
+-Meta Tags: elementos HTML que proporcionan información sobre una página web a los navegadores web y a otros programas que la procesan.
+-HTML: lenguaje básico que se utiliza para crear el contenido y la estructura de las páginas web.
+-Headers: Elementos HTML utilizados para definir títulos y subtítulos en una página web.
+-Keywords: Palabras clave son términos o frases específicas que describen el contenido de una página web.
+-Landing Page: Página web diseñada específicamente para convertir a los visitantes en clientes potenciales o en clientes finales.
+-Main: Referido al contenido o rama principal de un documento o página web.
+-Alt: Se utiliza en HTML para proporcionar un texto alternativo que describe el contenido de un elemento. 
+-Width: Se utiliza en HTML para especificar el ancho de un elemento.
+-Height: Se utiliza en HTML para especificar la altura de un elemento.
 
 # [**Capítulo III: Requirements Specification.**](#capítulo-iii-requirements-specification)
 
