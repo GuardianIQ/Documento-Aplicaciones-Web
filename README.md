@@ -176,21 +176,29 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 ## [**1.1  Startup Profile.**](#startup-profile)
    
-En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+Coritech, una iniciativa nacida de un grupo de estudiantes de la Universidad Peruana de Ciencias Aplicadas, se centra en ofrecer una solución innovadora para las necesidades de seguridad de individuos y familias en el Perú. Con un enfoque claro en conectar a usuarios con servicios de vigilancia de cámaras de seguridad y personal de seguridad para eventos o vigilancia en sitio, Coritech, se posiciona como un puente seguro y confiable entre aquellos que buscan proteger sus propiedades y eventos importantes y aquellos que están capacitados para brindar esos servicios. Según datos del Instituto Nacional de Estadística e Informática (INEI) del Perú, el 62% de los hogares en áreas urbanas del país tienen algún tipo de sistema de seguridad instalado (INEI, 2022). Nuestra plataforma se destaca por su riguroso proceso de selección, garantizando que solo los profesionales de seguridad más calificados y confiables estén disponibles para nuestros usuarios. En un contexto donde la seguridad es una preocupación creciente,Coritech prioriza la seguridad y la privacidad de nuestros clientes, implementando medidas sólidas de seguridad de datos y protección de la privacidad. Nuestro compromiso es proporcionar acceso fácil y confiable a servicios de seguridad de alta calidad para individuos, familias y organizadores de eventos, contribuyendo así a la seguridad y tranquilidad de nuestra comunidad.
 
 ### [**1.1.1. Descripción del startup.**](#descripción-de-la-startup)
    
-   
-   
-   **Misión:** 
-   
-   **Visión:** 
+Somos una startup que se enfoca en el desarrollo de una plataforma en línea que conecta a individuos y familias con profesionales calificados en seguridad en el Perú. Ofrecemos soluciones confiables y accesibles para satisfacer las necesidades de seguridad de nuestros usuarios, priorizando la excelencia en el servicio y la tranquilidad de nuestras comunidades.
+
+Nuestro enfoque se centra en proporcionar soluciones de seguridad accesibles, confiables e innovadoras para satisfacer las necesidades específicas de nuestros usuarios. Nos comprometemos a ofrecer:
+
+**Visión**:
+Ser la plataforma líder en el Perú que brinda acceso confiable y conveniente a servicios de seguridad de alta calidad, mejorando la tranquilidad y protección de las personas, familias y comunidades.
+
+
+**Misión**:
+En Coritech, nos comprometemos a proporcionar una solución innovadora y accesible para las necesidades de seguridad de nuestros usuarios, conectando de manera eficiente a individuos y familias con profesionales calificados en el campo de la seguridad. Nos esforzamos por garantizar la excelencia en nuestros servicios, priorizando la seguridad, la privacidad y la satisfacción del cliente en todo momento. A través de nuestra plataforma, buscamos contribuir de manera significativa a la seguridad y bienestar de nuestra sociedad.
+
+
+**Valores**: En Coritech, nuestros valores son la confianza, la seguridad, la excelencia, la innovación y la accesibilidad. Nos comprometemos a construir relaciones sólidas y seguras con nuestros usuarios y profesionales de seguridad, priorizando la protección y el bienestar en cada interacción
    
    **Logotipo de la Startup:**
-
-   
+![LpW1](images/logostartup.png)
 
    **Logotipo del servicio**
+![LpW1](images/image.png)
 
   
  ### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-integrantes-del-equipo)
