@@ -213,50 +213,93 @@ En Coritech, nos comprometemos a proporcionar una solución innovadora y accesib
 
 ## [**1.2. Solution Profile.**](#solution-profile)
 
+GuardianIQ es una plataforma digital innovadora que ofrece soluciones integrales de seguridad para individuos y familias en el Perú. Nuestra plataforma conecta a usuarios con necesidades de seguridad, como vigilancia de cámaras y personal de seguridad para eventos, con profesionales calificados en el campo de la seguridad. Nos destacamos por nuestra accesibilidad, confiabilidad y enfoque centrado en el usuario.
+
 ### [**1.2.1. Antecedentes y Problemática.**](#antecedentes-y-problemática)
+
+Según datos del Instituto Nacional de Estadística e Informática (INEI), durante los primeros seis meses del año 2022, se reportaron cifras preocupantes sobre la seguridad en zonas urbanas de Perú. Estas cifras revelan que aproximadamente el 10,1% de las viviendas fueron objeto de robos o intentos de robo. Estas estadísticas ponen de relieve la gravedad del problema de seguridad que enfrentan muchas comunidades urbanas en el país. El hecho de que más del 10% de las viviendas en estas áreas hayan sido afectadas por robos o intentos de robo en tan corto periodo de tiempo subraya la necesidad de abordar este problema de manera integral y eficaz.
+
+![LpW1](images/imagen_tasavictimas.png)
 
 ##### What (Qué)
 
+El problema es la alta tasa de delincuencia en las áreas urbanas de Perú.
+
 ###### ¿Cuál es el problema?
 
+La relación del usuario con el problema es directa ya que la persona en cuestión busca proteger sus propiedades, eventos importantes o bienestar personal y familiar. Esta persona busca una herramienta que le permita mitigar el riesgo a ser víctima de robos y proteger a sus seres queridos.
 
 ##### When (Cuando)
 
+La delincuencia en el sector urbano puede ocurrir en cualquier momento, ya que los delincuentes pueden aprovechar oportunidades cuando las viviendas están desocupadas o no hay una seguridad eficaz
+
 ###### ¿Cuándo sucede el problema?
 
+El problema surge cuando las personas enfrentan situaciones de riesgo o inseguridad, o cuando tienen preocupación o buscan prevenir y proteger a ellos mismos o seres queridos. Por ejemplo, la necesidad de proteger sus propiedades en ausencia.
 
+###### ¿Cuándo utiliza el cliente el producto? 
+
+El problema surge cuando las personas enfrentan situaciones de riesgo o inseguridad, o cuando tienen preocupación o buscan prevenir y proteger a ellos mismos o seres queridos. Por ejemplo, la necesidad de proteger sus propiedades en ausencia.
 
 ##### Where (Donde)
+
+##### ¿Dónde está el cliente cuando usa el producto?
+El cliente utiliza el producto desde su ubicación física, que puede ser su hogar o cualquier otro lugar, accediendo a la aplicación a través de dispositivos electrónicos como teléfonos móviles, tabletas o computadoras, utilizando internet para la conexión y funcionamiento del sistema.
+
 ###### ¿A dónde se dirige?
 
+El cliente puede utilizar la aplicación desde la comodidad de su hogar o incluso cuando está fuera de casa, mediante distintos dispositivos electrónicos.
 
 ###### ¿Dónde surge el problema?
 
+El problema puede surgir en cualquier área urbana de Perú. Estos delitos pueden ocurrir en diversos vecindarios y localidades, ya sea en zonas residenciales, comerciales o mixtas, y pueden afectar tanto a propiedades individuales como a complejos de viviendas.
 
 ##### Who (Quién)
 ###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
 
+Personas que desean proteger sus residencias de manera efectiva contra intrusiones y otros eventos no deseados.
+
+###### ¿A quiénes le sucede el problema? 
+
+Este problema le puede suceder a: propietarios de viviendas e inquilinos, entre estas quienes pueden ser familias o personas independientes.
+
+###### ¿Quién lo utilizará? 
+
+La aplicación está destinada para ser utilizada por familias y adultos independientes.
 
 ##### Why (Por qué)
 ###### ¿Cuál es la causa del problema?
 
+La causa del problema es el aumento de la delincuencia en el país lo que genera una percepción de inseguridad.
 
 ### ¿Cuáles son las 2H?
 
 ##### How (Cómo)
-###### ¿Cómo se utilizará el producto?
+###### ¿En qué condiciones los clientes usan nuestro producto? 
+Los clientes utilizan GuardianIQ siempre que desean supervisar y asegurar su hogar, independientemente de la hora del día o de su ubicación, para mantener un control constante y obtener una mayor tranquilidad en relación con la seguridad de su residencia.
 
-###### ¿Cómo lograremos desarrollar la correcta gestión del proceso de carpooling entre estudiantes?
+###### ¿Qué llevará a la persona a usar nuestro producto?
 
-##### How much (Cuánto)
-###### ¿Cuál es la magnitud del problema?
+Las personas utilizarán GuardianIQ principalmente por su necesidad de contar con seguridad para proteger su hogar o seres queridos.
 
-###### Quienes seran los beneficiados por el servicio?
+###### ¿Cuál sería el impacto al implementar esta aplicación?
 
-
+La implementación del servicio de vigilancia de GuardianIQ ofrecería a los usuarios una protección personalizada y efectiva para sus hogares, brindándoles una mayor seguridad y tranquilidad en su vida diaria.
 
 ### [**1.2.2. Lean UX Process.**](#lean-ux-process)
 #### [**1.2.2.1. Lean UX Problem Statements.**](#lean-ux-problem-statements)
+
+**Problema 1:**
+
+Los usuarios encuentran difícil configurar y utilizar nuestra aplicación de monitoreo de cámaras debido a la falta de orientación y diseño intuitivo, lo que resulta en una experiencia de usuario confusa y frustrante.
+
+**Problema 2:**
+
+Los clientes experimentan una desconexión entre la detección de amenazas en sus cámaras de seguridad y la acción adecuada a tomar, lo que resulta en una respuesta lenta o inadecuada ante situaciones de emergencia.
+
+**Problema 3:**
+
+Existe una brecha de confianza entre nuestros usuarios y el servicio de vigilancia remota, debido a preocupaciones sobre la privacidad de sus datos y la capacidad de los vigilantes para proteger adecuadamente sus hogares y propiedades.
    
 ###### Problem Statement:
 
