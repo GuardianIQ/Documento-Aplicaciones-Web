@@ -823,6 +823,9 @@ URL del repositorio del Reporte Final: https://github.com/GuardianIQ/Documento-A
 
 **Implementacion de Gitflow**
 
+![GitFlow](images/GitFlowDiagram.png)
+
+
 ### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
 
 ### [5.1.3. Source Code Style Guide \& Conventions.](#source-code-style-guide--conventions)
