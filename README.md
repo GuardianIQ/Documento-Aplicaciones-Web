@@ -635,8 +635,19 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 ## [**4.2. Information Architecture.**](#information-architecture)
 
 ### [**4.2.1. Organization Systems.**](#organization-systems)
+En los sistemas de organización de la aplicación, nos basamos en la estructura visual  del contenido para garantizar una experiencia intuitiva para el usuario. En este caso usaremos la organización  jerárquica, por la facilidad que le da al usuario para comprender mejor la página:
+En la página principal tendremos barras desplegables que contiene las secciones principales de la página web donde se podrá acceder a ellas desde ahí. Esta funcionalidad garantiza una navegación fluida y eficiente para el usuario y mostramos la información relevante de forma directa.
+La página principal contiene una pequeña descripción sobre el propósito de la página y cómo mejoraremos la seguridad de su hogar. Esto proporciona un contexto relevante y ayuda a los usuarios a comprender de manera clara los beneficios que ofrece nuestra plataforma.
 
 ### [**4.2.2. Labeling Systems.**](#labeling-systems)
+Para establecer un sistema de etiquetado eficiente en nuestra aplicación usamos un lenguaje formal para que nuestros nuevos usuarios puedan identificar facilmente estas etiquetas. Además, hemos realizado un exhaustivo análisis de la funcionalidad y los aspectos clave de la plataforma. A través de este proceso, hemos identificado las siguientes etiquetas esenciales:
+
+| Etiquetas                | Descripción |
+| ---                        | --- |
+|  Perfil del usuario               | Esta etiqueta mostrará a los usuarios  sus datos personales, así como información relevante sobre la seguridad de sus hogares en tiempo real. |
+| Alertas de Seguridad                | Esta categoría agrupará los registros y notificaciones relacionados con alertas de seguridad, como detección de movimiento, intrusiones o incidentes capturados por las cámaras y sensores. |
+| Configuración                | Aquí los usuarios podrán ajustar las preferencias de notificación, configurar dispositivos, establecer horarios de activación y personalizar la aplicación según sus necesidades. |
+|  Ayuda                | Esta etiqueta proporcionará acceso a recursos de asistencia técnica, preguntas frecuentes y la posibilidad de contactar con el soporte de la aplicación en caso de dudas o problemas. |
 
 ### [**4.2.3. SEO Tags and Meta Tags.**](#seo-tags-and-meta-tags)
  Los SEO Tags y los Meta Tags nos ayudarán en el motor de búsqueda para que futuros usuarios puedan encontrar nuestra aplicación web de una manera más sencilla. Los SEO Tags y Meta tags de nuestra aplicación son los siguientes:
