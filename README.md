@@ -598,6 +598,10 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 
 ### [**5.1.1. Software Development Environment Configuration.**](#software-development-environment-configuration)
 
+**Project Management:**
+
+* _Trello_:  Es una plataforma de gestión de proyectos que facilita la colaboración en tiempo real, la organización de tareas. En nuestra StarUp, GuardianIQ, empleamos Trello para coordinar y supervisar el avance de nuestros proyectos, asignar responsabilidades a los miembros del equipo y mantenernos organizados en todo momento. Gracias a la interfaz amigable y las opciones de personalización de Trello, podemos adaptar la herramienta según nuestras necesidades específicas y asegurar una gestión eficiente de nuestros proyectos. 
+
 ### [**5.1.2. Source Code Management.**](#source-code-management)
 
 ### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
