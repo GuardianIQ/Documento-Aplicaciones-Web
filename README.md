@@ -639,8 +639,23 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 ### [**4.2.2. Labeling Systems.**](#labeling-systems)
 
 ### [**4.2.3. SEO Tags and Meta Tags.**](#seo-tags-and-meta-tags)
+ Los SEO Tags y los Meta Tags nos ayudarán en el motor de búsqueda para que futuros usuarios puedan encontrar nuestra aplicación web de una manera más sencilla. Los SEO Tags y Meta tags de nuestra aplicación son los siguientes:
+ 
+| Términos                 | Elementos | Descripción |
+| ---                         | --- | --- |
+|  SEO Tags                | Headers | Las principales etiquetas de encabezado del Html de nuestra página contendrán la información más importante de nuestra aplicación, conteniendo el nombre, descripción y funcionalidades de nuestra aplicación web |
+| SEO Tags                 | Url | Emplearemos una Url amigable, sin caracteres extraños para su fácil búsqueda. La url a emplear será simple: www.guardianiq.com |
+| Meta Tags                 | Meta Title | Define el título de la página y que aparecerá en la barra de título del navegador. Y usaremos el nombre de nuestra página: GuardianIQ |
+| Meta Tags                 | Meta Description | Proporciona una breve descripción de la página que se muestra en los resultados de búsqueda. La descripción es: “Somos una aplicación web que protegerá tu hogar y a los que forman parte de ella” |
+| Meta Tags                 | Meta Keywords | Importantes para indicar las palabras clave de la página. Las palabras clave serán: Búsqueda, Inicio, Configuracion, Mi Perfil, Ayuda. |
 
 ### [**4.2.4. Searching Systems.**](#searching-systems)
+Se implementa un sistema de búsqueda para evitar que los usuarios se sientan perdidos con el volumen de información. Los sistemas de busqueda que se usarán son:
+| Sistemas de Búsqueda                | Descripción |
+| ---                        | --- |
+|  Tablas y listas               | Será un estándar de organización dentro de una vista de usuario, debido a que proporcionará información general y organizada, para detallar los distintos componentes de nuestra vistas. |
+| Barra de búsqueda                | Estos servirán para ayudar al usuario a encontrar los elementos de interés. La barra de búsqueda se hará presente en la búsqueda de algun tipo de producto que quieran comprar y de alguna duda que tenga. De esta manera, los usuarios podrán buscar sus intereses más rápido y eficientemente. |
+| Inicio estático                | Es el complemento perfecto por si el usuario se siente confundido dentro del flujo de la aplicación. De este modo, el usuario puede regresar de nuevo al punto de inicio cuando lo necesite. |
 
 ### [**4.2.5. Navigation Systems.**](#navigation-systems)
 Esta parte de la aplicación se enfoca en guiar a los usuarios de manera efectiva mientras navegan por la plataforma y utilizan sus numerosas funcionalidades:
