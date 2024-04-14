@@ -898,6 +898,11 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | Asistentes a la reunión                      |   Astrid Jimena Boronda Heidinger
 #### [5.2.1.2. Sprint Backlog 1.](#sprint-backlog-1)
 
+En el primer sprint, el equipo se organizo con la herramienta trello, esta herramienta nos facilito realizar las asignaciones de tareas con sus respectivas fechas limites.
+
+![Sprint1](images/sprinttrello.png)
+
+
 | id   | Title                 | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To        | Status(To-do /InProcess/ToReview/Done) |
 | ---- |-----------------------| --- |----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------|--------------------|---------------------------------------|
 | GW01 | Apartado del Header   | G01 | Header responsivos (Desarrollado en HTML y CSS).         | Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3                  | Ely Cortez      | Done                                  |
