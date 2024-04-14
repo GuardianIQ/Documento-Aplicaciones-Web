@@ -394,6 +394,10 @@ GuardianIQ también está diseñado para padres de familia que tienen hijos pequ
 ### [**2.1.2. Estrategias y tácticas frente a competidores.**](#estrategias-y-tácticas-frente-a-competidores)
 
 ## [**2.2. Entrevistas.**](entrevistas)
+
+
+
+
    
 ### [**2.2.1. Diseño de entrevistas.**](#diseño-de-entrevistas)
 
@@ -417,23 +421,19 @@ GuardianIQ también está diseñado para padres de familia que tienen hijos pequ
 
 - **Sexo:** Femenino
 
-- **Edad:** 19 años
+- **Edad:** 20 años
 
-- **Ubicación en la que vive:** 
+- **Ubicación en la que vive:** Surco 
 
 **Acerca de la entrevista:**
 
-- **Link:** ------------------
+- **Link:** [https://youtu.be/5lYou84k5dA](https://youtu.be/5lYou84k5dA)
 
-- **Instante en el que inicia:** ----------
+- **Duración:** 2:12
 
-- **Duración:** --------
+**Resumen:** 
 
-**Resumen:**
-
-Texto
-
-
+La persona entrevistada expresa una preocupación considerable por la seguridad en su hogar, especialmente porque vive en una zona roja de Santiago de Surco, donde los robos son comunes. Ha considerado medidas de seguridad como instalar cámaras dentro y fuera de su hogar para sentirse más seguro. Sus principales preocupaciones son sentirse vulnerable, solo y temer que alguien pueda invadir su espacio personal. Considera esencial en un sistema de seguridad la capacidad de monitorear su casa las 24 horas del día y ha investigado sistemas de seguridad basados en tecnología en el mercado. Estaría interesado en recibir notificaciones en tiempo real sobre la seguridad de su hogar y considera relevante la capacidad de personalización del sistema para adaptarse a sus necesidades. Aunque no había considerado invertir en un sistema de seguridad en el pasado, ahora está abierto a la idea, especialmente porque vive sola desde hace aproximadamente 6 meses.
 
 **Entrevistado N°2:** ---------------
 
