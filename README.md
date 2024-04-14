@@ -637,6 +637,13 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 * _GitHub_: GitHub es una plataforma en línea que permite a los equipos colaborar en el desarrollo de software, alojar repositorios de código y gestionar proyectos de forma eficiente. Utilizamos GitHub como nuestra plataforma de desarrollo de software para alojar el código fuente de nuestra aplicación web, realizar un seguimiento de los cambios en el código y gestionar las tareas y problemas del proyecto. La funcionalidad de control de versiones y colaboración de GitHub nos permite trabajar de forma conjunta en el desarrollo de software, lo que facilita la comunicación y la coordinación entre los miembros del equipo y garantiza la calidad y la integridad del código. https://github.com/
 
 ### [**5.1.2. Source Code Management.**](#source-code-management)
+|Integrantes| Cuenta de GitHub      |
+|----------|-----------------------|
+|Boronda Heidinger, Astrid Jimena|mathiasadrianohl@gmail.com|
+|Cortez Flores, Ely Rivaldo|U202215313@upc.edu.pe|
+|Hidalgo Lopez, Mathias Adriano|heidinger.baj.1419@gmail.com|
+|Lobato Pozo, Sebastian Valente|U202215312@upc.edu.pe|
+|Travezaño Patiño, Eduard Gedeon|u20211a789@upc.edu.pe|
 
 ### [**5.1.3. Source Code Style Guide & Conventions.**](#source-code-style-guide--conventions)
 
