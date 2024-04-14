@@ -643,6 +643,11 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 ### [**4.2.4. Searching Systems.**](#searching-systems)
 
 ### [**4.2.5. Navigation Systems.**](#navigation-systems)
+Esta parte de la aplicación se enfoca en guiar a los usuarios de manera efectiva mientras navegan por la plataforma y utilizan sus numerosas funcionalidades:
+
+Cuando los usuarios acceden a nuestra plataforma, encontraran una interfaz fácil de usar que les proporcionará acceso directo a todas las herramientas de seguridad disponibles. La aplicación cuenta con un diseño simple y amigable que permite a los usuarios explorar sus opciones de manera sencilla, incluso si no tienen experiencia técnica. Esto garantiza que incluso aquellos con menos conocimientos de tecnología puedan aprovechar al máximo las funciones avanzadas de nuestra aplicación.
+
+La funcionalidad de búsqueda se ha mejorado para que los usuarios puedan encontrar fácilmente la información relevante sobre su seguridad y la actividad de sus dispositivos conectados. Se usa la barra de navegación para poder realizar la búsqueda que quiera el usuario. Los resultados de la búsqueda se muestran de manera clara y precisa, lo que permite a los usuarios tomar decisiones informadas sobre la seguridad de sus hogares.
 
 ## [**4.3. Landing Page UI Design**](#landing-page-ui-design)
 
