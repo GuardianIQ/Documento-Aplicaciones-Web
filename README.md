@@ -77,17 +77,19 @@
 # Project Report Collaboration Insights
 URL del repositorio de GitHub de la organización: [https://github.com/GuardianIQ](https://github.com/GuardianIQ)
 
+
 ## TB1
 
 Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
 
 |Integrante|Actvidades Asignadas|
 |----------|----------|
-| | |
-| | |
-| | |
-| | |
-| | |
+|Ely Cortez |Capitulo 4: DataBase Diagram<br> Capitulo 5: Landing Page |
+|Sebastian Lobato |Capitulo 1 <br> Capitulo 5: Lnding Page <br> Capitulo 4: Class Diagram |
+|Astrid Boronda | |
+|Mathias Hidalgo |Capitulo 2 |
+|Eduard Travezaño | |
+
 
 # Studen Outcome
 
