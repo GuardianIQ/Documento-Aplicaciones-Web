@@ -611,11 +611,16 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 - Integración con dispositivos de seguridad.
 
 *Segmento #2:* 
--
--
--
--
--
+
+- Aplicación fácil de usar.
+
+- Vigilancia en tiempo real.
+
+- Integración de servicios de emergencia ante situaciones críticas.
+
+- Notificaciones de alerta.
+
+- Vigilancia constante de sus hijos.
 
 ### [**2.3.1. User Personas.**](#user-personas)
 
