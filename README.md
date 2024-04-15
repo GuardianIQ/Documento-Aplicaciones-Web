@@ -660,7 +660,7 @@ Segmento objetivo 2:
 ### [**2.3.5. As-is Scenario Mapping**](as-is-scenario-mapping)
 
 
-![AsIs](images/AsToDo.jgp)
+![Escenario](images/AsToDo.jpg)
 
 
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
