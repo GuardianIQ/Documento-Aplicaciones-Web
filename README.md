@@ -1432,9 +1432,21 @@ User Flow Contratar seguridad de vigilancia
 
 ### [**4.6.1. Software Architecture Context Diagram.**](#software-architecture-context-diagram)
 
+![DD1](images/struct11.png)
+
 ### [**4.6.2. Software Architecture Container Diagrams.**](#software-architecture-container-diagrams)
+![DD2](images/struct2.png)
 
 ### [**4.6.3. Software Architecture Components Diagrams.**](#software-architecture-components-diagrams)
+
+![DD3](images/struct3.png)
+
+![DD3](images/struct4.png)
+
+![DD3](images/struct5.png)
+
+![DD3](images/struct6.png)
+
 
 ## [**4.7. Software Object-Oriented Design**](#software-object-oriented-design)
 
