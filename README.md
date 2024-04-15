@@ -641,6 +641,15 @@ Segmento objetivo 2:
 
 ### [**2.3.4. Empathy Mapping**](#empathy-mapping)
 
+
+
+Segmento objetivo 1:
+
+
+![Empathy1](images/Empaty1.jpg)
+
+
+
 ### [**2.3.5. As-is Scenario Mapping**](as-is-scenario-mapping)
 
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
