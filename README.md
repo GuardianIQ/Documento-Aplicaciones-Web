@@ -552,29 +552,27 @@ De acuerdo con las entrevistas y resúmenes recopilados, hemos realizado el sigu
 
 Hallazgos:
 
-- 
+- La facilidad de instalación y el soporte técnico son aspectos cruciales para los adultos independientes, quienes desean garantizar que su sistema de seguridad funcione de manera eficiente en todo momento.
+
   
-- 
+- Están dispuestos a pagar por un servicio de monitoreo de seguridad en tiempo real que incluya la capacidad de alertar a la policía o servicios de emergencia en caso de una situación de seguridad.
+
   
-- 
-  
-- 
-  
-- 
+- Los adultos independientes muestran preocupacion por dejar sus viviendas solas y que algun ladron entre a robar sus pertenencias, sobre todo si es que viven en zonas donde la criminalidad es alta.
+ 
   
 Hallazgos:
 
 #### Segmento objetivo #2: 
 
-- 
+- Los padres de familia muestran una alta preocupación por la seguridad de sus hogares y propiedades, puesto a que no paran mucho tiempo en sus casas, lo que indica una demanda de una solución integral de seguridad.
+
+
+- Existe una fuerte preferencia por una aplicación fácil de usar que permita contratar a un seguridad del hogar para que pueda cuidar de los niños cuando los padres están fuera de casa.
+
   
-- 
-  
-- 
-  
-- 
-  
-- 
+- Los padres de familia valoran la posibilidad de personalizar su sistema de seguridad para adaptarlo a sus necesidades específicas, incluyendo la integración de cámaras de seguridad y alarmas.
+
   
 Conclusiones:
 
