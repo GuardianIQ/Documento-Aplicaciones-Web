@@ -240,7 +240,7 @@ trabajar de forma grupal.</td>
         proyecto a mayor profundidad, ahí estaré yo. Tengo conocimientos en c++ y 
         diseño web en html. Además que estoy dispuesta a tener la iniciativa al 
         iniciar el diálogo con los integrantes del grupo.</td>
-    <td><img src="images/fotoAstrid.png" alt="" width="100" height="100"></td>
+    <td><img src="images/fotoAstrid.png"</td>
   </tr>
   <tr>
       <td> </td>
