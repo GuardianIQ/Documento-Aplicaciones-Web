@@ -636,6 +636,9 @@ Segmento objetivo 2:
 
 ### [**2.3.2. User Task Matrix.**](#user-task-matrix)
 
+
+![UserTask](images/UserTaskMatrix.jpg)
+
 ### [**2.3.3. User Journey Mapping**](#user-journey-mapping)
 
 ### [**2.3.4. Empathy Mapping**](#empathy-mapping)
