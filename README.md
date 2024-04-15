@@ -557,13 +557,13 @@ La persona entrevistada se muestra muy preocupada en el hogar por su hija, puest
 En la entrevista se vio que la señora Norma, padre de familia, le preocupa su seguridad y la de sus hijos. Considera que su hogar no está seguro ante cualquier situación de robo e incluso las cerraduras de su casa no se encuentran en buen estado. No pensó en optar por contratar algún sistema de seguridad pero si busca mejorar la propia infraestructura del hogar para sentirse más segura.
 
 
-**Entrevistado N°3:**
+**Entrevistado N°3:** Edi Flores Torres
 
 - **Sexo:** Masculino
 
-- **Edad:** 35
+- **Edad:** 41 
 
-- **Ubicación en la que vive:** Comas
+- **Ubicación en la que vive:** Lurin
 
 **Acerca de la entrevista:**
 
