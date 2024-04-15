@@ -382,7 +382,7 @@ GuardianIQ también está diseñado para padres de familia que tienen hijos pequ
 
 ### [**2.1.1. Análisis competitivo.**](#análisis-competitivo)
 
-|Tipo | logo    |  nuestro logo | ![LogoAlliedUniversal](images/AlliedUniversal.png) | ![LogoCrisis24](images/Crisis24.png) | ![LogoADT](images/ADT.png) |
+|Tipo | logo    |  ![LpW1](images/image.png) | ![LogoAlliedUniversal](images/AlliedUniversal.png) | ![LogoCrisis24](images/Crisis24.png) | ![LogoADT](images/ADT.png) |
 |---------|---------|-------------|------------|--------------------|------------|
 |Perfil|Overview| falta | Plataforma | Plataforma | Plataforma |
 |Perfil|Ventaja competitiva ¿Qué valor ofrece a los clientes? | falta  | Allied Universal se destaca por su enfoque integrado de seguridad, que combina tecnología avanzada, personal altamente capacitado y servicios personalizados para satisfacer las necesidades específicas de cada cliente. | ADT ofrece una amplia gama de productos y servicios de seguridad, incluidos sistemas de monitoreo de alarmas, cámaras de videovigilancia y automatización del hogar, respaldados por su reputación de confiabilidad y experiencia en el sector. | GardaWorld Crisis24 se diferencia al proporcionar inteligencia de seguridad en tiempo real, análisis de riesgos y servicios de consultoría para empresas que operan en entornos complejos y cambiantes. |
