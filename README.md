@@ -492,26 +492,25 @@ La persona entrevistada expresa una preocupación considerable por la seguridad 
 Durante la entrevista, Marjorie Schlaefli, adulta independiente que vive con su hermana en un condominio, nos cuenta que al venir a Lima a estudiar ella priorizo junto a sus padres encontrar un lugar seguro para vivir. Mientras vivía en el condominio, existió un asalto a unos de los departamentos lo cual la hizo sentirse vulnerable pero se tomaron nuevas reglas para evitar este tipo de situaciones. Aun así, está dispuesto a optar por un sistema de seguridad de vigilancia por el exterior de su departamento que pueda alertar a las autoridades cuando sea necesario.
 
 
-**Entrevistado N°3:** ---------------
+**Entrevistado N°3:** Brissa Arakemi Hoyos Arevalo
 
-- **Sexo:** ------
+- **Sexo:** Femenino
 
-- **Edad:** ------
+- **Edad:** 24
 
-- **Ubicación en la que vive:** --------------
+- **Ubicación en la que vive:** Rimac-Lima
 
 **Acerca de la entrevista:**
 
-- **Link:** ------------------
+- **Link:** [https://drive.google.com/file/d/1VPTEqJD-JEr71Rl1TgcDw1K2pYY2mLVB/view?usp=sharing](https://drive.google.com/file/d/1VPTEqJD-JEr71Rl1TgcDw1K2pYY2mLVB/view?usp=sharing)
 
-- **Instante en el que inicia:** ----------
+- **Instante en el que inicia:** 0:01
 
-- **Duración:** --------
+- **Duración:** 5:08 
 
 **Resumen:**
 
-Texto
-
+Durante la entrevista, Brissa comenta que se siente insegura con respecto al lugar en el que vive y que a lo largo del tiempo vivio con el miedo de que alguien entre a su casa a robar sus pertenencias, y quisiera instalar un sistema de seguridad para que asi este tranquila de que no le roben sus cosas y que estaria dispuesta a comprarse uno.
 
 
 **Segmento objetivo #2: Padres de familia**
@@ -558,25 +557,26 @@ La persona entrevistada se muestra muy preocupada en el hogar por su hija, puest
 En la entrevista se vio que la señora Norma, padre de familia, le preocupa su seguridad y la de sus hijos. Considera que su hogar no está seguro ante cualquier situación de robo e incluso las cerraduras de su casa no se encuentran en buen estado. No pensó en optar por contratar algún sistema de seguridad pero si busca mejorar la propia infraestructura del hogar para sentirse más segura.
 
 
-**Entrevistado N°3:** ---------------
+**Entrevistado N°3:**
 
-**- Sexo:** ------
+- **Sexo:** Masculino
 
-**- Edad:** ------
+- **Edad:** 35
 
-**- Ubicación en la que vive:** --------------
+- **Ubicación en la que vive:** Comas
 
 **Acerca de la entrevista:**
 
-**- Link:** ------------------
+- **Link:** [https://www.youtube.com/watch?v=OjkSAar_gs0](https://www.youtube.com/watch?v=OjkSAar_gs0)
 
-**- Instante en el que inicia:** ----------
+- **Instante en el que inicia:** 0:00
 
-**- Duración:** --------
+- **Duración:** 5:30
 
 **Resumen:**
 
-Texto
+Durante la entrevista, el entrevistado responde las preguntas y comenta que quisiera implementar un sistema de seguridad y contratar a alguien para que cuide su casa, sobre todo por la proteccion de sus hijos en momentos en los que no se encuentra y por el alto indice de robos que existe en la zona en donde se encuentra viviendo actualmente.
+
 
 ### [**2.2.3. Análisis de entrevistas.**](#análisis-de-entrevistas)
 
