@@ -1658,8 +1658,8 @@ En el primer sprint, el equipo se organizo con la herramienta trello, esta herra
 | Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
 | landing-page | main          | 5e26fb5         | Update index.html        | -| Apr 15th, 2024, 3:09 PM         | 
-| landing-page | main       | aeb5ebe        | Update index.html | Apr 15th, 2024, 3:16 PM       |
-| landing-page | main       | 17f0dce        | Update index.html | Apr 15th, 2024, 3:21 PM       |
+| landing-page | main       | aeb5ebe        | Update index.html | -| Apr 15th, 2024, 3:16 PM       |
+| landing-page | main       | 17f0dce        | Update index.html | -| Apr 15th, 2024, 3:21 PM       |
 | landing-page ||         |         | -|                 |
 | landing-page |                    |              |                       | -|                |
 | landing-page |                    |                |                 | -|                |
