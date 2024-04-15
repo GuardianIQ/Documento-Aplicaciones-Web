@@ -734,6 +734,8 @@ Segmento objetivo 2:
 
 ## [**3.1. To-Be Scenario Mapping.**](#to-be-scenario-mapping)
 
+![Tobemaping](images/Tobemaping.jpg)
+
 ## [**3.2.User Stories.**](#user-stories)
 
 ## [**3.3. Impact Mapping.**](#impact-mapping)
