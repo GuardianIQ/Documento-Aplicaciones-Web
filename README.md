@@ -639,6 +639,10 @@ Segmento objetivo 2:
 
 ### [**2.3.3. User Journey Mapping**](#user-journey-mapping)
 
+
+![Mapadeusuario](images/123.jpg)
+
+
 ### [**2.3.4. Empathy Mapping**](#empathy-mapping)
 
 
