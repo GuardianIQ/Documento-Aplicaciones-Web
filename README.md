@@ -429,6 +429,12 @@ GuardianIQ también está diseñado para padres de familia que tienen hijos pequ
      
 ### [**2.1.2. Estrategias y tácticas frente a competidores.**](#estrategias-y-tácticas-frente-a-competidores)
 
+Enfoque en la usabilidad y experiencia del usuario: Diseña productos y servicios con un enfoque centrado en el usuario, asegurándote de que sean fáciles de instalar, configurar y utilizar. Proporciona una experiencia fluida y amigable para el usuario a través de interfaces intuitivas y aplicaciones móviles bien diseñadas.
+
+Servicios de monitoreo y respuesta rápida: Ofrece servicios de monitoreo 24/7 y respuesta rápida ante situaciones de emergencia. Esto puede incluir la instalación de centros de monitoreo remoto que puedan detectar y responder de manera inmediata a intrusiones o eventos sospechosos, proporcionando tranquilidad a los clientes y aumentando el valor percibido de tus productos y servicios.
+
+Personalización de soluciones de seguridad: Ofrece servicios de consultoría personalizada donde expertos en seguridad del hogar visiten los hogares de los clientes para evaluar sus necesidades específicas y recomendar soluciones adaptadas a su situación. Esto puede incluir la instalación de sistemas de seguridad personalizados, como alarmas perimetrales, iluminación de seguridad, cerraduras de alta resistencia, entre otros, que se ajusten a las características y preocupaciones individuales de cada hogar.
+
 ## [**2.2. Entrevistas.**](entrevistas)
 
 
