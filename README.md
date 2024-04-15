@@ -593,7 +593,7 @@ Conclusiones:
 - Segmento objetivo 2: 
 
 
-![Sobjetivo2](image/Elemento2.jpg)
+![Sobjetivo2](images/Elemento2.jpg)
 
 
 ## [**2.3. Needfinding.**](#needfinding)
