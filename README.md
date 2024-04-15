@@ -215,9 +215,8 @@ En Coritech, nos comprometemos a proporcionar una solución innovadora y accesib
     <td></td>
   </tr>
   <tr>
-    <td> 
-</td>
-    <td><img src=""></td>
+    <td> Mi nombre es Eduard Gedeon Travezaño Patiño, estudiante de ingeniería de software. Tengo conocimientos del lenguaje C, C##, python, SQL y NoSQL. Me adapto a distintos entornos de trabajo y me gusta dar lo mejor de mi.</td>
+    <td><img src="images/PASAPORTE.jpg"></td>
   </tr>
   <tr>
     <td>Mi nombre es Mathias Adriano Hidalgo Lopez, Tengo 18 años y estudio
