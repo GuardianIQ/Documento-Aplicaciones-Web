@@ -659,6 +659,10 @@ Segmento objetivo 2:
 
 ### [**2.3.5. As-is Scenario Mapping**](as-is-scenario-mapping)
 
+
+![AsIs](images/AsToDo.jgp)
+
+
 ## [**2.4. Ubiquitous Language**](#ubiquitous-language)
 -Startup : Empresa de reciente creación, generalmente con un modelo de negocio innovador y escalable. Estas compañías suelen estar en una etapa inicial de desarrollo y crecimiento, con el objetivo de resolver un problema específico en el mercado de manera novedosa y rentable.
 -Usuario/User : Persona, entidad o sistema que interactúa con un sistema informático, una plataforma en línea, un dispositivo electrónico o cualquier otro servicio o producto.
