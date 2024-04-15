@@ -931,6 +931,16 @@ Al seleccionar el apartado de servicios activos, se visualizarán los servicios 
 
 ### [**4.4.2. Web Applications Wireflow Diagrams.**](#web-applications-wireflow-diagrams)
 
+[https://lucid.app/lucidchart/d2de0ad9-1815-4475-9c2c-6a47c57ebfb9/edit?viewport_loc=-943%2C665%2C2742%2C1396%2CGT1sYTa1feiV&invitationId=inv_d20de050-51b9-4d61-a261-93d3092eef4a](https://lucid.app/lucidchart/d2de0ad9-1815-4475-9c2c-6a47c57ebfb9/edit?viewport_loc=-943%2C665%2C2742%2C1396%2CGT1sYTa1feiV&invitationId=inv_d20de050-51b9-4d61-a261-93d3092eef4a)
+
+[https://lucid.app/lucidchart/111b3c74-3397-417f-8267-8e49822cc6f4/edit?viewport_loc=-191%2C-75%2C2245%2C1143%2C9F5ses2AAirk&invitationId=inv_90d93963-ffd3-4544-8502-c4c161c37f75](https://lucid.app/lucidchart/111b3c74-3397-417f-8267-8e49822cc6f4/edit?viewport_loc=-191%2C-75%2C2245%2C1143%2C9F5ses2AAirk&invitationId=inv_90d93963-ffd3-4544-8502-c4c161c37f75)
+
+![WF1](images/Wflow1.png)
+![WF2](images/Wflow2.png)
+![WF3](images/Wflow3.png)
+![WF4](images/Wflow4.png)
+![WF5](images/Wflow5.png)
+
 ### [**4.4.3. Web Applications Mock-ups.**](#web-applications-mock-ups)
 
 **a. Mock-ups antes de ingresar a la aplicación GuardianIQ**
