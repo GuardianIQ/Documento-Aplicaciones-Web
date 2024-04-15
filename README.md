@@ -207,14 +207,41 @@ En Coritech, nos comprometemos a proporcionar una solución innovadora y accesib
 ![LpW1](images/image.png)
 
   
- ### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-integrantes-del-equipo)
-| descripcion                 | Perfiles de los integrantes del equipo |
-| ---                         | --- |
-|  descripcion                |  foto |
-| descripcion                 | foto |
-| descripcion                 | foto |
-| descripcion                 | foto |
-| descripcion                 | foto |
+### [**1.1.2.  Perfiles de los integrantes del equipo.**](#perfiles-de-los-integrantes-del-equipo)
+
+<table>
+  <tr>
+    <td>Perfiles de los integrantes del equipo</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> 
+</td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años estudio la
+carrera de ingeniería de
+software, actualmente estoy
+cursando el quinto ciclo. Soy
+una persona empática y
+responsable al momento de
+trabajar de forma grupal.</td>
+    <td><img src="images/elyCortez.jpeg"  alt="" width="100" height="100"></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td><img src="" alt="" width="100" height="100"></td>
+  </tr>
+  <tr>
+      <td> </td>
+    <td><img src="" width="100" height="100"></td>
+  </tr>
+</table>
 
 
 ## [**1.2. Solution Profile.**](#solution-profile)
