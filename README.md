@@ -220,8 +220,10 @@ En Coritech, nos comprometemos a proporcionar una solución innovadora y accesib
     <td><img src=""></td>
   </tr>
   <tr>
-    <td>  </td>
-    <td><img src=""></td>
+    <td>Mi nombre es Mathias Adriano Hidalgo Lopez, Tengo 18 años y estudio
+    la carrera de Ingenieria de software en la UPC, curso el 5to ciclo de la carrera.
+    Soy una persona empática, carismatica y responsable</td>
+    <td><img src="images/Yo.jpg"</td>
   </tr>
   <tr>
     <td>Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años estudio la
