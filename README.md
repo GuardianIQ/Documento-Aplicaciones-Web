@@ -407,12 +407,12 @@ GuardianIQ también está diseñado para padres de familia que tienen hijos pequ
    
 ### [**2.2.1. Diseño de entrevistas.**](#diseño-de-entrevistas)
 
-**Segmento objetivo #1:**
+**Segmento objetivo #1: Adultos independientes**
 ### Preguntas principales:
 
 ### Preguntas complementarias:
 
-**Segmento objetivo #1:**
+**Segmento objetivo #1: Padres de familia**
 
 ### Preguntas principales:
 
@@ -421,9 +421,9 @@ GuardianIQ también está diseñado para padres de familia que tienen hijos pequ
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
 
-**Segmento objetivo #1:** 
+**Segmento objetivo #1: Adultos independientes** 
 
-**Entrevistado N°1:** 
+**Entrevistado N°1:**
 
 - **Sexo:** Femenino
 
@@ -441,27 +441,25 @@ GuardianIQ también está diseñado para padres de familia que tienen hijos pequ
 
 La persona entrevistada expresa una preocupación considerable por la seguridad en su hogar, especialmente porque vive en una zona roja de Santiago de Surco, donde los robos son comunes. Ha considerado medidas de seguridad como instalar cámaras dentro y fuera de su hogar para sentirse más seguro. Sus principales preocupaciones son sentirse vulnerable, solo y temer que alguien pueda invadir su espacio personal. Considera esencial en un sistema de seguridad la capacidad de monitorear su casa las 24 horas del día y ha investigado sistemas de seguridad basados en tecnología en el mercado. Estaría interesado en recibir notificaciones en tiempo real sobre la seguridad de su hogar y considera relevante la capacidad de personalización del sistema para adaptarse a sus necesidades. Aunque no había considerado invertir en un sistema de seguridad en el pasado, ahora está abierto a la idea, especialmente porque vive sola desde hace aproximadamente 6 meses.
 
-**Entrevistado N°2:** ---------------
+**Entrevistado N°2:** Marjorie Schlaefli Arrieta
 
-- **Sexo:** ------
+- **Sexo:** Femenino
 
-- **Edad:** ------
+- **Edad:** 25
 
-- **Ubicación en la que vive:** --------------
+- **Ubicación en la que vive:** Surco
 
 **Acerca de la entrevista:**
 
-- **Link:** ------------------
+- **Link:** [https://youtu.be/f0I0GztGHM4](https://youtu.be/f0I0GztGHM4)
 
-- **Instante en el que inicia:** ----------
+- **Instante en el que inicia:** 0:12
 
-- **Duración:** --------
+- **Duración:** 17:24
 
 **Resumen:**
 
-Texto
-
-
+Durante la entrevista, Marjorie Schlaefli, adulta independiente que vive con su hermana en un condominio, nos cuenta que al venir a Lima a estudiar ella priorizo junto a sus padres encontrar un lugar seguro para vivir. Mientras vivía en el condominio, existió un asalto a unos de los departamentos lo cual la hizo sentirse vulnerable pero se tomaron nuevas reglas para evitar este tipo de situaciones. Aun así, está dispuesto a optar por un sistema de seguridad de vigilancia por el exterior de su departamento que pueda alertar a las autoridades cuando sea necesario.
 
 
 **Entrevistado N°3:** ---------------
@@ -486,7 +484,7 @@ Texto
 
 
 
-**Segmento objetivo #2:** Padres de familia
+**Segmento objetivo #2: Padres de familia**
 
 **Entrevistado N°1:** ---------------
 
