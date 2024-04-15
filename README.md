@@ -580,6 +580,10 @@ Conclusiones:
 
 - Segmento objetivo1: 
 
+
+![Elemento1](image/Elemento1.jpg)
+
+
 - Segmento objetivo 2: 
 
 
