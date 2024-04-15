@@ -243,17 +243,10 @@ trabajar de forma grupal.</td>
     <td><img src="images/fotoAstrid.png"</td>
   </tr>
   <tr>
-      <td> </td>
-    <td><img src="" width="100" height="100"></td>
+    <td>Soy Sebastian Valente Lobato Pozo, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias aplicadas, actualmente estoy cursando el quinto ciclo de mi carrera, Tengo conocimientos en el lenguaje de C++, Python y LUA. Las habilidades que me representan son la amabilidad, comunicación asertiva, empatía y adaptabilidad al cambio, siento que todo lo dicho, puede aportar a la elaboración del trabajo..</td>
+    <td><img src="images/sebalobato.png"</td>
   </tr>
 </table>
-|                             |                                                              |
-|-----------------------------|--------------------------------------------------------------|
-| **SEBASTIAN VALENTE LOBATO POZO** | <img src="images/sebalobato.png" alt="Sebastian Lobato">                                                    |
-| **INGENIERIA DE SOFTWARE**  |                                                              |
-| **u202215312**              |                                                              |
-| Soy Sebastian Valente Lobato Pozo, tengo 19 años, estudio la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias aplicadas, actualmente estoy cursando el quinto ciclo de mi carrera, Tengo conocimientos en el lenguaje de C++, Python y LUA. Las habilidades que me representan son la amabilidad, comunicación asertiva, empatía y adaptabilidad al cambio, siento que todo lo dicho, puede aportar a la elaboración del trabajo.   |
-
 
 ## [**1.2. Solution Profile.**](#solution-profile)
 
