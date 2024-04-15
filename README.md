@@ -95,8 +95,8 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-------------------|-------------------|------------|
-|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Astrid Boronda**<br>TB1: Pudimos definir el contexto en el que opera nuestra startup. Esta partición se ha centrado en establecer las bases y comprender las raíces de nuestro proyecto. De esta forma, pudimos considerar todos los aspectos necesarios para la aplicación.<br><br>**Ely Cortez**<br>TB1:Durante el avance del Tb1 se realizaron diversas reuniones para acordar y verificar los avances de cada integrante,planificar y reservar tiempo para analizar las propuestas de cada integrante es vital para el proyecto ya que nuestro objetivo es optimzar el tiempo de trabajo mediantela comunicación oral<br><br>**Mathias Hidalgo**<br>TB1: <br><br>**Sebastian Lobato**<br>TB1: <br><br>**Eduard Travezaño**<br>TB1: <br>|Comunica de forma objetica y adaptada a diferentes audiencias los avances y resultados del proyecto.|
-|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Astrid Boronda**<br>TB1: Se explicó el proyecto a realizar con el fin de buscar solución a un problema identificado por el grupo y darle una solución eficiente.<br><br>**Ely Cortez**<br>TB1:La colaboración entre nuestro equipo ha sido fundamental para cada miembro del equipo. Además, se ha diseñado una entrevista dirigida a nuestro público objetivo y se ha redactado con detalle los capítulos relacionados con la implementación y validación del proyecto. Todos los miembros del equipo han participado de manera activa en el diseño del producto. Esta estrategia de colaboración ha sido fundamental para alcanzar nuestros objetivos y garantizar la calidad de nuestro trabajo <br><br>**Mathias Hidalgo**<br>TB1: <br><br>**Sebastian Lobato**<br>TB1: <br><br>**Eduard Travezaño**<br>TB1: <br>|Se comunica de manera objetiva y adaptada a diferentes niveles y especialidades, por escrito, los avances y resultados del proyecto de ingeniería de software en aplicaciones web|
+|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Astrid Boronda**<br>TB1: Pudimos definir el contexto en el que opera nuestra startup. Esta partición se ha centrado en establecer las bases y comprender las raíces de nuestro proyecto. De esta forma, pudimos considerar todos los aspectos necesarios para la aplicación.<br><br>**Ely Cortez**<br>TB1:Durante el avance del Tb1 se realizaron diversas reuniones para acordar y verificar los avances de cada integrante,planificar y reservar tiempo para analizar las propuestas de cada integrante es vital para el proyecto ya que nuestro objetivo es optimzar el tiempo de trabajo mediantela comunicación oral<br><br>**Mathias Hidalgo**<br>TB1: <br><br>**Sebastian Lobato**<br>TB1: <br><br>**Eduard Travezaño**<br>TB1: Participamos en reuniones para discutir el progreso del proyecto y se recibió retroalimentación constantemente. Se adaptó el lenguaje técnico para diferentes audiencias. Esto resultó en una mejor capacidad para comunicar ideas complejas y facilitar el intercambio de ideas entre especialidades y niveles jerárquicos. <br>|Comunica de forma objetica y adaptada a diferentes audiencias los avances y resultados del proyecto.|
+|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Astrid Boronda**<br>TB1: Se explicó el proyecto a realizar con el fin de buscar solución a un problema identificado por el grupo y darle una solución eficiente.<br><br>**Ely Cortez**<br>TB1:La colaboración entre nuestro equipo ha sido fundamental para cada miembro del equipo. Además, se ha diseñado una entrevista dirigida a nuestro público objetivo y se ha redactado con detalle los capítulos relacionados con la implementación y validación del proyecto. Todos los miembros del equipo han participado de manera activa en el diseño del producto. Esta estrategia de colaboración ha sido fundamental para alcanzar nuestros objetivos y garantizar la calidad de nuestro trabajo <br><br>**Mathias Hidalgo**<br>TB1: <br><br>**Sebastian Lobato**<br>TB1: <br><br>**Eduard Travezaño**<br>TB1: Se elaboraró informes técnicos detallados y se revisaron y editaron cuidadosamente, se utilizaron herramientas de colaboración en línea y se incorporaron elementos visuales. Esto resultó en una comunicación más efectiva de ideas técnicas, mejorando la calidad de los informes y facilitando la revisión entre colegas y superiores. <br>|Se comunica de manera objetiva y adaptada a diferentes niveles y especialidades, por escrito, los avances y resultados del proyecto de ingeniería de software en aplicaciones web|
 
 # Contenido
 
@@ -515,8 +515,7 @@ Durante la entrevista, Brissa comenta que se siente insegura con respecto al lug
 
 **Segmento objetivo #2: Padres de familia**
 
-**Entrevistado N°1:** ---------------
-
+**Entrevistado N°1:** Diego Acuña
 - **Sexo:** Masculino
 
 - **Edad:** 22
@@ -527,7 +526,7 @@ Durante la entrevista, Brissa comenta que se siente insegura con respecto al lug
 
 - **Link:** [https://youtu.be/q4J2Ti0qqO4](https://youtu.be/q4J2Ti0qqO4)
 
-- **Instante en el que inicia:** ----------
+- **Instante en el que inicia:** 0:20
 
 - **Duración:** 3:30
 
