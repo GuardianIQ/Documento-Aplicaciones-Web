@@ -1097,11 +1097,11 @@ Entonces el sistema conducirá al usuario a un apartado en donde un asesor lo at
 
 ## [**3.3. Impact Mapping.**](#impact-mapping)
 
-![Producto](images/Product.jpg)
-
 ![Impact](images/Holabro.jpg)
 
 ## [**3.4. Product Backlog.**](#product-backlog)
+
+![Producto](images/Product.jpg)
 
 # [**Capítulo IV: Product Design.**](#capítulo-iv-product-design)
 
