@@ -580,6 +580,9 @@ Hallazgos:
   
 Conclusiones:
 
+Los entrevistados se muestran preocupados por que les roben o les vuelvan a robar, y están dispuestos a usar medidas de seguridad para resguardar sus pertenencias, pueden optar por sistemas de seguridad de pago con tal de proteger sus hogares debido a la poca seguridad de las mismas.
+
+
 ### Análisis por medio de herramientas estadísticas:
 
 - Segmento objetivo1: 
