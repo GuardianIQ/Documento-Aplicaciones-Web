@@ -486,7 +486,7 @@ Texto
 
 
 
-**Segmento objetivo #2:** 
+**Segmento objetivo #2:** Padres de familia
 
 **Entrevistado N°1:** ---------------
 
@@ -509,25 +509,25 @@ Texto
 La persona entrevistada se muestra muy preocupada en el hogar por su hija, puesto que tiene que salir muchas veces para trabajar. Consideró colocar cámaras de vigilancia para saber que cosas hace la niña o si le pasa algo. Nos cuenta que es complicado estar al tanto de todo lo que hace la niña porque es muy traviesa y que una vez cuando contrató una niñera, no se dió cuenta y su hija se cayó de su cama. Además, considera que tener alguna alarma que le avise cuando hay una situación de riesgo. Y las cámaras es lo que más le interesa comprar para la seguridad se hogar.
 
 
-**Entrevistado N°2:** ---------------
+**Entrevistado N°2:** Norma Heidinger Casimiro
 
-**- Sexo:** ------
+**- Sexo:** Femenino
 
-**- Edad:** ------
+**- Edad:** 54
 
-**- Ubicación en la que vive:** --------------
+**- Ubicación en la que vive:** Surco
 
 **Acerca de la entrevista:**
 
-**- Link:** ------------------
+**- Link:** [https://drive.google.com/file/d/1uOnNi-IU0_N2M8YNb13hwaqMz8g5ge9i/view?usp=sharing](https://drive.google.com/file/d/1uOnNi-IU0_N2M8YNb13hwaqMz8g5ge9i/view?usp=sharing)
 
-**- Instante en el que inicia:** ----------
+**- Instante en el que inicia:** 0:10
 
-**- Duración:** --------
+**- Duración:** 4:57
 
 **Resumen:**
 
-Texto
+En la entrevista se vio que la señora Norma, padre de familia, le preocupa su seguridad y la de sus hijos. Considera que su hogar no está seguro ante cualquier situación de robo e incluso las cerraduras de su casa no se encuentran en buen estado. No pensó en optar por contratar algún sistema de seguridad pero si busca mejorar la propia infraestructura del hogar para sentirse más segura.
 
 
 **Entrevistado N°3:** ---------------
