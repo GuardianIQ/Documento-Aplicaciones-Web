@@ -588,11 +588,17 @@ Conclusiones:
 Presentamos las siguientes necesidades principales que hemos analizado en base a nuestros usuarios:
 
 *Segmento #1:*
--
--
--
--
--
+
+- Aplicación fácil de usar.
+
+- Monitoreo remotos de la seguridad del hogar en tiempo real.
+
+- Privacidad de información.
+
+- Notificaciones de alerta.
+
+- Integración con dispositivos de seguridad.
+
 *Segmento #2:* 
 -
 -
