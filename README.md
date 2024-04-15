@@ -1048,6 +1048,25 @@ Al seleccionar el apartado de servicios activos, se visualizarán los servicios 
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
 
+| Clase               | Descripción                                            |
+|---------------------|--------------------------------------------------------|
+| Cliente             | Representa a un cliente del sistema.                   |
+| Mensaje             | Representa un mensaje en el sistema de comunicación entre el cliente y el empleado.  |
+| Comunicacion        | Representa una comunicación entre dos entidades.      |
+| Empleado            | Representa a un empleado dentro de la empresa.         |
+| Alerta              | Representa una alerta generada  por el empleado con destino al cliente.         |
+| PersonaldeSeguridad | Representa un tipo de empleado que brinda un servicio, en este caso el de Personal de seguridad|
+| Asesoramiento       | Representa un tipo de empleado que brinda un servicio, en este caso el de Asesor de dispositivos IOT     |
+| OperadordeMonitoreo | Representa un tipo de empleado que brinda un servicio, en este caso el de Operador de camaras de vigilancia     |
+| Pago                | Representa una transacción de pago.                   |
+| Yape                | Representa un servicio de pago digital Yape.          |
+| Plin                | Representa un servicio de pago digital Plin.          |
+| Tarjeta             | Representa una tarjeta de crédito o débito.           |
+| Dispositivo IOT     | Representa un dispositivo de Internet de las Cosas.    |
+| Camara              | Representa una cámara de seguridad.                    |
+| Sensor              | Representa un sensor utilizado en el sistema.          |
+
+
 ## [**4.8. Database Design.**](#database-design)
 
 ### [**4.8.1. Database Diagram.**](#database-diagram)
