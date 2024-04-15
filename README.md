@@ -605,9 +605,12 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 ### [**2.3.1. User Personas.**](#user-personas)
 
 
+Segmento objetivo 1:
 ![UserPersona](images/Segm1.jpg)
 
 
+
+Segmento objetivo 2:
 ![UserPersona](images/Segm2.jpg)
 
 ### [**2.3.2. User Task Matrix.**](#user-task-matrix)
