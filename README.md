@@ -87,7 +87,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Ely Cortez |Capitulo 4: DataBase Diagram<br> Capitulo 5, Capitulo 5: Landing Page |
 |Sebastian Lobato |Capitulo 1 <br> Capitulo 5: Landing Page <br> Capitulo 4: Class Diagram |
 |Astrid Boronda | Capitulo 4|
-|Mathias Hidalgo |Capitulo 2 |
+|Mathias Hidalgo |Capitulo 2 y capitulo 3 |
 |Eduard Travezaño | Capitulo 4: Style Guidelines, Information Arquitecture |
 
 
