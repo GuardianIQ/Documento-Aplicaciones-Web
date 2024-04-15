@@ -84,8 +84,8 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 |Integrante|Actvidades Asignadas|
 |----------|----------|
-|Ely Cortez |Capitulo 4: DataBase Diagram<br> Capitulo 5: Landing Page |
-|Sebastian Lobato |Capitulo 1 <br> Capitulo 5: Lnding Page <br> Capitulo 4: Class Diagram |
+|Ely Cortez |Capitulo 4: DataBase Diagram<br> Capitulo 5, Capitulo 5: Landing Page |
+|Sebastian Lobato |Capitulo 1 <br> Capitulo 5: Landing Page <br> Capitulo 4: Class Diagram |
 |Astrid Boronda | |
 |Mathias Hidalgo |Capitulo 2 |
 |Eduard Travezaño | |
