@@ -607,6 +607,9 @@ Presentamos las siguientes necesidades principales que hemos analizado en base a
 
 ![UserPersona](images/Segm1.jpg)
 
+
+![UserPersona](images/Segm2.jpg)
+
 ### [**2.3.2. User Task Matrix.**](#user-task-matrix)
 
 ### [**2.3.3. User Journey Mapping**](#user-journey-mapping)
