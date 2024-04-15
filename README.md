@@ -1677,18 +1677,23 @@ En el primer sprint, el equipo se organizo con la herramienta trello, esta herra
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
 
-| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| landing-page | main          | 5e26fb5         | Update index.html        | -| Apr 15th, 2024, 3:09 PM         | 
-| landing-page | main       | aeb5ebe        | Update index.html | -| Apr 15th, 2024, 3:16 PM       |
-| landing-page | main       | 17f0dce        | Update index.html | -| Apr 15th, 2024, 3:21 PM       |
-| landing-page ||         |         | -|                 |
-| landing-page |                    |              |                       | -|                |
-| landing-page |                    |                |                 | -|                |
-| landing-page |                    |                 |                        | -|            |
-| landing-page |                    |                  |                   | -|                 |
-| landing-page |                    |                  |                    | -|             |
-| landing-page |                    |                    |                     | -|                    |
+| landing-page | main          | 5e26fb5         | Update index.html        | Sebastian Lobato| Apr 15th, 2024, 3:09 PM         | 
+| landing-page | main       | aeb5ebe        | Update index.html | Sebastian Lobato| Apr 15th, 2024, 3:16 PM       |
+| landing-page | main       | 17f0dce        | Update index.html | Sebastian Lobato| Apr 15th, 2024, 3:21 PM       |
+| landing-page | main                            | 6b46525        |Update index.html         | Ely Cortez| Apr 15th, 2024, 3:15 PM                 |
+| landing-page | main                   | 9ca99d0             |  Update index.html                     | Ely Cortez|  Apr 15th, 2024, 1:09 PM               |
+| landing-page | main                   |  6db1daa              |    Update index.html             | Ely Cortez|       Apr 15th, 2024, 10:55 AM          |
+| landing-page | main                   |   eecf808              |  Update index.html                      | Ely Cortez|    Apr 15th, 2024, 3:35 PM         |
+| landing-page | main                   |   9439104               |   Update index.html                | Ely Cortez|        Apr 15th, 2024, 3:55 PM          |
+| landing-page | main                   |                  |                    | -|             |
+| landing-page | main                   |                    |                     | -|                    |
+| landing-page | main                   |                    |                     | -|                    |
+| landing-page | main                   |                    |                     | -|                    |
+| landing-page | main                   |                    |                     | -|                    |
+| landing-page | main                   |                    |                     | -|                    |
+| landing-page | main                   |                    |                     | -|                    |
 
 
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
