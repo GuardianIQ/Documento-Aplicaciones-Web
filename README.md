@@ -593,6 +593,9 @@ Conclusiones:
 - Segmento objetivo 2: 
 
 
+![Sobjetivo2](image/Elemento2.jpg)
+
+
 ## [**2.3. Needfinding.**](#needfinding)
 
 Presentamos las siguientes necesidades principales que hemos analizado en base a nuestros usuarios:
