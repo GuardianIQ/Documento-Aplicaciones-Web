@@ -1043,6 +1043,25 @@ Al seleccionar el apartado de servicios activos, se visualizarán los servicios 
 
 ### [**4.4.4. Web Applications User Flow Diagrams.**](#web-applications-user-flow-diagrams)
 
+[https://lucid.app/lucidchart/d2de0ad9-1815-4475-9c2c-6a47c57ebfb9/edit?viewport_loc=-943%2C665%2C2742%2C1396%2CGT1sYTa1feiV&invitationId=inv_d20de050-51b9-4d61-a261-93d3092eef4a](https://lucid.app/lucidchart/d2de0ad9-1815-4475-9c2c-6a47c57ebfb9/edit?viewport_loc=-943%2C665%2C2742%2C1396%2CGT1sYTa1feiV&invitationId=inv_d20de050-51b9-4d61-a261-93d3092eef4a)
+
+[https://lucid.app/lucidchart/111b3c74-3397-417f-8267-8e49822cc6f4/edit?viewport_loc=-191%2C-75%2C2245%2C1143%2C9F5ses2AAirk&invitationId=inv_90d93963-ffd3-4544-8502-c4c161c37f75](https://lucid.app/lucidchart/111b3c74-3397-417f-8267-8e49822cc6f4/edit?viewport_loc=-191%2C-75%2C2245%2C1143%2C9F5ses2AAirk&invitationId=inv_90d93963-ffd3-4544-8502-c4c161c37f75)
+
+User Flow Iniciar Sesión
+![WF1](images/Wflow1.png)
+
+User Flow Ver perfil
+![WF2](images/Wflow2.png)
+
+User Flow Configurar notificaciones
+![WF3](images/Wflow3.png)
+
+User Flow Contratar seguridad presencial
+![WF4](images/Wflow4.png)
+
+User Flow Contratar seguridad de vigilancia
+![WF5](images/Wflow5.png)
+
 ## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
 
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
