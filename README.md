@@ -231,7 +231,7 @@ cursando el quinto ciclo. Soy
 una persona empática y
 responsable al momento de
 trabajar de forma grupal.</td>
-    <td><img src="images/elyCortez.jpeg"  alt="" width="100" height="100"></td>
+    <td><img src="images/fotoElycortez.jpeg"</td>
   </tr>
   <tr>
     <td> </td>
