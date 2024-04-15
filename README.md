@@ -236,12 +236,10 @@ trabajar de forma grupal.</td>
     <td><img src="images/fotoElycortez.jpeg"</td>
   </tr>
   <tr>
-    <td>Soy estudiante de la carrera de ingeniería de software, tengo 18 años 
-        y me considero una persona dispuesta a ayudar en los trabajos de grupos y
-        atenta a los detalles de los trabajos. Si se necesita analizar acerca del 
-        proyecto a mayor profundidad, ahí estaré yo. Tengo conocimientos en c++ y 
-        diseño web en html. Además que estoy dispuesta a tener la iniciativa al 
-        iniciar el diálogo con los integrantes del grupo.</td>
+    <td>Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera 
+        de ingeniería de software, tengo 19 años y me considero una persona dispuesta 
+        a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Si
+        se necesita analizar acerca del proyecto a mayor profundidad, ahí estaré yo. </td>
     <td><img src="images/fotoAstrid.png"</td>
   </tr>
   <tr>
@@ -1427,6 +1425,18 @@ User Flow Contratar seguridad de vigilancia
 ![WF5](images/Wflow5.png)
 
 ## [**4.5. Web Applications Prototyping.**](#web-applications-prototyping)
+
+Link del Figma:
+[https://www.figma.com/file/DP0555zAKEghJsXbldnF08/GUARDIANIQ?type=design&node-id=0%3A1&mode=design&t=6oFt1C13f8ZdGbfn-1](https://www.figma.com/file/DP0555zAKEghJsXbldnF08/GUARDIANIQ?type=design&node-id=0%3A1&mode=design&t=6oFt1C13f8ZdGbfn-1)
+
+![prototipo](images/Prototipo.png)
+
+En el siguiente video se visualiza nuestro prototipado web ejecutado en Figma
+
+Link del video:
+[https://drive.google.com/file/d/14Y1pq97_pl25hBogzVvgYy8PO5HGzAsi/view?usp=sharing](https://drive.google.com/file/d/14Y1pq97_pl25hBogzVvgYy8PO5HGzAsi/view?usp=sharing)
+
+![videoPrototipo](videoprot.png)
 
 ## [**4.6. Domain-Driven Software Architecture**](#domain-driven-software-architecture)
 
