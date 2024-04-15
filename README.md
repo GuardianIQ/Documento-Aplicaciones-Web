@@ -738,6 +738,363 @@ Segmento objetivo 2:
 
 ## [**3.2.User Stories.**](#user-stories)
 
+Epic 1: Como usuario, quiero poder gestionar mi cuenta y utilizar las diversas funcionalidades para tener una mejor experiencia en la pagina
+
+Epic 2: Como padre de familia, quiero salvaguardar la seguridad de mi familia para que no les pase nada cuando no esté en casa
+
+Epic 3: Como Adulto independiente, quiero asegurar que el lugar en donde vivo este protegido y vigilado ante cualquier amenaza de robo.
+
+
+US01 - EP01
+
+Titulo: Registro de usuario
+
+
+Descripcion: Como usuario, quiero poder registrar mis datos en la pagina para tener una cuenta en la web.
+
+
+Acceptance criteria: 
+
+Escenario 1: Acceso a la página de registro
+
+Dado que el usuario se encuentra en la página principal de la web,
+Cuando el usuario le dé clic al botón de “Registrarse”,
+Entonces la aplicación mostrará la página de registro de usuario.
+
+Escenario 2: Registro de nuevo usuario.
+
+Dado que el usuario se encuentra en la página de registro,
+Cuando el usuario ingrese al apartado de “Registrarse como usuario”
+E ingrese los datos solicitados por la aplicación correctamente (nombre completo, correo electrónico, teléfono, DNI, contraseña, edad),
+Y el usuario le dé clic al botón de “Crear cuenta”,
+Entonces la cuenta para usuario será creada.
+
+Escenario 3: Registro de personal de seguridad.
+
+Dado que el usuario se encuentra en la página de registro,
+Cuando el usuario ingrese al apartado de “Registrarse como P.D.E” 
+E ingrese los datos solicitados por la aplicación correctamente (nombre completo, correo electrónico, teléfono, DNI, contraseña, edad)
+Y el usuario le dé clic al botón de “Crear cuenta”,
+Entonces la cuenta para personal de seguridad será creada
+
+
+US02 - EP01
+
+Titulo: Configuración de notificaciones
+
+
+Descripcion: Como usuario, deseo poder configurar mis notificaciones para tener información importante.
+
+
+Acceptance criteria:
+
+Escenario 1: Acceso a la pagina de configuraciones
+
+Dado que el usuario se encuentra en la página principal de la web
+Cuando el usuario selecciona las 3 rayas, y selecciona la opción “Configuraciones”
+Entonces el sistema llevara al usuario al apartado de notificaciones
+
+
+Escenario 2: Selección de notificaciones.
+
+Dado que el usuario se encuentra en el apartado de configuraciones
+Cuando el usuario le da clic a la opción “Mostrar notificaciones”
+Y seleccione las notificaciones que desea recibir
+Entonces el sistema le botará un mensaje diciendo “configuración completa” y se habrá actualizado las notificaciones.
+
+
+US03 - EP01
+
+Titulo: Cerrar sesion
+
+
+Descripcion: Como usuario, deseo cerrar mi sesión para así no tener preocupaciones de que otra persona desde otro dispositivo entre a mi cuenta.
+
+
+Acceptance criteria:
+
+Escenario 1: Cerrar sesión
+
+Dado que el usuario se encuentra en la pantalla principal
+Cuando el usuario selecciona su perfil y da a la opción “Cerrar Sesion”
+Entonces el sistema arrogara al usuario a la página principal común sin registro de usuario
+
+
+US04 - EP01
+
+Titulo: Recibir Notificación
+
+
+Descripcion: Como usuario, deseo configurar la app para que pueda recibir notificaciones.
+
+
+Acceptance criteria:
+
+Escenario 1: Acceso al apartado de configuraciones
+Dado que el usuario se encuentra en la página principal de la web
+Cuando el usuario selecciona las 3 rayas, y selecciona la opción “Configuraciones”
+Entonces el sistema llevara al usuario al apartado de notificaciones
+
+Escenario 2: Permiso de notificaciones
+
+Dado que el usuario se encuentra en el apartado de notificaciones
+Cuando el usuario seleccione la opción “Mostrar notificaciones”
+Y seleccione la opción “permitir”
+Entonces el sistema le arrogara diferentes tipos de notificaciones.
+
+
+US05 - EP03
+
+Titulo: Contratar personal de seguridad
+
+
+Descripcion: Como usuario quiero contratar a un personal de seguridad para que vigile y mantenga a salvo mi casa y mis pertenencias.
+
+
+Acceptance criteria:
+
+Escenario 1: Contrato del personal de vigilancia
+Dado que el usuario se encuentra en la pagina principal de la web
+Cuando el usuario da clic en la opción “Contratar persona”
+Y le dé a la opción “Seguridad de vigilancia” 
+Y llene el formulario con los datos que le pedirán
+Y le dé a enviar.
+Entonces el sistema le arrogara un mensaje diciendo “gracias por sus respuestas” y le enviara al apartado de personas a contratar
+
+Escenario 2: Selección de personal
+
+Dado que el usuario se encuentra en el apartado de “Personal a contratar”
+Cuando el usuario seleccione a la persona que quiere contratar
+Entonces el sistema le mostrará un mensaje que diga “Personal contratado” y le devolverá a la pantalla de inicio
+
+
+US06 - EP02
+
+Titulo: Personal de seguridad viene a mi casa
+
+
+Descripcion: Como padre de familia, quiero que un personal de seguridad venga a mi casa para que mantenga a salvo y cuide a mi familia mientras no estoy
+
+
+Acceptance criteria:
+
+Escenario 1: Contratar personal
+
+Escenario 1: Contrato del personal de vigilancia
+Dado que el usuario se encuentra en la página principal de la web
+Cuando el usuario da clic en la opción “Contratar persona”
+Y le dé a la opción “Seguridad presencial” 
+Y llene el formulario con los datos que le pedirán
+Y le dé a enviar.
+Entonces el sistema le arrogara un mensaje diciendo “gracias por sus respuestas” y le enviara al apartado de personas a contratar
+
+Escenario 2: 
+
+Dado que el usuario se encuentra en el apartado de “Personal a contratar”
+Cuando el usuario seleccione a la persona que quiere contratar
+Entonces el sistema le mostrará un mensaje que diga “Personal contratado” y le devolverá a la pantalla de inicio.
+
+
+US07 - EP03
+
+Titulo: Comunicación con personal de seguridad
+
+
+Descripcion: Como Adulto independiente, quiero poder comunicarme con el personal de seguridad para mantenerme informado de la situación de mi hogar. 
+
+
+Acceptance criteria: 
+
+Escenario 1: Comunicación con el personal de seguridad
+
+Dado que el usuario se encuentra en la página principal
+Cuando el usuario se dirige al apartado de chat
+Y seleccione al personal de seguridad que contrato
+Entonces el usuario podrá hablar con el personal a través de mensajes de texto
+
+
+US08 - EP02
+
+Titulo: Comunicación con personal de seguridad
+
+
+Descripcion: Como Padre de familia, quiero poder comunicarme con el personal de seguridad para mantenerme informado de la situación de mi hogar.
+
+
+Acceptance criteria:
+
+Escenario 1: Comunicación con el personal de seguridad
+
+Dado que el usuario se encuentra en la página principal
+Cuando el usuario se dirige al apartado de chat
+Y seleccione al personal de seguridad que contrato
+Entonces el usuario podrá hablar con el personal a través de mensajes de texto
+
+
+US09 - EP01
+
+Titulo: Búsqueda de servicios
+
+
+Descripcion: Como usuario, quiero poder buscar los servicios que me interesan para contratar y poder elegir sin necesidad de ver todo lo que sea irrelevante para mi
+
+
+Acceptance criteria:
+
+Escenario 1: Usuario busca servicios
+
+Dado que el usuario se encuentra en la página principal
+Cuando el usuario seleccione la barra de búsqueda de la web
+Y digite el servicio que desea adquirir
+Y le de “Enter” o a la lupa
+Entonces el sistema conducirá al usuario al apartado en donde se encuentra el servicio que desea adquirir.
+
+
+US10 - EP01
+
+Titulo: Contratos activados en seguridad presencial
+
+
+Descripcion: Como usuario, quiero saber los contratos de las personas que contrate para así poder saber si aun esta vigente o quisiera cancelar el contrato
+
+
+Acceptance criteria:
+
+Escenario 1: Visualización de contratos
+
+Dado que el usuario se encuentra en la pantalla principal
+Cuando el usuario se dirige al apartado de “contratar personal”
+Y seleccione “seguridad presencial”
+Y selecciona a un personal
+Y selecciona la opción, “contrato”
+Entonces el sistema mostrará un mini apartado al usuario en donde saldrá si tiene un contrato vigente o está disponible para contrato
+
+Escenario 2: Cancelación de contrato
+
+Dado que el usuario se encuentra en la pantalla principal
+Cuando el usuario se dirige al apartado de contratar personal
+Y selecciona a un personal
+Y selecciona la opción, contrato
+Y seleccione la opción “Cancelar contrato”
+Entonces el sistema le mostrará al usuario un apartado que dirá “¿Seguro quiere cancelar?” y si selecciona si el sistema mostrara un mensaje que dirá Contrato cancelado
+
+
+US11 - EP01
+
+Titulo: Contratos activados en seguridad de vigilancia
+
+
+Descripcion: Como usuario, quiero saber los contratos de las personas que contrate para así poder saber si aún está vigente o quisiera cancelar el contrato.
+
+
+Acceptance criteria:
+
+Escenario 1: Visualización de contratos
+
+Dado que el usuario se encuentra en la pantalla principal
+Cuando el usuario se dirige al apartado de “contratar personal”
+Y seleccione “seguridad de vigilancia”
+Y selecciona a un personal
+Y selecciona la opción, “contrato”
+Entonces el sistema mostrará un mini apartado al usuario en donde saldrá si tiene un contrato vigente o está disponible para contrato
+
+Escenario 2: Cancelación de contrato
+
+Dado que el usuario se encuentra en la pantalla principal
+Cuando el usuario se dirige al apartado de contratar personal
+Y seleccione “Seguridad de vigilancia”
+Y selecciona a un personal
+Y selecciona la opción, contrato
+Y seleccione la opción “Cancelar contrato”
+Entonces el sistema le mostrará al usuario un apartado que dirá “¿Seguro quiere cancelar?” y si selecciona si el sistema mostrara un mensaje que dirá Contrato cancelado
+
+
+US12 - EP01
+
+Titulo: Pedidos de equipo de seguridad
+
+
+Descripcion: Como usuario quiero poder ver los diferentes tipos de sistemas de seguridad que me ofrece la web como cámaras y sensores para poder comprarlas y que sea instalada mi hogar
+
+
+Acceptance criteria:
+
+Escenario 1: Visualización de productos de seguridad
+
+Dado que el usuario se encuentra en la pantalla principal
+Cuando el usuario seleccione la opción “Equipos de seguridad”
+Entonces el sistema mostrara un apartado de todos los servicios con sus respectivos precios para que puedan seleccionarlo
+
+Escenario 2: Pedido de productos de seguridad 
+
+Dado que el usuario se encuentra en el apartado de “Equipo de seguridad”
+Cuando el usuario seleccione una de las opciones de productos de seguridad que quiera comprar
+Y le dé a la opción “Agregar”
+Entonces el sistema mostrará un mensaje que dirá “Producto agregado a canasta”
+
+
+US13 - EP02 y EP03
+
+Titulo: Comprar productos
+
+
+Descripcion: Como usuario quiero poder pagar los productos de seguridad para que puedan ser instalados en mi hogar
+
+
+Acceptance criteria:
+
+Escenario 1: Dirigirse a la canasta
+
+Dado que el usuario se encuentra en la pantalla principal
+Cuando el usuario seleccione su perfil y de a la opción “Mis pedidos”
+Entonces el sistema le enviara a un apartado en donde visualizara todos los pedidos pendientes y comprados que realizo
+
+Escenario 2: Compra de productos
+
+Dado que el usuario se encuentra en el apartado de “Mis pedidos”
+Cuando el usuario seleccione el o los pedidos pendientes 
+Y seleccione la opción “Pagar” 
+E ingrese su número de tarjeta
+Y le dé a la opción “Realizar pago”
+Entonces le mostrará un mensaje que dirá “Pago realizado correctamente” y saldrá el tiempo en el que será la entrega e instalación del sistema
+
+
+US14 - EP01
+
+Titulo: Actualizar datos
+
+
+Descripcion: Como usuario quiero poder actualizar mis datos para tener una mejor gestión de ello.
+
+
+Acceptance criteria:
+
+Escenario 1 Usuario actualiza datos
+
+Dado que el usuario se encuentra en la pantalla principal de la web
+Cuando el usuario se dirige a su perfil y selecciona la opción “Mi perfil”
+Entonces el sistema dirigira al usuario a su perfil en donde podrá seleccionar los datos que quiera actualizar y/o cambiar
+
+
+US15 - EP01
+
+Titulo: Asesorías
+
+
+Descripcion: Como usuario quiero recibir una asesoría para saber como va el sistema de seguridad.
+
+
+Acceptance criteria:
+
+Escenario 1: Usuario recibe asesorías
+
+Dado que el usuario se encuentra en la pantalla principal
+Cuando el usuario seleccione la opción “Contratar personal”
+Y selecciona “Asesoría de evaluación”
+Entonces el sistema conducirá al usuario a un apartado en donde un asesor lo atenderá y responderá todas sus dudas
+
+
+
 ## [**3.3. Impact Mapping.**](#impact-mapping)
 
 ## [**3.4. Product Backlog.**](#product-backlog)
