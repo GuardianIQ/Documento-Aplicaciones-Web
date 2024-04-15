@@ -1689,9 +1689,9 @@ En el primer sprint, el equipo se organizo con la herramienta trello, esta herra
 | landing-page | main                   | 48047b00            |  Update index.html                | Mathias Hidalgo |  Apr 15th, 2024, 3:11 PM           |
 | landing-page | main                   |  44e709                |  Update index.html                   | Mathias Hidalgo |  Apr 15th, 2024, 3:17 PM                  |
 | landing-page | main                   |   2f8c4a               |   Update index.html                  | Mathias Hidalgo |   Apr 15th, 2024, 3:23 PM                 |
-| landing-page | main                   |                    |                     | -|                    |
-| landing-page | main                   |                    |                     | -|                    |
-| landing-page | main                   |                    |                     | -|                    |
+| landing-page | main                   |        0246cf7        |     Update index.html                | Eduard Travezaño|   Apr 15th, 2024, 3:29 PM                 |
+| landing-page | main                   |          eaf25ce      |        add index.html             | Eduard Travezaño |    Apr 15th, 2024, 3:40 PM                |
+| landing-page | main                   |        05319e5            |         Update style.css            | Eduard Travezaño |         Apr 15th, 2024, 3:50 PM           |
 | landing-page | main                   |                    |                     | -|                    |
 
 
