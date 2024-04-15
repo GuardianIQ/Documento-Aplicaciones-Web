@@ -857,7 +857,9 @@ Al seleccionar el apartado de servicios activos, se visualizarán los servicios 
 
 ### [**4.7.1. Class Diagrams.**](#class-diagrams)
 
-![AWW2](images/dclase.png)
+![AWW2](images/miau1.png)
+
+[https://lucid.app/lucidchart/d1e679a2-1c95-4c15-8f77-0bd01e745516/edit?viewport_loc=-2434%2C-1261%2C2439%2C1488%2C0_0&invitationId=inv_4b13100a-fc94-4731-9213-cc199f4f2c65](https://lucid.app/lucidchart/d1e679a2-1c95-4c15-8f77-0bd01e745516/edit?viewport_loc=-2434%2C-1261%2C2439%2C1488%2C0_0&invitationId=inv_4b13100a-fc94-4731-9213-cc199f4f2c65)
 
 ### [**4.7.2. Class Dictionary.**](#class-dictionary)
 
