@@ -1687,9 +1687,9 @@ En el primer sprint, el equipo se organizo con la herramienta trello, esta herra
 | landing-page | main                   |  6db1daa              |    Update index.html             | Ely Cortez|       Apr 15th, 2024, 10:55 AM          |
 | landing-page | main                   |   eecf808              |  Update index.html                      | Ely Cortez|    Apr 15th, 2024, 3:35 PM         |
 | landing-page | main                   |   9439104               |   Update index.html                | Ely Cortez|        Apr 15th, 2024, 3:55 PM          |
-| landing-page | main                   | 48047b00a            |  Update index.html                | Mathias Hidalgo |  Apr 15th, 2024, 3:11 PM           |
-| landing-page | main                   |                    |  Update index.html                   | Mathias Hidalgo |  Apr 15th, 2024, 3:17 PM                  |
-| landing-page | main                   |                    |   Update index.html                  | Mathias Hidalgo |   Apr 15th, 2024, 3:23 PM                 |
+| landing-page | main                   | 48047b00            |  Update index.html                | Mathias Hidalgo |  Apr 15th, 2024, 3:11 PM           |
+| landing-page | main                   |  44e709                |  Update index.html                   | Mathias Hidalgo |  Apr 15th, 2024, 3:17 PM                  |
+| landing-page | main                   |   2f8c4a               |   Update index.html                  | Mathias Hidalgo |   Apr 15th, 2024, 3:23 PM                 |
 | landing-page | main                   |                    |                     | -|                    |
 | landing-page | main                   |                    |                     | -|                    |
 | landing-page | main                   |                    |                     | -|                    |
