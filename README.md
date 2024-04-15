@@ -70,7 +70,7 @@
 |V0.1|03/03/2024|Ely Cortez|Creación del repositorio|
 |V0.2|02/04/2024|               |Implementación de los Wireflow y Capitulo 1|
 |V0.3|03/04/2024|               |Finalización del capitulo 2 y 3|
-|V0.4|09/04/2024|Astrid Boronda |Finalización del capitulo 4|
+|V0.4|09/04/2024|Astrid Boronda <br> Eduard Travezaño |Finalización del capitulo 4|
 |V0.5|14/04/2024|     Ely Cortez|Finalización del capitulo 5|
 |V1.0|14/04/2024|        Sebastian Lobato<br>Mathias Hidalgo<br>Astrid Boronda <br> Eduard Travezaño<br> Ely Cortez       |Finalización del entregable TB1|
 
@@ -88,7 +88,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Sebastian Lobato |Capitulo 1 <br> Capitulo 5: Landing Page <br> Capitulo 4: Class Diagram |
 |Astrid Boronda | Capitulo 4|
 |Mathias Hidalgo |Capitulo 2 |
-|Eduard Travezaño | |
+|Eduard Travezaño | Capitulo 4: Style Guidelines, Information Arquitecture |
 
 
 # Studen Outcome
