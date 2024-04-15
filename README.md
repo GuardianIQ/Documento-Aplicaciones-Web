@@ -212,13 +212,7 @@ En Coritech, nos comprometemos a proporcionar una solución innovadora y accesib
 <table>
   <tr>
     <td>Perfiles de los integrantes del equipo</td>
-    <td>Soy estudiante de la carrera de ingeniería de software, tengo 18 años 
-        y me considero una persona dispuesta a ayudar en los trabajos de grupos y
-        atenta a los detalles de los trabajos. Si se necesita analizar acerca del 
-        proyecto a mayor profundidad, ahí estaré yo. Tengo conocimientos en c++ y 
-        diseño web en html. Además que estoy dispuesta a tener la iniciativa al 
-        iniciar el diálogo con los integrantes del grupo. </td>
-      <td><img src="images/fotoAstrid.png"</td>
+    <td></td>
   </tr>
   <tr>
     <td> 
@@ -240,8 +234,13 @@ trabajar de forma grupal.</td>
     <td><img src="images/fotoElycortez.jpeg"</td>
   </tr>
   <tr>
-    <td> </td>
-    <td><img src="" alt="" width="100" height="100"></td>
+    <td>Soy estudiante de la carrera de ingeniería de software, tengo 18 años 
+        y me considero una persona dispuesta a ayudar en los trabajos de grupos y
+        atenta a los detalles de los trabajos. Si se necesita analizar acerca del 
+        proyecto a mayor profundidad, ahí estaré yo. Tengo conocimientos en c++ y 
+        diseño web en html. Además que estoy dispuesta a tener la iniciativa al 
+        iniciar el diálogo con los integrantes del grupo.</td>
+    <td><img src="images/fotoAstrid.png" alt="" width="100" height="100"></td>
   </tr>
   <tr>
       <td> </td>
