@@ -1719,7 +1719,9 @@ En el primer sprint, el equipo se organizo con la herramienta trello, esta herra
 | landing-page | main                   |        0246cf7        |     Update index.html                | Eduard Travezaño|   Apr 15th, 2024, 3:29 PM                 |
 | landing-page | main                   |          eaf25ce      |        add index.html             | Eduard Travezaño |    Apr 15th, 2024, 3:40 PM                |
 | landing-page | main                   |        05319e5            |         Update style.css            | Eduard Travezaño |         Apr 15th, 2024, 3:50 PM           |
-| landing-page | main                   |                    |                     | -|                    |
+| landing-page | main                   | 1ac3c37               |    add index                | Astrid Boronda | Apr 15th, 2024, 3:13 PM  |
+| landing-page | main                   |  4172441                  |      add index            | Astrid Boronda |   Apr 15th, 2024, 3:18 PM  |
+| landing-page | main                   |     2f8c4ae          |     Update style.css           | Astrid Boronda|   Apr 15th, 2024, 3:24 PM  |
 
 
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
