@@ -444,15 +444,33 @@ Personalización de soluciones de seguridad: Ofrece servicios de consultoría pe
 ### [**2.2.1. Diseño de entrevistas.**](#diseño-de-entrevistas)
 
 **Segmento objetivo #1: Adultos independientes**
-### Preguntas principales:
+### Preguntas:
 
-### Preguntas complementarias:
+¿Qué tan preocupado/a estás por la seguridad en tu hogar?
+¿Has considerado medidas de seguridad en tu hogar anteriormente?
+¿Tienes alguna experiencia previa de seguridad en el hogar que haya influenciado tu percepción de la seguridad personal?
+¿Cuáles son tus principales preocupaciones en cuanto a la seguridad en el hogar?
+¿Qué características consideras esenciales en un sistema de seguridad para tu hogar?
+¿Has investigado sistemas de seguridad basados en tecnología en el mercado?
+¿Te gustaría recibir notificaciones en tiempo real sobre la seguridad de tu hogar?
+¿Qué tipo de personalización en un sistema de seguridad consideras relevante para tus necesidades en tu hogar?
+¿Has considerado invertir en sistemas de seguridad para tu hogar en el pasado?
+
 
 **Segmento objetivo #1: Padres de familia**
 
-### Preguntas principales:
+### Preguntas:
 
-### Preguntas complementarias:
+Cómo calificarías tu nivel actual de preocupación acerca de la seguridad en tu hogar?
+¿Qué medidas de seguridad has considerado implementar en tu hogar?
+¿Has tenido alguna experiencia previa de seguridad en el hogar que haya influido en tu percepción de la seguridad de tu familia?
+¿Cuáles son tus principales preocupaciones en cuanto a la seguridad en el hogar y la protección de tus hijos?
+¿Qué funciones o características consideras más importantes en un sistema de seguridad para tu hogar y tu familia?
+¿Has investigado previamente sistemas de seguridad basados en tecnología en el mercado?
+¿Consideras que la tecnología de inteligencia artificial podría ser beneficiosa para mejorar la seguridad en tu hogar?
+¿Te gustaría recibir notificaciones en tiempo real sobre la seguridad de tu hogar y la de tus hijos?
+¿Qué tipo de personalización en un sistema de seguridad consideras relevante para tu hogar?
+¿Has considerado invertir en sistemas de seguridad para tu hogar en el pasado?
 
 
 ### [**2.2.2. Registro de entrevistas.**](#registro-de-entrevistas)
