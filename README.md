@@ -1496,12 +1496,15 @@ Link del video:
 | Mensaje             | Representa un mensaje en el sistema de comunicación entre el cliente y el empleado.  |
 | Comunicacion        | Representa una comunicación entre dos entidades.      |
 | Empleado            | Representa a un empleado dentro de la empresa.         |
+| Servicio        | Representa el servicio que el cliente esta optando.      |
 | Alerta              | Representa una alerta generada  por el empleado con destino al cliente.         |
+| TipoEmpleado              | Representa los servicios que un empleado brinde, simbolizandose como el tipo de usuario         |
 | PersonaldeSeguridad | Representa un tipo de empleado que brinda un servicio, en este caso el de Personal de seguridad|
 | Asesoramiento       | Representa un tipo de empleado que brinda un servicio, en este caso el de Asesor de dispositivos IOT     |
 | OperadordeMonitoreo | Representa un tipo de empleado que brinda un servicio, en este caso el de Operador de camaras de vigilancia     |
 | Pago                | Representa una transacción de pago.                   |
 | Yape                | Representa un servicio de pago digital Yape.          |
+| Yape                | Representa un servicio de pago digital Paypal.          |
 | Plin                | Representa un servicio de pago digital Plin.          |
 | Tarjeta             | Representa una tarjeta de crédito o débito.           |
 | Dispositivo IOT     | Representa un dispositivo de Internet de las Cosas.    |
