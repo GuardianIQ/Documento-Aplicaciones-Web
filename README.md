@@ -1807,3 +1807,5 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 Para llevar a cabo los commits durante nuestro primer Sprint, 
 hemos utilizado tanto Webstorm como Git. Inicialmente, 
 un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en una rama diferente en Webstorm. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisadosen el repositorio de GitHub.
+![Collaboration1](images/teamcolaborationsinsinghtss.png)
+
