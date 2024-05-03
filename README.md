@@ -1803,3 +1803,7 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 #### [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 #### [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 #### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+ Team Collaboration Insights during Sprint.
+Para llevar a cabo los commits durante nuestro primer Sprint, 
+hemos utilizado tanto Webstorm como Git. Inicialmente, 
+un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en una rama diferente en Webstorm. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisadosen el repositorio de GitHub.
