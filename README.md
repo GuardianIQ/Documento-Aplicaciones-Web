@@ -1777,8 +1777,26 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 
 
 ### [5.2.2. Sprint 2.](#sprint-2)
+
 #### [5.2.2.1. Sprint Planning 2.](#sprint-planning-2)
+
+|Sprint #|Sprint 2|
+| - | - |
+|**Sprint Planning Background**||
+|Date|03-05-2024|
+|Time|13:00|
+|Location|Reunión realizada mediante Discord|
+|Prepared By|Astrid Jimena Boronda Heidinger|
+|Attendees (to planning meeting)|Eduard Gedeon Travezaño Patiño / Ely Rivaldo Cortez Flores/Lobato Pozo Sebastian Valente/mathias adriano hidalgo lopez	/Astrid Jimena Boronda Heidingerz|
+|**Sprint Goal & User Stories**||
+|Sprint 2 Goal|Realizar las funcionalidades clave de nuestras historias principales de la aplicación. Estas funcionalidades son cruciales para la interacción del usuario y nuestra monetización.|
+|Sprint 2 Velocity| 70 |
+|Sum of Story Points|70|
+
 #### [5.2.2.2. Sprint Backlog 2.](#sprint-backlog-2)
+
+
+
 #### [**5.2.2.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 #### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 #### [**5.2.2.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
