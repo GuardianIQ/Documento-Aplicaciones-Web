@@ -1871,7 +1871,11 @@ En este segundo Sprint tenemos los siguientes servicios:
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta https://guardianiqdeploy.vercel.app/ , el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo.
+Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Vercel , el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo para que cualquier 
+usuario con el link pueda visualizar el Frontend  de nuestra aplicación web
+![Image4](images/evidenceDeploit.png)
+https://guardianiqdeploy.vercel.app/
+
 
 #### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
  Team Collaboration Insights during Sprint.
