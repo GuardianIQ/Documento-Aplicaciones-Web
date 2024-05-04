@@ -1854,8 +1854,7 @@ En este segundo Sprint tenemos los siguientes servicios:
 Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta -----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo.
 #### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
  Team Collaboration Insights during Sprint.
-Para llevar a cabo los commits durante nuestro primer Sprint, 
-hemos utilizado tanto Webstorm como Git. Inicialmente, 
-un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en una rama diferente en Webstorm. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisadosen el repositorio de GitHub.
+Para llevar a cabo los commits durante nuestro segundo Sprint, hemos utilizado tanto Webstorm como Git. Inicialmente, 
+un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales  en Webstorm. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
 ![Collaboration1](images/teamcolaborationsinsinghtss.png)
 
