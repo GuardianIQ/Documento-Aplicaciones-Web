@@ -1885,6 +1885,7 @@ un miembro del equipo realizó el primer commit para crear el repositorio. Poste
 
 ![Collaboration1](images/evidenceCommits.png)
 
-Link del video de exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EXG_oVuGJKFIndhDyEt90HoBldmRqpXNUKHhpvg0IyGGAg?e=56mhaP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Link del video de exposición: 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7zY9CvlpB4EURFZcBlof9mxIn9SM3mQdDWM7DGQ?e=aiwLOc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ![Collaboration1](images/evidenceVideo.png)
 
