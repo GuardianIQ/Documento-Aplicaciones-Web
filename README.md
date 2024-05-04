@@ -1815,8 +1815,19 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 #### [**5.2.2.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 #### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 #### [**5.2.2.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
-#### [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
-#### [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+En este segundo Sprint tenemos los siguientes servicios:
+
+|EndPoint|Detalles|
+| - | - |
+|/activeService| En esta ruta se muestra los servicios activos.|
+|/personalSafety| En esta ruta se muestra la pantalla para contartacion de personal de seguridad.|
+|/home| En esta ruta se muestra la pantalla principal|
+|/pageEquipos| En esta ruta se muestran la pantalla para compra de equipos de seguridad.|
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta -----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo.
 #### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
  Team Collaboration Insights during Sprint.
 Para llevar a cabo los commits durante nuestro primer Sprint, 
