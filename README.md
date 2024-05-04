@@ -1839,7 +1839,12 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 
 #### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
+Para la entrega del Sprint 1, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la
+sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones faciles de entender e intuitivas.
 
+| Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
+|-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
+| https://github.com/GuardianIQ/GuardianIQ-Front-end | Front-end | cc7623be   | from GuardianIQ/feature-equiposdeseguridad | 03/05/24           |
 
 #### [**5.2.2.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
