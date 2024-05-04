@@ -1849,7 +1849,7 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 
 ![Image1](images/image1.png)
 
-
+![Image4](images/image4.png)
 
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 En este segundo Sprint tenemos los siguientes servicios:
