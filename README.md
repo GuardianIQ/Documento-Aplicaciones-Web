@@ -1813,6 +1813,32 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 |      |                                                                                                           | T02: Desarrollar interfaz personal disponible  | Desarrollar la interfaz de usuario para mostrar la lista de personal de seguridad disponible para comunicarse.       | 3                  | Mathias Hidalgo        |      Done           |
 
 #### [**5.2.2.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| GuardianIQ-Front-end | main       | d8634ae        | Create README.md        | Ely Cortez | Apr 30, 2024, 12:12 AM        | 
+| GuardianIQ-Front-end | main       | 7fc821a        | first init | Sebastian Lobato| May 03, 2024, 4:32 PM      |
+| GuardianIQ-Front-end | main       | cc7623b        | Merge pull request #1 | Sebastian Lobato| May 03, 2024, 4:47 PM    |
+| GuardianIQ-Front-end | master                   | 0c71a49        |feat: default vite project       | Ely Cortez| May 03, 2024, 3:17 PM                 |
+| GuardianIQ-Front-end | feature-activeService                  | d8634ae           |  Create README.md                    | Ely Cortez|  Apr 30, 2024, 12:12 AM               |
+| GuardianIQ-Front-end | feature-activeService                 |  cc7623b              |    first init           | Sebastian Lobato|       May 03, 2024, 4:32 PM          |
+| GuardianIQ-Front-end | feature-activeService                 |   cc7623b           |  Merge pull request #1                     | Sebastian Lobato|    May 03, 2024, 4:47 PM         |
+| GuardianIQ-Front-end | feature-equiposdeseguridad            | 0c71a49        |feat: default vite project       | Ely Cortez| May 03, 2024, 3:17 PM                 |
+| GuardianIQ-Front-end | feature-equiposdeseguridad                  | e38de58           |  feat: add SecurityEquipments                | Sebastian Lobato |  May 03, 2024, 5:44 PM           |
+| GuardianIQ-Front-end | feature-equiposdeseguridad                  |  176dc07               |  Fixed: toobar-component                   | Sebastian Lobato |  May 03, 2024, 6:34 PM                  |
+| GuardianIQ-Front-end | feature-personalSafety       | d8634ae        | Create README.md        | Ely Cortez | Apr 30, 2024, 12:12 AM        | 
+| GuardianIQ-Front-end | feature-personalSafety       | 7fc821a        | first init | Sebastian Lobato| May 03, 2024, 4:32 PM      |
+| GuardianIQ-Front-end | feature-personalSafety       | cc7623b        | Merge pull request #1 | Sebastian Lobato| May 03, 2024, 4:47 PM    |           
+ GuardianIQ-Front-end | feature-starting-screen       | d8634ae        | Create README.md        | Ely Cortez | Apr 30, 2024, 12:12 AM        | 
+| GuardianIQ-Front-end | feature-starting-screen       | 7fc821a        | first init | Sebastian Lobato| May 03, 2024, 4:32 PM      |
+| GuardianIQ-Front-end | feature-starting-screen       | cc7623b        | Merge pull request #1 | Sebastian Lobato| May 03, 2024, 4:47 PM    |           
+| GuardianIQ-Front-end | feature-starting-screen      |     44800f6          |     feat: initial project          | Astrid Boronda|   May 03, 2024, 8:44 PM  |
+| GuardianIQ-Front-end | feature-starting-screen      |     ad53941         |     feat: add toolbar component           | Astrid Boronda|   May 03, 2024, 8:52 PM  |
+| GuardianIQ-Front-end | feature-starting-screen      |     6cc85f2        |     eat: add popup component          | Astrid Boronda|   May 03, 2024, 8:58 PM  |
+| GuardianIQ-Front-end | feature-starting-screen      |     56834dd         |     feat: add footer component           | Astrid Boronda|   May 03, 2024, 8:59 PM  |
+| GuardianIQ-Front-end | feature-starting-screen      |     398097b          |     fixed: toolbar component           | Astrid Boronda|   May 03, 2024, 9:02 PM  |
+
+
 #### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 #### [**5.2.2.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
