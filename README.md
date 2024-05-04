@@ -1868,8 +1868,8 @@ En este segundo Sprint tenemos los siguientes servicios:
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta ----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo.
-https://guardianiqdeploy.vercel.app/
+Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta https://guardianiqdeploy.vercel.app/ , el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo.
+
 #### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
  Team Collaboration Insights during Sprint.
 Para llevar a cabo los commits durante nuestro segundo Sprint, hemos utilizado tanto Webstorm como Git. Inicialmente, 
