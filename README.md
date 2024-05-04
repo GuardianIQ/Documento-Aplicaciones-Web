@@ -1883,3 +1883,4 @@ Para llevar a cabo los commits durante nuestro segundo Sprint, hemos utilizado t
 un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales  en Webstorm. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
 ![Collaboration1](images/teamcolaborationsinsinghtss.png)
 
+![Collaboration1](images/evidenceCommits.png)
