@@ -1838,7 +1838,15 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 
 
 #### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
+
+
+
 #### [**5.2.2.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
+
+![Image3](images/image3.png)
+
+![Image2](images/image2.png)
+
 ##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 En este segundo Sprint tenemos los siguientes servicios:
 
@@ -1851,7 +1859,8 @@ En este segundo Sprint tenemos los siguientes servicios:
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta -----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo.
+Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta ----, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo.
+https://guardianiqdeploy.vercel.app/
 #### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
  Team Collaboration Insights during Sprint.
 Para llevar a cabo los commits durante nuestro segundo Sprint, hemos utilizado tanto Webstorm como Git. Inicialmente, 
