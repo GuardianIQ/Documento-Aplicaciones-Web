@@ -1676,9 +1676,9 @@ Otro aspecto destacado de GitHub son las "actions", que posibilitan la automatiz
 
 Esta plataforma, que complementa la funcionalidad de Git, permite mantener repositorios de código en almacenamiento basado en la nube, facilitando el trabajo colaborativo al permitir que múltiples colaboradores trabajen en un mismo proyecto, visualizando las ediciones individuales de cada integrante y mejorando así la eficiencia del trabajo en equipo.
 
-## [5.2. Landing Page, Services \& Applications Implementation.](#landing-page-services--applications-implementation)
-### [5.2.1. Sprint 1.](#sprint-1)
-#### [5.2.1.1. Sprint Planning 1.](#sprint-planning-1)
+##[5.2. Landing Page, Services \& Applications Implementation.](#landing-page-services--applications-implementation)
+###[5.2.1. Sprint 1.](#sprint-1)
+####[5.2.1.1. Sprint Planning 1.](#sprint-planning-1)
 
 
 | Sprint #   | sprint 1 | |                                                                                                     |
@@ -1692,7 +1692,7 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | Asistentes a la reunión                      |   Sebastian Valente Lobato Pozo  
 | Asistentes a la reunión                      |   Mathias Adrano Hidalgo Lopez 
 | Asistentes a la reunión                      |   Astrid Jimena Boronda Heidinger
-#### [5.2.1.2. Sprint Backlog 1.](#sprint-backlog-1)
+####[5.2.1.2. Sprint Backlog 1.](#sprint-backlog-1)
 
 En el primer sprint, el equipo se organizo con la herramienta trello, esta herramienta nos facilito realizar las asignaciones de tareas con sus respectivas fechas limites.
 
@@ -1711,7 +1711,7 @@ En el primer sprint, el equipo se organizo con la herramienta trello, esta herra
 | GW08 | Apartado de pie de agina   | G08 | Desarrollo responsive de la página                       | Desarrollo e implementación de la estructura de caja de dudas, cumpliento el estilo y estructura prediseñada .                                        | 2                  | Astrid Boronda  | Done                                  |
 
 
-#### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+####[**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
@@ -1745,7 +1745,7 @@ sección de "Testing" se enfocó en la implementación de las necesidades de los
 | https://github.com/GuardianIQ/LandingPage/tree/main/features | LandingPage/main | 30cb741   | feat: add features (landingPage) | 14/04/24           |
 
 
-#### [**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
+####[**5.2.1.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
 
 ![INICIO](images/inicio.png)
@@ -1758,16 +1758,16 @@ sección de "Testing" se enfocó en la implementación de las necesidades de los
 
 ![trabajaconNosotros](images/trabajaconNosotros.png)
 
-#### [**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
+####[**5.2.1.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 
 Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
 
-#### [**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
+####[**5.2.1.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
 Durante este Sprint (Sprint 1), logramos desarrollar el landing page de GuardianIQ. Su propósito principal es atraer a potenciales clientes y mostrar la esencia de nuestro servicio. Respecto al Main de la landing page, optamos por utilizar Vercel para su despliegue. Aunque la página web aún no está completamente terminada, ya que faltan implementar redireccionamientos para mejorar la interacción con nuestros usuarios, consideramos que el progreso actual de nuestra landing page cumple con el requisito principal de transmitir nuestro servicio de forma clara y estilizada.
 landing page:pageguardianiq.vercel.app/
 
-#### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+####[**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
 Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado tanto Visual Studio Code como Git. Inicialmente, un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en Visual Studio Code. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
 
@@ -1776,9 +1776,9 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 ![Collaboration1](images/collaboration_2.png)
 
 
-### [5.2.2. Sprint 2.](#sprint-2)
+###[5.2.2. Sprint 2.](#sprint-2)
 
-#### [5.2.2.1. Sprint Planning 2.](#sprint-planning-2)
+####[5.2.2.1. Sprint Planning 2.](#sprint-planning-2)
 
 |Sprint #|Sprint 2|
 | - | - |
@@ -1793,7 +1793,7 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 |Sprint 2 Velocity| 70 |
 |Sum of Story Points|70|
 
-#### [5.2.2.2. Sprint Backlog 2.](#sprint-backlog-2)
+####[5.2.2.2. Sprint Backlog 2.](#sprint-backlog-2)
 
 | ID   | User Story                                                                                                | Work-Item / Task                                       | Description                                                                                                                             | Estimation (Hours) | Assigned To | Status              |
 |------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------|
@@ -1810,7 +1810,7 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 | US12 | Pedidos de equipo de seguridad                                                                    | T01: Visualización de Productos de Seguridad | Desarrollar una sección en la página principal para mostrar los diferentes tipos de sistemas de seguridad disponibles para la compra junto con sus precios    | 4                  | Sebastian Lobato    |      Done           |
 |      |                                                                                                           | T02: Implementación de canasta | Crear un sistema de carrito de compras que permita a los usuarios agregar productos de seguridad seleccionados.  | 5                | Sebastian Lobato      |      In process        |
 
-#### [**5.2.2.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+####[**5.2.2.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
@@ -1837,7 +1837,7 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 | GuardianIQ-Front-end | feature-starting-screen      |     398097b          |     fixed: toolbar component           | Astrid Boronda|   May 03, 2024, 9:02 PM  |
 
 
-#### [**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
+####[**5.2.2.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
 Para la entrega del Sprint 1, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la
 sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones faciles de entender e intuitivas.
@@ -1846,7 +1846,7 @@ sección de "Testing" se enfocó en la implementación de las necesidades de los
 |-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
 | https://github.com/GuardianIQ/GuardianIQ-Front-end | Front-end | cc7623be   | from GuardianIQ/feature-equiposdeseguridad | 03/05/24           |
 
-#### [**5.2.2.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
+####[**5.2.2.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
 ![Image3](images/image3.png)
 
@@ -1877,7 +1877,7 @@ usuario con el link pueda visualizar el Frontend  de nuestra aplicación web
 https://guardianiqdeploy.vercel.app/
 
 
-#### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+####[**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
  Team Collaboration Insights during Sprint.
 Para llevar a cabo los commits durante nuestro segundo Sprint, hemos utilizado tanto Webstorm como Git. Inicialmente, 
 un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales  en Webstorm. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
@@ -1888,4 +1888,119 @@ un miembro del equipo realizó el primer commit para crear el repositorio. Poste
 Link del video de exposición: 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7zY9CvlpB4EURFZcBlof9mxIn9SM3mQdDWM7DGQ?e=aiwLOc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ![Collaboration1](images/evidenceVideo.png)
+
+###[5.2.3. Sprint 3.](#sprint-3)
+
+####[5.2.3.1. Sprint Planning 2.](#sprint-planning-3)
+
+|Sprint #|Sprint 3|
+| - | - |
+|**Sprint Planning Background**||
+|Date|03-05-2024|
+|Time|13:00|
+|Location|Reunión realizada mediante Discord|
+|Prepared By|Astrid Jimena Boronda Heidinger|
+|Attendees (to planning meeting)|Eduard Gedeon Travezaño Patiño / Ely Rivaldo Cortez Flores/Lobato Pozo Sebastian Valente/mathias adriano hidalgo lopez	/Astrid Jimena Boronda Heidingerz|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Realizar las funcionalidades clave de nuestras historias principales de la aplicación. Estas funcionalidades son cruciales para la interacción del usuario y nuestra monetización.|
+|Sprint 3 Velocity| 70 |
+|Sum of Story Points|70|
+
+####[5.2.3.2. Sprint Backlog 2.](#sprint-backlog-3)
+
+| ID   | User Story                                                                                                | Work-Item / Task                                       | Description                                                                                                                             | Estimation (Hours) | Assigned To | Status              |
+|------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------|
+| US01 | Registro de usuario                                   | T01: Desarrollar página de registro        | Desarrollar la página de registro de usuario según los criterios de aceptación                                           | 3                  | Astrid Boronda   |      Done           |
+|      |                                                                                                           | T02: Validar Datos | Incluir validaciones de datos para garantizar que se ingresen correctamente                              | 2                  | Astrid Boronda     |      Done           |                                                                                                           
+| US05 | Contratar personal de seguridad                                                                                         | T01: Desarrollar interfaz de comunicación      | Desarrollar la función que permita a los usuarios comunicarse con el personal de seguridad contratado  | 3                  | Eduard Travezaño    |      Done           |
+|      |                                                                                                           | T02: Implementar sistema de mensajeria | Crear un sistema de mensajería que permita a los usuarios enviar mensajes de texto al personal de seguridad a través de la aplicación.       | 5                  | Eduard Travezaño   |      Done           |
+| US06 | Personal de seguridad viene a mi casa                                                                                      | T01: Desarrolar funcionalidad para contratar    | Implementar la funcionalidad que permita a los usuarios contratar personal de seguridad para vigilancia                                        | 3                  | Ely Cortes    |      Done           |
+|      |                                                                                                           | T02: Desarrollar formulario | Desarrollar el formulario de contratación que recopile la información necesaria del usuario y envíe los datos correctamente para su procesamiento.                      | 5                  | Eduard Travezaño   |      Done           |
+| US09 | Búsqueda de servicios               | T01: Desarrollar la barra de búsqueda       | Desarrollar la barra de búsqueda en la página principal que permita a los usuarios buscar servicios por palabras clave.       | 4                  | Ely Cortes    |      Done           |
+|      |                                                                                                           | T02: Implementar funcionalidad al apartado | Integrar la funcionalidad dirija al usuario al apartado correspondiente con los servicios encontrados.             | 5                  | Ely Cortes      |      Done           |
+| US11 | Contratos activados en seguridad de vigilancia                                                                    | T01: Crear sección para ver si está vigente o disponible              | Crear una sección en la página de contratación de personal de seguridad que muestre los contratos si estan vigentes o disponibles para contratar.        | 3                  | Mathias Hidalgo    |      Done           |
+|      |                                                                                                           | T02: Implementar funcionalidad de cancelación       | Integrar la opción para cancelar un contrato de seguridad de vigilancia.       | 2                 | Mathias Hidalgo   |      Done           |
+| US12 | Pedidos de equipo de seguridad                                                                    | T01: Visualización de Productos de Seguridad | Desarrollar una sección en la página principal para mostrar los diferentes tipos de sistemas de seguridad disponibles para la compra junto con sus precios    | 4                  | Sebastian Lobato    |      Done           |
+|      |                                                                                                           | T02: Implementación de canasta | Crear un sistema de carrito de compras que permita a los usuarios agregar productos de seguridad seleccionados.  | 5                | Sebastian Lobato      |      In process        |
+
+####[**5.2.2.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| GuardianIQ-Front-end | main       | d8634ae        | Create README.md        | Ely Cortez | Apr 30, 2024, 12:12 AM        | 
+| GuardianIQ-Front-end | main       | 7fc821a        | first init | Sebastian Lobato| May 03, 2024, 4:32 PM      |
+| GuardianIQ-Front-end | main       | cc7623b        | Merge pull request #1 | Sebastian Lobato| May 03, 2024, 4:47 PM    |
+| GuardianIQ-Front-end | master                   | 0c71a49        |feat: default vite project       | Ely Cortez| May 03, 2024, 3:17 PM                 |
+| GuardianIQ-Front-end | feature-activeService                  | d8634ae           |  Create README.md                    | Ely Cortez|  Apr 30, 2024, 12:12 AM               |
+| GuardianIQ-Front-end | feature-activeService                 |  cc7623b              |    first init           | Sebastian Lobato|       May 03, 2024, 4:32 PM          |
+| GuardianIQ-Front-end | feature-activeService                 |   cc7623b           |  Merge pull request #1                     | Sebastian Lobato|    May 03, 2024, 4:47 PM         |
+| GuardianIQ-Front-end | feature-equiposdeseguridad            | 0c71a49        |feat: default vite project       | Ely Cortez| May 03, 2024, 3:17 PM                 |
+| GuardianIQ-Front-end | feature-equiposdeseguridad                  | e38de58           |  feat: add SecurityEquipments                | Sebastian Lobato |  May 03, 2024, 5:44 PM           |
+| GuardianIQ-Front-end | feature-equiposdeseguridad                  |  176dc07               |  Fixed: toobar-component                   | Sebastian Lobato |  May 03, 2024, 6:34 PM                  |
+| GuardianIQ-Front-end | feature-personalSafety       | d8634ae        | Create README.md        | Ely Cortez | Apr 30, 2024, 12:12 AM        | 
+| GuardianIQ-Front-end | feature-personalSafety       | 7fc821a        | first init | Sebastian Lobato| May 03, 2024, 4:32 PM      |
+| GuardianIQ-Front-end | feature-personalSafety       | cc7623b        | Merge pull request #1 | Sebastian Lobato| May 03, 2024, 4:47 PM    |           
+ GuardianIQ-Front-end | feature-starting-screen       | d8634ae        | Create README.md        | Ely Cortez | Apr 30, 2024, 12:12 AM        | 
+| GuardianIQ-Front-end | feature-starting-screen       | 7fc821a        | first init | Sebastian Lobato| May 03, 2024, 4:32 PM      |
+| GuardianIQ-Front-end | feature-starting-screen       | cc7623b        | Merge pull request #1 | Sebastian Lobato| May 03, 2024, 4:47 PM    |           
+| GuardianIQ-Front-end | feature-starting-screen      |     44800f6          |     feat: initial project          | Astrid Boronda|   May 03, 2024, 8:44 PM  |
+| GuardianIQ-Front-end | feature-starting-screen      |     ad53941         |     feat: add toolbar component           | Astrid Boronda|   May 03, 2024, 8:52 PM  |
+| GuardianIQ-Front-end | feature-starting-screen      |     6cc85f2        |     eat: add popup component          | Astrid Boronda|   May 03, 2024, 8:58 PM  |
+| GuardianIQ-Front-end | feature-starting-screen      |     56834dd         |     feat: add footer component           | Astrid Boronda|   May 03, 2024, 8:59 PM  |
+| GuardianIQ-Front-end | feature-starting-screen      |     398097b          |     fixed: toolbar component           | Astrid Boronda|   May 03, 2024, 9:02 PM  |
+
+
+####[**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
+
+Para la entrega del Sprint 1, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la
+sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones faciles de entender e intuitivas.
+
+| Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
+|-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
+| https://github.com/GuardianIQ/GuardianIQ-Front-end | Front-end | cc7623be   | from GuardianIQ/feature-equiposdeseguridad | 03/05/24           |
+
+####[**5.2.3.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
+
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+En este segundo Sprint tenemos los siguientes servicios:
+
+|EndPoint|Detalles|
+| - | - |
+|/activeService| En esta ruta se muestra los servicios activos.|
+|/personalSafety| En esta ruta se muestra la pantalla para contartacion de personal de seguridad.|
+|/home| En esta ruta se muestra la pantalla principal|
+|/pageEquipos| En esta ruta se muestran la pantalla para compra de equipos de seguridad.|
+
+##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Vercel , el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo para que cualquier 
+usuario con el link pueda visualizar el Frontend  de nuestra aplicación web
+
+https://guardianiqdeploy.vercel.app/
+
+
+####[**5.2.3.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+ Team Collaboration Insights during Sprint.
+Para llevar a cabo los commits durante nuestro segundo Sprint, hemos utilizado tanto Webstorm como Git. Inicialmente, 
+un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales  en Webstorm. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
+
+
+#####[**5.3. Validation Interviews.**](#validation-interviews)
+
+
+
+#####[**5.3.1. Diseño de Entrevistas.**](#diseño-de-entrevistas)
+
+
+#####[**5.3.2. Registro de Entrevistas.**](#registro-de-entrevistas)
+
+
+
+####[**5.3.3. Evaluaciones según heurísticas.**](#evaluacion-segun-heuristicas.)
+
+
+####[**5.4. Video About the Product.**](#video-about-the-product)
+
 
