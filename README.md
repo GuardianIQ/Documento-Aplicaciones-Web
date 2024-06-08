@@ -1993,6 +1993,37 @@ un miembro del equipo realizó el primer commit para crear el repositorio. Poste
 
 ##### [**5.3.1. Diseño de Entrevistas.**](#diseño-de-entrevistas)
 
+**Preguntas generales**
+- ¿Cúal es tu nombre?
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿Cuál es tu ocupación?
+
+### Segmento Objetivo 1:
+
+- ¿Qué opinión tienes sobre la interfaz de usuario de la aplicación web? ¿Te resulta fácil de navegar?
+- ¿Consideras que las funciones de la aplicación web son intuitivas y sencillas de usar?
+- ¿Hay alguna función que te gustaría ver en la aplicación web y que actualmente no esté disponible?
+- ¿Cómo calificarías tu experiencia general al utilizar la aplicación web?
+- ¿Qué es lo que más te gusta y lo que menos te gusta de la aplicación web?
+- ¿Te sentirías cómodo usando nuestra aplicación web de manera regular?
+- ¿Cómo comparas nuestra aplicación web con otras similares que hayas utilizado?
+- ¿Hay algo en la aplicación web que te confunda o te resulte difícil de entender?
+- ¿Recomendarías nuestra aplicación web a tus amigos o familiares?
+- ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
+
+### Segmento Objetivo 2:
+
+- ¿Qué opinión tienes sobre la interfaz de usuario de la aplicación web? ¿Te resulta fácil de navegar?
+- ¿Consideras que las funciones de la aplicación web son intuitivas y sencillas de usar?
+- ¿Hay alguna función que te gustaría ver en la aplicación web y que actualmente no esté disponible?
+- ¿Cómo calificarías tu experiencia general al utilizar la aplicación web?
+- ¿Qué es lo que más te gusta y lo que menos te gusta de la aplicación web?
+- ¿Te sentirías cómodo usando nuestra aplicación web de manera regular?
+- ¿Cómo comparas nuestra aplicación web con otras similares que hayas utilizado?
+- ¿Hay algo en la aplicación web que te confunda o te resulte difícil de entender?
+- ¿Recomendarías nuestra aplicación web a tus amigos o familiares?
+- ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
 
 ##### [**5.3.2. Registro de Entrevistas.**](#registro-de-entrevistas)
 
