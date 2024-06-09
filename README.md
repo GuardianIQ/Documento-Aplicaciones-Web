@@ -1,7 +1,7 @@
 <br />
 
 <div align="center">
-    <h1> Universidad Peruana de Ciencias Aplicada </h1>
+    <h1> Universidad Peruana de Ciencias Aplicadas </h1>
 
   </a>
 
