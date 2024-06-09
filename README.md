@@ -2084,6 +2084,24 @@ un miembro del equipo realizó el primer commit para crear el repositorio. Poste
 
 Alison, luego de su experiencia utilizando GuardianIQ, nos relata que la interfaz de usuario de la aplicación web para contratar personal de seguridad es moderna y atractiva, con una navegación sencilla y funciones intuitivas. Sin embargo, se podría mejorar con la adición de una función para guardar perfiles en una lista de favoritos y filtros de búsqueda más específicos. Su experiencia general ha sido positiva, calificándola con un 8.5 sobre 10, destacando la facilidad de comparación de perfiles y la rapidez del sistema. Aunque podría beneficiarse de filtros más precisos, la aplicación es confiable para un uso regular y supera a otras similares en varios aspectos. No encontré nada confuso y recomendaría la aplicación a otros. Para mejorar la experiencia, sugiere añadir la lista de favoritos, mejorar los filtros  y ofrecer tutoriales interactivos.
 
+**Entrevistado N°2:** Daniel Aguirre Cusinga
+
+- **Sexo:** Masculino
+
+- **Edad:** 21 años
+
+- **Ubicación en la que vive:** El Agustino
+
+**Acerca de la entrevista:**
+
+- **Link:** [https://youtu.be/5lYou84k5dA](https://youtu.be/sSDWpRTwR0U)
+
+- **Duración:** 8:50
+
+**Resumen:** 
+
+La persona entrevistada nos comenta que la aplicación es bastante amigable incluso para personas que no conocen mucho sobre dispositivos electrónicos. Considera que sería mejor usar bots para poder responder las consultas ya que si son una cantidad limitada de asistentes entonces no sería rápida y podría ser ineficiente. Le gusta mucho la facilidad de entender el catálogo puesto que contiene imagen y como es el producto. Tambien recomendaria mucho a personas que conoce para la seguridad de su hogar y, aunque viva en un condominio, no está de más para ver quien entra y sale del lugar por si tiene visitas. 
+
 
 #### [**5.3.3. Evaluaciones según heurísticas.**](#evaluacion-segun-heuristicas.)
 
