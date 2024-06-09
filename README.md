@@ -1706,7 +1706,9 @@ Esta plataforma, que complementa la funcionalidad de Git, permite mantener repos
 | Asistentes a la reunión                      |   Sebastian Valente Lobato Pozo  
 | Asistentes a la reunión                      |   Mathias Adrano Hidalgo Lopez 
 | Asistentes a la reunión                      |   Astrid Jimena Boronda Heidinger
-####[5.2.1.2. Sprint Backlog 1.](#sprint-backlog-1)
+
+
+#### [5.2.1.2. Sprint Backlog 1.](#sprint-backlog-1)
 
 En el primer sprint, el equipo se organizo con la herramienta trello, esta herramienta nos facilito realizar las asignaciones de tareas con sus respectivas fechas limites.
 
