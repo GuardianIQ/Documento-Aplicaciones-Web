@@ -2102,6 +2102,24 @@ Alison, luego de su experiencia utilizando GuardianIQ, nos relata que la interfa
 
 La persona entrevistada nos comenta que la aplicación es bastante amigable incluso para personas que no conocen mucho sobre dispositivos electrónicos. Considera que sería mejor usar bots para poder responder las consultas ya que si son una cantidad limitada de asistentes entonces no sería rápida y podría ser ineficiente. Le gusta mucho la facilidad de entender el catálogo puesto que contiene imagen y como es el producto. Tambien recomendaria mucho a personas que conoce para la seguridad de su hogar y, aunque viva en un condominio, no está de más para ver quien entra y sale del lugar por si tiene visitas. 
 
+**Entrevistado N°3:** Juan Pablo Ramos Mendoza
+
+- **Sexo:** Masculino
+
+- **Edad:** 22 años
+
+- **Ubicación en la que vive:** Chorrillos
+
+**Acerca de la entrevista:**
+
+- **Link:** [https://youtu.be/5lYou84k5dA](https://youtu.be/2wkk8XL3-YU)
+
+- **Duración:** 7:37
+
+**Resumen:** 
+
+La persona entrevistada le parece que la aplicación es bastante sencilla de entender y usar. En su opinión personal, en la parte de "PersonalCardPage", primero deberia ser primero "Contactar" y luego que recien la opción de "Contratar" porque primero deberia ser contactarlos y despues contratarlos. Para el usuario está bien la aplicación como está, si se le añadiera algo tal vez sería mucho. Lo que más le gusta es la organización, los colores que esta relacionado con la seguridad. Le gustaria que el tamaño de la fuente sea ligeramente mayor para que sea más visible. Considera que esta tiene la ventaja sobre otras aplicaciones similares porque no es tan saturada y aun asi completa. Tambien nos menciona que recomendaria a muchas personas usar la aplicación web por la utilidad.
+
 **Segmento objetivo #2: Padres de familia**
 
 **Entrevistado N°1:** Deisy Alhua Cardenas
