@@ -1541,7 +1541,7 @@ Link del video:
 
 ### [**4.8.1. Database Diagram.**](#database-diagram)
 
-![DATABASE](images/DataBase-2024-04-14_18-20.png)
+![DATABASE](images/DataBase.png)
 
 # [**Capítulo V: Product Implementation, Validation & Deployment.**](#capítulo-v-product-implementation-validation--deployment)
 
