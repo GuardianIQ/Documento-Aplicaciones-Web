@@ -71,9 +71,16 @@
 |V0.2|02/04/2024| Sebastian Lobato y Astrid Boronda               |Implementación de los Wireflow y Capitulo 1|
 |V0.3|03/04/2024|               |Finalización del capitulo 2 y 3|
 |V0.4|09/04/2024|Astrid Boronda <br> Eduard Travezaño |Finalización del capitulo 4|
-|V0.5|14/04/2024|     Ely Cortez|Finalización del capitulo 5|
+|V0.5|14/04/2024|     Ely Cortez|Finalización de la primera parte del capitulo 5|
 |V1.0|14/04/2024|        Sebastian Lobato<br>Mathias Hidalgo<br>Astrid Boronda <br> Eduard Travezaño<br> Ely Cortez       |Finalización del entregable TB1|
-
+|V1.1|24/04/2024|        Sebastian Lobato<br>Mathias Hidalgo<br>Astrid Boronda <br> Eduard Travezaño<br> Ely Cortez       |Implementacion de funcionalidades y segunda parte del capitulo 5|
+|V1.2|29/04/2024|        Sebastian Lobato<br>Astrid Boronda <br> Ely Cortez       |Finalizacion del frontend|
+|V1.3|02/05/2024|        Mathias Hidalgo<br> Eduard Travezaño      |Finalizacion de la segunda parte del capitulo 5|
+|V1.4|04/05/2024|        Sebastian Lobato<br>Mathias Hidalgo<br>Astrid Boronda <br> Eduard Travezaño<br> Ely Cortez       |Finalización del entregable TP1|
+|V1.5|16/05/2024|        Sebastian Lobato<br>Mathias Hidalgo<br>Astrid Boronda <br> Eduard Travezaño<br> Ely Cortez       |Implementacion del backend y tercera parte del capitulo 5|
+|V2.0|27/05/2024|        Sebastian Lobato<br>Mathias Hidalgo<br>Astrid Boronda <br> Eduard Travezaño<br> Ely Cortez       |Finalización de la tercera parte del capitulo 5|
+|V2.1|03/06/2024|        Sebastian Lobato<br>Mathias Hidalgo<br>Astrid Boronda <br> Eduard Travezaño<br> Ely Cortez       |Finalización de partes importantes del backend|
+|V2.2|05/06/2024|        Sebastian Lobato<br>Mathias Hidalgo<br>Astrid Boronda <br> Eduard Travezaño<br> Ely Cortez       |Finalización del entregable TB2|
 # Project Report Collaboration Insights
 URL del repositorio de GitHub de la organización: [https://github.com/GuardianIQ](https://github.com/GuardianIQ)
 
@@ -89,6 +96,20 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Astrid Boronda | Capitulo 4|
 |Mathias Hidalgo |Capitulo 2 y capitulo 3 |
 |Eduard Travezaño | Capitulo 4: Style Guidelines, Information Arquitecture |
+
+
+## TP1
+
+Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+|Ely Cortez | Vista principal del Frontend <br> Vista de precios de productos y parte de la segunda parte del capitulo 5 |
+|Sebastian Lobato |  Vista de Consultas (servicio a cliente) y parte de la segunda parte del capitulo 5 |
+|Astrid Boronda | Vista de Contratacion de Personal presencial y parte de la segunda parte del capitulo 5 |
+|Mathias Hidalgo | Vista login y parte de la segunda parte del capitulo 5 |
+|Eduard Travezaño | Vista de Contratacion de personal a distancia y parte de la segunda parte del capitulo 5 |
+
 
 
 # Studen Outcome
