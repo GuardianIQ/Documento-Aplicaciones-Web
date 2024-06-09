@@ -2102,6 +2102,25 @@ Alison, luego de su experiencia utilizando GuardianIQ, nos relata que la interfa
 
 La persona entrevistada nos comenta que la aplicación es bastante amigable incluso para personas que no conocen mucho sobre dispositivos electrónicos. Considera que sería mejor usar bots para poder responder las consultas ya que si son una cantidad limitada de asistentes entonces no sería rápida y podría ser ineficiente. Le gusta mucho la facilidad de entender el catálogo puesto que contiene imagen y como es el producto. Tambien recomendaria mucho a personas que conoce para la seguridad de su hogar y, aunque viva en un condominio, no está de más para ver quien entra y sale del lugar por si tiene visitas. 
 
+**Segmento objetivo #2: Padres de familia**
+
+**Entrevistado N°1:** Deisy Alhua Cardenas
+- **Sexo:** Femenino
+
+- **Edad:** 25
+
+- **Ubicación en la que vive:** San Juan de Lurigancho
+  
+**Acerca de la entrevista:**
+
+- **Link:** [https://youtu.be/q4J2Ti0qqO4](https://youtu.be/kmuWAw3JcMQ)
+
+- **Duración:** 7:12
+
+**Resumen:**
+
+La persona entrevistada opina que la interfaz del usuario es fácil de navegar. Considera que las funciones son sencillas de usar. Le gustaria la función de integración con cámaras de seguridad para que pueda verlo ella misma en tiempo real desde su celular. Siente que la aplicación web tiene una gran usabilidad y utilidad en comparación a otras aplicaciones similares. Como sugerencia le gustaria que agreguen la visualización en tiempo real de las cámaras para los usuarios.
+
 
 #### [**5.3.3. Evaluaciones según heurísticas.**](#evaluacion-segun-heuristicas.)
 
