@@ -1617,9 +1617,9 @@ Link del video:
 ### [**5.1.2. Source Code Management.**](#source-code-management)
 |Integrantes| Cuenta de GitHub      |
 |----------|-----------------------|
-|Boronda Heidinger, Astrid Jimena|mathiasadrianohl@gmail.com|
+|Boronda Heidinger, Astrid Jimena|heidinger.baj.1419@gmail.com|
 |Cortez Flores, Ely Rivaldo|U202215313@upc.edu.pe|
-|Hidalgo Lopez, Mathias Adriano|heidinger.baj.1419@gmail.com|
+|Hidalgo Lopez, Mathias Adriano|mathiasadrianohl@gmail.com|
 |Lobato Pozo, Sebastian Valente|U202215312@upc.edu.pe|
 |Travezaño Patiño, Eduard Gedeon|u20211a789@upc.edu.pe|
 
@@ -1783,7 +1783,7 @@ Este primer Sprint solo trata la implementación del landing page, por lo que no
 Durante este Sprint (Sprint 1), logramos desarrollar el landing page de GuardianIQ. Su propósito principal es atraer a potenciales clientes y mostrar la esencia de nuestro servicio. Respecto al Main de la landing page, optamos por utilizar Vercel para su despliegue. Aunque la página web aún no está completamente terminada, ya que faltan implementar redireccionamientos para mejorar la interacción con nuestros usuarios, consideramos que el progreso actual de nuestra landing page cumple con el requisito principal de transmitir nuestro servicio de forma clara y estilizada.
 landing page:pageguardianiq.vercel.app/
 
-####[**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+#### [**5.2.1.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
 
 Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado tanto Visual Studio Code como Git. Inicialmente, un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en Visual Studio Code. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
 
@@ -1862,7 +1862,7 @@ sección de "Testing" se enfocó en la implementación de las necesidades de los
 |-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
 | https://github.com/GuardianIQ/GuardianIQ-Front-end | Front-end | cc7623be   | from GuardianIQ/feature-equiposdeseguridad | 03/05/24           |
 
-####[**5.2.2.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
+#### [**5.2.2.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
 ![Image3](images/image3.png)
 
@@ -1875,7 +1875,7 @@ sección de "Testing" se enfocó en la implementación de las necesidades de los
 ![Image4](images/evidenceContact.png)
 
 
-##### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+##### [**5.2.2.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 En este segundo Sprint tenemos los siguientes servicios:
 
 |EndPoint|Detalles|
@@ -1885,7 +1885,7 @@ En este segundo Sprint tenemos los siguientes servicios:
 |/home| En esta ruta se muestra la pantalla principal|
 |/pageEquipos| En esta ruta se muestran la pantalla para compra de equipos de seguridad.|
 
-##### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+##### [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
 Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Vercel , el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo para que cualquier 
 usuario con el link pueda visualizar el Frontend  de nuestra aplicación web
@@ -1893,7 +1893,7 @@ usuario con el link pueda visualizar el Frontend  de nuestra aplicación web
 https://guardianiqdeploy.vercel.app/
 
 
-####[**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+#### [**5.2.2.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
  Team Collaboration Insights during Sprint.
 Para llevar a cabo los commits durante nuestro segundo Sprint, hemos utilizado tanto Webstorm como Git. Inicialmente, 
 un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales  en Webstorm. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
@@ -1922,7 +1922,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7
 |Sprint 3 Velocity| 70 |
 |Sum of Story Points|70|
 
-#### [5.2.3.2. Sprint Backlog 2.](#sprint-backlog-3)
+#### [5.2.3.2. Sprint Backlog 3.](#sprint-backlog-3)
 
 | ID   | User Story                                                                                                | Work-Item / Task                                       | Description                                                                                                                             | Estimation (Hours) | Assigned To | Status              |
 |------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------|
@@ -1979,7 +1979,7 @@ sección de "Testing" se enfocó en la implementación de las necesidades de los
 
 
 
-##### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+##### [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 En este segundo Sprint tenemos los siguientes servicios:
 
 |EndPoint|Detalles|
@@ -1989,7 +1989,7 @@ En este segundo Sprint tenemos los siguientes servicios:
 |/home| En esta ruta se muestra la pantalla principal|
 |/pageEquipos| En esta ruta se muestran la pantalla para compra de equipos de seguridad.|
 
-##### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+##### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
 Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Vercel , el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo para que cualquier 
 usuario con el link pueda visualizar el Frontend  de nuestra aplicación web
