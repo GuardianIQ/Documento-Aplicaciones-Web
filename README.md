@@ -100,7 +100,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 
 ## TP1
 
-Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
+Para el desarrollo de la entrega TP1, se opto por dividir el trabajo de la siguiente forma
 
 |Integrante|Actvidades Asignadas|
 |----------|----------|
@@ -110,6 +110,17 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Mathias Hidalgo | Vista login y parte de la segunda parte del capitulo 5 |
 |Eduard Travezaño | Vista de Contratacion de personal a distancia y parte de la segunda parte del capitulo 5 |
 
+## TB2
+
+Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la siguiente forma
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+|Ely Cortez | esarrollo del Backend, Fronted y parte del capitulo 5 |
+|Sebastian Lobato |  Desarrollo del Backend, Fronted y parte del capitulo 5 |
+|Astrid Boronda | Desarrollo del Backend y parte del capitulo 5 |
+|Mathias Hidalgo | Revisión del documento, Fronted y parte del capitulo 5 |
+|Eduard Travezaño | Desarrollo del Fronted y parte del capitulo 5 |
 
 
 # Studen Outcome
@@ -208,19 +219,19 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
       - [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#5227-software-deployment-evidence-for-sprint-review)
       - [**5.2.2.8. Team Collaboration Insights during Sprint.**](#5228-team-collaboration-insights-during-sprint)
     - [**5.2.3. Sprint 3.**](#523-sprint-3)
-      - [**5.2.3.1. Sprint Planning 3.**](#5231-sprint-planning-3)
-      - [**5.2.3.2. Sprint Backlog 3.**](#5232-sprint-backlog-3)
-      - [**5.2.3.3. Development Evidence for Sprint Review.**](#5233-development-evidence-for-sprint-review)
-      - [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#5234-testing-suite-evidence-for-sprint-review)
-      - [**5.2.3.5. Execution Evidence for Sprint Review.**](#5235-execution-evidence-for-sprint-review)
-      - [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#5236-services-documentation-evidence-for-sprint-review)
-      - [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#5237-software-deployment-evidence-for-sprint-review)
-      - [**5.2.3.8. Team Collaboration Insights during Sprint.**](#5238-team-collaboration-insights-during-sprint)
-    - [**5.3. Validation Interviews.**](#53-validation-interviews).
-      - [**5.3.1. Diseño de Entrevistas.**](#531-diseño-de-entrevistas)
-      - [**5.3.2. Registro de Entrevistas.**](#532-registro-de-entrevistas)
-      - [**5.3.3. Evaluaciones según heurísticas.**](#533-evaluacion-segun-heuristicas)
-      - [**5.4. Video About the Product.**](#54-video-about-the-product)
+      - [**5.3.3.1. Sprint Planning 3.**](#5231-sprint-planning-3)
+      - [**5.3.3.2. Sprint Backlog 3.**](#5232-sprint-backlog-3)
+      - [**5.3.3.3. Development Evidence for Sprint Review.**](#5233-development-evidence-for-sprint-review)
+      - [**5.3.3.4. Testing Suite Evidence for Sprint Review.**](#5234-testing-suite-evidence-for-sprint-review)
+      - [**5.3.3.5. Execution Evidence for Sprint Review.**](#5235-execution-evidence-for-sprint-review)
+      - [**5.3.3.6. Services Documentation Evidence for Sprint Review.**](#5236-services-documentation-evidence-for-sprint-review)
+      - [**5.3.3.7. Software Deployment Evidence for Sprint Review.**](#5237-software-deployment-evidence-for-sprint-review)
+      - [**5.3.3.8. Team Collaboration Insights during Sprint.**](#5238-team-collaboration-insights-during-sprint)
+    - [**5.4. Validation Interviews.**](#53-validation-interviews).
+      - [**5.4.1. Diseño de Entrevistas.**](#531-diseño-de-entrevistas)
+      - [**5.4.2. Registro de Entrevistas.**](#532-registro-de-entrevistas)
+      - [**5.4.3. Evaluaciones según heurísticas.**](#533-evaluacion-segun-heuristicas)
+      - [**5.5. Video About the Product.**](#54-video-about-the-product)
 
      
  
@@ -1926,9 +1937,9 @@ Link del video de exposición:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7zY9CvlpB4EURFZcBlof9mxIn9SM3mQdDWM7DGQ?e=aiwLOc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ![Collaboration1](images/evidenceVideo.png)
 
-### [5.2.3. Sprint 3.](#sprint-3)
+### [5.3.3. Sprint 3.](#sprint-3)
 
-#### [5.2.3.1. Sprint Planning 3.](#sprint-planning-3)
+#### [5.3.3.1. Sprint Planning 3.](#sprint-planning-3)
 
 |Sprint #|Sprint 3|
 | - | - |
@@ -1943,7 +1954,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7
 |Sprint 3 Velocity| 70 |
 |Sum of Story Points|70|
 
-#### [5.2.3.2. Sprint Backlog 3.](#sprint-backlog-3)
+#### [5.3.3.2. Sprint Backlog 3.](#sprint-backlog-3)
 
 | ID   | User Story                                                                                                | Work-Item / Task                                       | Description                                                                                                                             | Estimation (Hours) | Assigned To | Status              |
 |------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------|
@@ -1962,7 +1973,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7
 | US06 | Contratar personal de seguridad                                                                    | T01: Lista de personal de seguridad | El usuario puede ver perfiles detallados del personal con su disponibilidad    | 4                  | Sebastian Lobato    |      In progress           |
 |      |                                                                                                           | T02: Cancelar reserva | El usuario puede cancelar o modificar reservas existentes             | 5                  | Ely Cortez      |      Done           |
 
-#### [**5.2.3.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+#### [**5.3.3.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
@@ -1991,7 +2002,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7
 | Backend | personalSafety       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
 
 
-#### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
+#### [**5.3.3.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
 Para la entrega del Sprint 3, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue de la base de datos. Por lo tanto, la
 sección de "Testing" se enfocó en el almacenamiento de datos en dicha base, asi cuando se despliegue el frontend, el usuario pueda ingresar a su cuenta con los datos ya almacenados.
@@ -2000,37 +2011,36 @@ sección de "Testing" se enfocó en el almacenamiento de datos en dicha base, as
 |-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
 | https://github.com/GuardianIQ/Backend | Back-end | cc7623be  | from GuardianIQ/develop | 05/06/24           |
 
-#### [**5.2.3.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
+#### [**5.3.3.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
 ![BasedeDatos](images/BaseDatos.png)
 
 
-##### [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
+##### [**5.3.3.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 En este segundo Sprint tenemos los siguientes servicios:
 
 |EndPoint|Detalles|
 | - | - |
-|/activeService| En esta ruta se muestra los servicios activos.|
-|/personalSafety| En esta ruta se muestra la pantalla para contartacion de personal de seguridad.|
-|/home| En esta ruta se muestra la pantalla principal|
-|/pageEquipos| En esta ruta se muestran la pantalla para compra de equipos de seguridad.|
+|/api/device| En esta ruta se muestran los equipos de seguridad.|
+|/api/PersonalSafety| En esta ruta se muestra al personal de seguridad.|
+|/api/ActiveService| En esta ruta se muestran los servicios activos.|
 
-##### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
+##### [**5.3.3.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
 Utilizando Swagger, herramienta para el desarrollo de API, y en conjunto con ASP.NET Core fue posible desplegar nuestra Back-end, mostrando una una interfaz que permite ver y probar los endpoints disponibles y definidos en el controlador del proyecto.
 
-![ImageBackend](images/VistaBack.png)
+El despliegue aseguro así que el comportamiento observado durante la revisión sería consistente. Asimismo, permitió realizar pruebas y detectar cualquier problema antes de llevar la aplicación a producción.
 
-#### [**5.2.3.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+#### [**5.3.3.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
  Team Collaboration Insights during Sprint.
 Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto Rider y git. Como en la anterior entrega, primero un miembro del equipo realizó el primer commit para crear el repositorio. Luego, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales dentro del Rider. Creamos ramas pertenecientes a la asignación de tareas que realizamos, para luego efectuar los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
 
 
-##### [**5.3. Validation Interviews.**](#validation-interviews)
+##### [**5.4. Validation Interviews.**](#validation-interviews)
 
 
 
-##### [**5.3.1. Diseño de Entrevistas.**](#diseño-de-entrevistas)
+##### [**5.4.1. Diseño de Entrevistas.**](#diseño-de-entrevistas)
 
 **Preguntas generales**
 - ¿Cúal es tu nombre?
@@ -2064,7 +2074,7 @@ Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto
 - ¿Recomendarías nuestra aplicación web a tus amigos o familiares?
 - ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
 
-##### [**5.3.2. Registro de Entrevistas.**](#registro-de-entrevistas)
+##### [**5.4.2. Registro de Entrevistas.**](#registro-de-entrevistas)
 
 **Segmento objetivo #1: Adultos independientes** 
 
@@ -2142,7 +2152,7 @@ La persona entrevistada le parece que la aplicación es bastante sencilla de ent
 La persona entrevistada opina que la interfaz del usuario es fácil de navegar. Considera que las funciones son sencillas de usar. Le gustaria la función de integración con cámaras de seguridad para que pueda verlo ella misma en tiempo real desde su celular. Siente que la aplicación web tiene una gran usabilidad y utilidad en comparación a otras aplicaciones similares. Como sugerencia le gustaria que agreguen la visualización en tiempo real de las cámaras para los usuarios.
 
 
-#### [**5.3.3. Evaluaciones según heurísticas.**](#evaluacion-segun-heuristicas.)
+#### [**5.4.3. Evaluaciones según heurísticas.**](#evaluacion-segun-heuristicas.)
 
 **Adultos independientes**
 
@@ -2262,7 +2272,7 @@ Problema:** Ausencia de bot para responde consultas de los usuarios
 **Heurística violada:** Control y libertad del usuario
 **Problema:** Inexistencia de apartado en donde le usuario puede visualizar las camaras a tiempo real 
 
-#### [**5.4. Video About the Product.**](#video-about-the-product)
+#### [**5.5. Video About the Product.**](#video-about-the-product)
 
 ![ImageTeam](images/ImagenAboutTeam.png)
 
