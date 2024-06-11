@@ -640,6 +640,9 @@ La persona entrevistada se muestra muy preocupada en el hogar por su hija, puest
 **- Instante en el que inicia:** 0:10
 
 **- Duración:** 4:57
+- **Captura:**
+
+  ![Image](images/EntrevistaNorma.jfif)
 
 **Resumen:**
 
