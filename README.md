@@ -116,7 +116,7 @@ Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la sigui
 
 |Integrante|Actvidades Asignadas|
 |----------|----------|
-|Ely Cortez | esarrollo del Backend, Fronted y parte del capitulo 5 |
+|Ely Cortez | Desarrollo del Backend, Fronted y parte del capitulo 5 |
 |Sebastian Lobato |  Desarrollo del Backend, Fronted y parte del capitulo 5 |
 |Astrid Boronda | Desarrollo del Backend y parte del capitulo 5 |
 |Mathias Hidalgo | Revisión del documento, Fronted y parte del capitulo 5 |
