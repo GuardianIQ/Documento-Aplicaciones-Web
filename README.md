@@ -2276,7 +2276,7 @@ Problema:** Ausencia de bot para responde consultas de los usuarios
 #### [**5.5. Video About the Product.**](#video-about-the-product)
 
 
-![AboutTheProduct](VideoDeProducto.png)
+![AboutTheProduct](images/VideoDeProducto.png)
 
 
 **link:** [https://youtu.be/m7Qkzu7KCjY](https://youtu.be/m7Qkzu7KCjY)
