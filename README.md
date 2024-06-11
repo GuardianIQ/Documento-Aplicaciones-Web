@@ -2091,6 +2091,9 @@ Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto
 - **Link:** [https://youtu.be/5lYou84k5dA](https://youtu.be/TTNi7Bes7Ew)
 
 - **Duración:** 2:55
+- **Captura:**
+
+![Image](images/EntrevistaAlison.jfif)
 
 **Resumen:** 
 
