@@ -1960,7 +1960,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7
 | US12 | Pedidos de equipo de seguridad                                                                    | T01: Visualización de Productos de Seguridad | Desarrollar una sección en la página principal para mostrar los diferentes tipos de sistemas de seguridad disponibles para la compra junto con sus precios    | 4                  | Sebastian Lobato    |      Done           |
 |      |                                                                                                           | T02: Implementación de canasta | Crear un sistema de carrito de compras que permita a los usuarios agregar productos de seguridad seleccionados.  | 5                | Sebastian Lobato      |      In process        |
 
-#### [**5.2.2.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+#### [**5.2.3.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
