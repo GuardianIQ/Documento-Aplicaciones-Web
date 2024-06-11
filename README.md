@@ -534,7 +534,7 @@ Cómo calificarías tu nivel actual de preocupación acerca de la seguridad en t
 
 **Segmento objetivo #1: Adultos independientes** 
 
-**Entrevistado N°1:**
+**Entrevistado N°1: Alison Garrido Lujan**
 
 - **Sexo:** Femenino
 
@@ -547,6 +547,9 @@ Cómo calificarías tu nivel actual de preocupación acerca de la seguridad en t
 - **Link:** [https://youtu.be/5lYou84k5dA](https://youtu.be/5lYou84k5dA)
 
 - **Duración:** 2:12
+- **Captura:**
+
+  ![Image](images/EntrevistaAlisson.jfif)
 
 **Resumen:** 
 
@@ -567,6 +570,9 @@ La persona entrevistada expresa una preocupación considerable por la seguridad 
 - **Instante en el que inicia:** 0:12
 
 - **Duración:** 17:24
+- **Captura:**
+
+  ![Image](images/EntrevistaMarjorie.jfif)
 
 **Resumen:**
 
@@ -610,6 +616,9 @@ Durante la entrevista, Brissa comenta que se siente insegura con respecto al lug
 - **Instante en el que inicia:** 0:20
 
 - **Duración:** 3:30
+- **Captura:**
+
+  ![Image](images/EntrevistaDiego.jfif)
 
 **Resumen:**
 
@@ -652,6 +661,9 @@ En la entrevista se vio que la señora Norma, padre de familia, le preocupa su s
 - **Instante en el que inicia:** 0:00
 
 - **Duración:** 5:30
+- **Captura:**
+
+  ![Image](images/EntrevistaEdi.jfif)
 
 **Resumen:**
 
