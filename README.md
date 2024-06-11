@@ -2017,16 +2017,13 @@ En este segundo Sprint tenemos los siguientes servicios:
 
 ##### [**5.2.3.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
 
-Para llevar a cabo la implementación Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Vercel , el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo para que cualquier 
-usuario con el link pueda visualizar el Frontend  de nuestra aplicación web
+Utilizando Swagger, herramienta para el desarrollo de API, y en conjunto con ASP.NET Core fue posible desplegar nuestra Back-end, mostrando una una interfaz que permite ver y probar los endpoints disponibles y definidos en el controlador del proyecto.
 
-https://guardianiqdeploy.vercel.app/
-
+![ImageBackend](images/VistaBack.png)
 
 #### [**5.2.3.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
  Team Collaboration Insights during Sprint.
-Para llevar a cabo los commits durante nuestro segundo Sprint, hemos utilizado tanto Webstorm como Git. Inicialmente, 
-un miembro del equipo realizó el primer commit para crear el repositorio. Posteriormente, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales  en Webstorm. Creamos ramas correspondientes a estos cambios y finalmente realizamos los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
+Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto Rider y git. Como en la anterior entrega, primero un miembro del equipo realizó el primer commit para crear el repositorio. Luego, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales dentro del Rider. Creamos ramas pertenecientes a la asignación de tareas que realizamos, para luego efectuar los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
 
 
 ##### [**5.3. Validation Interviews.**](#validation-interviews)
