@@ -221,19 +221,19 @@ Para el desarrollo de la entrega TB2, se opto por dividir el trabajo de la sigui
       - [**5.2.2.7. Software Deployment Evidence for Sprint Review.**](#5227-software-deployment-evidence-for-sprint-review)
       - [**5.2.2.8. Team Collaboration Insights during Sprint.**](#5228-team-collaboration-insights-during-sprint)
     - [**5.2.3. Sprint 3.**](#523-sprint-3)
-      - [**5.3.3.1. Sprint Planning 3.**](#5231-sprint-planning-3)
-      - [**5.3.3.2. Sprint Backlog 3.**](#5232-sprint-backlog-3)
-      - [**5.3.3.3. Development Evidence for Sprint Review.**](#5233-development-evidence-for-sprint-review)
-      - [**5.3.3.4. Testing Suite Evidence for Sprint Review.**](#5234-testing-suite-evidence-for-sprint-review)
-      - [**5.3.3.5. Execution Evidence for Sprint Review.**](#5235-execution-evidence-for-sprint-review)
-      - [**5.3.3.6. Services Documentation Evidence for Sprint Review.**](#5236-services-documentation-evidence-for-sprint-review)
-      - [**5.3.3.7. Software Deployment Evidence for Sprint Review.**](#5237-software-deployment-evidence-for-sprint-review)
-      - [**5.3.3.8. Team Collaboration Insights during Sprint.**](#5238-team-collaboration-insights-during-sprint)
-    - [**5.4. Validation Interviews.**](#53-validation-interviews).
-      - [**5.4.1. Diseño de Entrevistas.**](#531-diseño-de-entrevistas)
-      - [**5.4.2. Registro de Entrevistas.**](#532-registro-de-entrevistas)
-      - [**5.4.3. Evaluaciones según heurísticas.**](#533-evaluacion-segun-heuristicas)
-      - [**5.5. Video About the Product.**](#54-video-about-the-product)
+      - [**5.3.3.1. Sprint Planning 3.**](#5331-sprint-planning-3)
+      - [**5.3.3.2. Sprint Backlog 3.**](#5332-sprint-backlog-3)
+      - [**5.3.3.3. Development Evidence for Sprint Review.**](#5333-development-evidence-for-sprint-review)
+      - [**5.3.3.4. Testing Suite Evidence for Sprint Review.**](#5334-testing-suite-evidence-for-sprint-review)
+      - [**5.3.3.5. Execution Evidence for Sprint Review.**](#5335-execution-evidence-for-sprint-review)
+      - [**5.3.3.6. Services Documentation Evidence for Sprint Review.**](#5336-services-documentation-evidence-for-sprint-review)
+      - [**5.3.3.7. Software Deployment Evidence for Sprint Review.**](#5337-software-deployment-evidence-for-sprint-review)
+      - [**5.3.3.8. Team Collaboration Insights during Sprint.**](#5338-team-collaboration-insights-during-sprint)
+    - [**5.4. Validation Interviews.**](#54-validation-interviews).
+      - [**5.4.1. Diseño de Entrevistas.**](#541-diseño-de-entrevistas)
+      - [**5.4.2. Registro de Entrevistas.**](#542-registro-de-entrevistas)
+      - [**5.4.3. Evaluaciones según heurísticas.**](#543-evaluacion-segun-heuristicas)
+      - [**5.5. Video About the Product.**](#55-video-about-the-product)
 
      
  
