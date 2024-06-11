@@ -2295,3 +2295,6 @@ Instituto Nacional de Estadística e Informática (2022, julio). Estadísticas d
 
 
 **Video About-the-Team**
+![ImageTeam](images/ImagenAboutTeam.png)
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EXIEIFWh8C9GgLa6zV4LJwQB_ODcy6i_0Q1D0tY-QiT5_A?e=R2OEmt](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EXIEIFWh8C9GgLa6zV4LJwQB_ODcy6i_0Q1D0tY-QiT5_A?e=R2OEmt)
