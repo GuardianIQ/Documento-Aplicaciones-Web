@@ -2266,6 +2266,10 @@ Problema:** Ausencia de bot para responde consultas de los usuarios
 
 #### [**5.4. Video About the Product.**](#video-about-the-product)
 
+![ImageTeam](images/ImagenAboutTeam.png)
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EXIEIFWh8C9GgLa6zV4LJwQB_ODcy6i_0Q1D0tY-QiT5_A?e=R2OEmt](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EXIEIFWh8C9GgLa6zV4LJwQB_ODcy6i_0Q1D0tY-QiT5_A?e=R2OEmt)
+
 # [**Conclusiones**](#conclusiones)
 **Conclusiones y recomendaciones**
 
@@ -2292,9 +2296,3 @@ Crisis24. (s. f.). Crisis24 | LinkedIn. [https://www.linkedin.com/company/crisis
 GardaWorld. (s. f.). Crisis24, a GardaWorld Company, and Direct Travel, Inc. Announce Strategic Partnership to Enhance Services, Capabilities. [https://www.garda.com/press-release/crisis24-a-gardaworld-company-and-direct-travel-inc-announce-strategic-partnership-to-enhance-services-capabilities](https://www.garda.com/press-release/crisis24-a-gardaworld-company-and-direct-travel-inc-announce-strategic-partnership-to-enhance-services-capabilities)
 
 Instituto Nacional de Estadística e Informática (2022, julio). Estadísticas de Seguridad Ciudadana Enero - Junio 2022 (Informe técnico N°4). [https://cdn.www.gob.pe/uploads/document/file/3767526/Informe%20Técnico%20-%20Estadísticas%20de%20Seguridad%20Ciudadana%3A%20Enero%20-%20Junio%202022.pdf](https://cdn.www.gob.pe/uploads/document/file/3767526/Informe%20Técnico%20-%20Estadísticas%20de%20Seguridad%20Ciudadana%3A%20Enero%20-%20Junio%202022.pdf)
-
-
-**Video About-the-Team**
-![ImageTeam](images/ImagenAboutTeam.png)
-
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EXIEIFWh8C9GgLa6zV4LJwQB_ODcy6i_0Q1D0tY-QiT5_A?e=R2OEmt](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EXIEIFWh8C9GgLa6zV4LJwQB_ODcy6i_0Q1D0tY-QiT5_A?e=R2OEmt)
