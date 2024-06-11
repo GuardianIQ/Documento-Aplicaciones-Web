@@ -2109,6 +2109,9 @@ Alison, luego de su experiencia utilizando GuardianIQ, nos relata que la interfa
 - **Link:** [https://youtu.be/5lYou84k5dA](https://youtu.be/sSDWpRTwR0U)
 
 - **Duración:** 8:50
+- **Captura:**
+
+![Image](images/EntrevistaDaniel.jpg)
 
 **Resumen:** 
 
@@ -2127,6 +2130,9 @@ La persona entrevistada nos comenta que la aplicación es bastante amigable incl
 - **Link:** [https://youtu.be/5lYou84k5dA](https://youtu.be/2wkk8XL3-YU)
 
 - **Duración:** 7:37
+- **Captura:**
+
+![Image](images/EntrevistaJuanPablo.jpg)
 
 **Resumen:** 
 
@@ -2146,6 +2152,9 @@ La persona entrevistada le parece que la aplicación es bastante sencilla de ent
 - **Link:** [https://youtu.be/q4J2Ti0qqO4](https://youtu.be/kmuWAw3JcMQ)
 
 - **Duración:** 7:12
+- **Captura:**
+
+![Image](images/EntrevistaDeisy.jpg)
 
 **Resumen:**
 
