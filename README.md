@@ -2179,26 +2179,28 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 | #  | Problema                                                          | Escala de severidad | Heurística/Principio violada(o)                 |
 |----|-------------------------------------------------------------------|---------------------|-------------------------------------------------|
-| 1  | Falta de notificaciones para pagos y registros de nuevos pacientes | 3                   | Usability: Feedback y visibilidad               |
-| 2  | Necesidad de menús desplegables y base de datos editable para exámenes médicos | 4                   | Usability: Flexibilidad y eficiencia de uso     |
-| 3  | Falta de visualización de cartera de pacientes                    | 2                   | Information Architecture: Is it usable?         |
-| 4  | Interfaz no especifica claramente el proceso de pago              | 3                   | Usability: Claridad y simplicidad               |
+| 1  | Sin tutoriales para usuarios | 2                   | Usability: Feedback y visibilidad               |
+| 2  | Interfaz “PersonalCardPage” mal organizada | 3                   | Usability: Flexibilidad y eficiencia de uso     |
+| 3  | Filtro de seleccion malo                    | 1                   | Information Architecture: Is it usable?         |
 
 ## DESCRIPCIÓN DE PROBLEMAS
 
-**PROBLEMA #1: Falta de notificaciones para pagos y registros de nuevos pacientes**  
-**Severidad:** 3  
-**Heurística violada:** Usability - Feedback y visibilidad  
-**Problema:** La aplicación no envía notificaciones adecuadas sobre los pagos de citas y el registro de nuevos pacientes, lo cual puede causar confusión y retrasos en la atención.  
+**PROBLEMA #1:** Sin tutoriales para usuarios
+**Severidad:** 2
+**Heurística violada:** Flexibilidad y eficiencia de uso
+**Problema:** ausencia de tutoriales en la pagina para que los usuarios sepan como usarla
 
-<img src="images/heuristicaDoctor1.png" width=400>
+**PROBLEMA #2:** Interfaz “PersonalCardPage” mal organizada
+**Severidad:** 4
+**Heurística violada:** Estética y diseño
+**Problema:** los componentes de la interfaz estan invertidos 
+![Image](images/personalCardPage-Complete.png)
 
-**Recomendación:** Implementar un sistema de notificaciones claro y visible que informe a los médicos y pacientes sobre el estado de los pagos y registros.
-
-**PROBLEMA #2: Necesidad de menús desplegables y base de datos editable para exámenes médicos**  
-**Severidad:** 4  
-**Heurística violada:** Usability - Flexibilidad y eficiencia de uso  
-**Problema:** La aplicación no permite modificar directamente la información de exámenes médicos, limitando la flexibilidad y eficiencia del uso.  
+**PROBLEMA #3:** Filtro de seleccion malo
+**Severidad:** 3
+**Heurística violada:** Feedback y visibilidad
+**Problema:** Estetica del friltro de seleccion de personal muy basico y para nada llamativo 
+![Image](images/filtro.png)
 
 # **Padres de familia**
 
@@ -2237,26 +2239,26 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 | #  | Problema                                                          | Escala de severidad | Heurística/Principio violada(o)                 |
 |----|-------------------------------------------------------------------|---------------------|-------------------------------------------------|
-| 1  | Falta de filtros avanzados en la búsqueda de doctores             | 3                   | Usability: Flexibilidad y eficiencia de uso     |
-| 2  | Dificultad para actualizar información médica en el perfil        | 2                   | Usability: Claridad y simplicidad               |
-| 3  | Interfaz de la sección de elección de doctor necesita más detalles| 2                   | Usability: Feedback y visibilidad               |
-| 4  | Falta de tutorial para guiar al usuario en las características principales | 2                   | Usability: Ayuda y documentación                |
+| 1  | Falta de bot para consultas             | 3                   | Conexión entre el sistema y el mundo real    |
+| 2  | Falta de visualización de Objetos o personas en “favoritos"        | 2                   | Arquitectura de la Información         |
+| 3  | No visualizacion de camaras a tiempo real| 3                   | Control y libertad del usuario                  |
 
 ## DESCRIPCIÓN DE PROBLEMAS
 
-**PROBLEMA #1: Falta de filtros avanzados en la búsqueda de doctores**  
-**Severidad:** 3  
-**Heurística violada:** Usability - Flexibilidad y eficiencia de uso  
-**Problema:** La aplicación no ofrece filtros avanzados para buscar doctores, lo que limita la precisión y personalización en la búsqueda de un médico especializado.  
-<img src="images/heurisiticapaciente1.png" width=400>
+**PROBLEMA #1:** Falta de bot para consultas
+**Severidad:** 2
+Heurística violada:** Conexión entre el sistema y el mundo real
+Problema:** Ausencia de bot para responde consultas de los usuarios 
 
-**Recomendación:** Implementar filtros avanzados por especialidad, ubicación y otros criterios relevantes para mejorar la precisión en la búsqueda de doctores.
+**PROBLEMA #2:** Falta de visualización de Objetos o personas en “favoritos"
+**Severidad:** 2
+**Heurística violada:** Arquitectura de la Información
+**Problema:** Ausencia de apartado de favoritos para un producto o persona a contratar
 
-**PROBLEMA #2: Dificultad para actualizar información médica en el perfil**  
-**Severidad:** 2  
-**Heurística violada:** Usability - Claridad y simplicidad  
-**Problema:** Los usuarios encuentran confuso el proceso de actualización de la información médica en su perfil, lo que puede llevar a errores o información desactualizada.  
-<img src="images/heurisiticapaciente2.png" width=400>
+**PROBLEMA #3:** No visualizacion de camaras a tiempo real
+**Severidad:** 3
+**Heurística violada:** Control y libertad del usuario
+**Problema:** Inexistencia de apartado en donde le usuario puede visualizar las camaras a tiempo real 
 
 #### [**5.4. Video About the Product.**](#video-about-the-product)
 
