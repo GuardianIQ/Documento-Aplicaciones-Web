@@ -2002,7 +2002,8 @@ sección de "Testing" se enfocó en el almacenamiento de datos en dicha base, as
 
 #### [**5.2.3.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
-![BasedeDatos](images/BaseDatos)
+![BasedeDatos](images/BaseDatos.png)
+
 
 ##### [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
 En este segundo Sprint tenemos los siguientes servicios:
