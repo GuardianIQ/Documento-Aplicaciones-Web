@@ -2080,7 +2080,7 @@ un miembro del equipo realizó el primer commit para crear el repositorio. Poste
 
 **Acerca de la entrevista:**
 
-- **Link:** [[https://youtu.be/5lYou84k5dA](https://youtu.be/TTNi7Bes7Ew)](https://youtu.be/TTNi7Bes7Ew)
+- **Link:** [https://youtu.be/5lYou84k5dA](https://youtu.be/TTNi7Bes7Ew)
 
 - **Duración:** 2:55
 
