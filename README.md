@@ -2262,4 +2262,32 @@ Problema:** Ausencia de bot para responde consultas de los usuarios
 
 #### [**5.4. Video About the Product.**](#video-about-the-product)
 
+# [**Conclusiones**](#conclusiones)
+**Conclusiones y recomendaciones**
 
+El desarrollo de nuestro proyecto, siendo una aplicación web que brinda servicios  y  productos de seguridad a nuestro segmento objetivo, resultó ser un esfuerzo significativo que involucró varios aspectos tanto técnicos, de diseño y experiencia del usuario. A lo largo del proyecto, se han logrado importantes avances y aprendizajes, siendo los principales el de la interfaz de usuario que resulta ser amigable e intuitiva, lo que permite una fácil interacción de los usuarios con la aplicación. Asimismo, utilizamos tecnología como ASP.NET Core para el backend y frameworks de frontend como Vue, asegurando rendimiento y escalabilidad. De la misma forma, recibimos retroalimentación de los usuarios que nos permitió refinar y mejorar aspectos de la aplicación.
+
+Al principio presentamos dificultades en el desarrollo tanto del frontend como backend de nuestra aplicación debido a que no estábamos familiarizados con los lenguajes usados y nos costó entender la teoría presentada en clase, lo cual significó un reto para nosotros poder implementarlo, pero logramos resolverlo ayudándonos cuando tuviéramos dudas durante la realización.
+
+El desarrollo de esta aplicación ha sido un proceso desafiante, culminando en una solución que ofrece valor a los usuarios. A través de un enfoque centrado en el usuario, tecnologías y prácticas de desarrollo, se ha logrado crear una herramienta efectiva que contribuye significativamente a la seguridad personal. El aprendizaje obtenido durante este proyecto sienta una base sólida para futuros desarrollos y mejoras continuas.
+
+# [**Bibliografía**](#bibliografía)
+
+ADT. (s. f.). ADT. [https://www.adtsecurity.com.au/](https://www.adtsecurity.com.au/)
+
+ADT. (s.f.) ADT Home Alarm Systems | Home Security Systems Provider. [https://www.adt.com](https://www.adt.com)
+
+Allied Universal. (s. f.) Security Company Services, Systems & Solutions | Allied Universal. [https://ausecurity.ca/](https://ausecurity.ca/)
+
+Allied Universal Allied Universal Security Services. (s. f.) Systems and Solutions. [https://www.aus.com/](https://www.aus.com/)
+
+Crisis 24. (s. f.). Crisis24 | Actionable Risk Management. [https://crisis24.garda.com/](https://crisis24.garda.com/)
+
+Crisis24. (s. f.). Crisis24 | LinkedIn. [https://www.linkedin.com/company/crisis24/](https://www.linkedin.com/company/crisis24/)
+
+GardaWorld. (s. f.). Crisis24, a GardaWorld Company, and Direct Travel, Inc. Announce Strategic Partnership to Enhance Services, Capabilities. [https://www.garda.com/press-release/crisis24-a-gardaworld-company-and-direct-travel-inc-announce-strategic-partnership-to-enhance-services-capabilities](https://www.garda.com/press-release/crisis24-a-gardaworld-company-and-direct-travel-inc-announce-strategic-partnership-to-enhance-services-capabilities)
+
+Instituto Nacional de Estadística e Informática (2022, julio). Estadísticas de Seguridad Ciudadana Enero - Junio 2022 (Informe técnico N°4). [https://cdn.www.gob.pe/uploads/document/file/3767526/Informe%20Técnico%20-%20Estadísticas%20de%20Seguridad%20Ciudadana%3A%20Enero%20-%20Junio%202022.pdf](https://cdn.www.gob.pe/uploads/document/file/3767526/Informe%20Técnico%20-%20Estadísticas%20de%20Seguridad%20Ciudadana%3A%20Enero%20-%20Junio%202022.pdf)
+
+
+**Video About-the-Team**
