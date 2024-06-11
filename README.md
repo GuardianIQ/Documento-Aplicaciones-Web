@@ -1950,7 +1950,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7
 |Prepared By|Astrid Jimena Boronda Heidinger|
 |Attendees (to planning meeting)|Eduard Gedeon Travezaño Patiño / Ely Rivaldo Cortez Flores/Lobato Pozo Sebastian Valente/mathias adriano hidalgo lopez	/Astrid Jimena Boronda Heidingerz|
 |**Sprint Goal & User Stories**||
-|Sprint 3 Goal|Finalizar las vistas que muestre el funcionamiento del coire del negocio.|
+|Sprint 3 Goal|Finalizar las vistas que muestre el funcionamiento del core del negocio junto con el backend.|
 |Sprint 3 Velocity| 70 |
 |Sum of Story Points|70|
 
