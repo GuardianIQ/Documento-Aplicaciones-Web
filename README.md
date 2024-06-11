@@ -1993,12 +1993,12 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7
 
 #### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
-Para la entrega del Sprint 1, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la
-sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones faciles de entender e intuitivas.
+Para la entrega del Sprint 3, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue de la base de datos. Por lo tanto, la
+sección de "Testing" se enfocó en el almacenamiento de datos en dicha base, asi cuando se despliegue el frontend, el usuario pueda ingresar a su cuenta con los datos ya almacenados.
 
 | Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
 |-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
-| https://github.com/GuardianIQ/GuardianIQ-Front-end | Front-end | cc7623be   | from GuardianIQ/feature-equiposdeseguridad | 03/05/24           |
+| https://github.com/GuardianIQ/Backend | Back-end | cc7623be  | from GuardianIQ/develop | 05/06/24           |
 
 #### [**5.2.3.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
