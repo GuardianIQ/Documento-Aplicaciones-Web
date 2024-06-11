@@ -1967,15 +1967,15 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7
 | Backend | main       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
 | Backend | main       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
 | Backend | main       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
-| Backend | activeService       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:13 PM  | 
-| Backend | activeService       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:33 PM  |
-| Backend | activeService       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:48 PM   |
-| Backend | develop       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:15 PM  | 
-| Backend | develop       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:34 PM  |
-| Backend | develop       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:48 PM   |
-| Backend | devices    | 7bb2c26        | feat:first commit      | Ely Cortez| Jun 05, 2024, 6:15 PM     |
-| Backend | devices    | ce084e6        | feat:add tempalte project       | Ely Cortez| Jun 08, 2024, 4:37 PM   |
-| Backend | devices    | 0b16479        | feat:add default project       | Ely Cortez| Jun 08, 2024, 5:57 PM    |
+| Backend | activeService       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
+| Backend | activeService       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
+| Backend | activeService       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
+| Backend | develop       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
+| Backend | develop       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
+| Backend | develop       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
+| Backend | devices    | 7bb2c26        | feat:first commit      | Ely Cortez| Jun 05, 2024, 6:12 PM     |
+| Backend | devices    | ce084e6        | feat:add tempalte project       | Ely Cortez| Jun 08, 2024, 4:32 PM   |
+| Backend | devices    | 0b16479        | feat:add default project       | Ely Cortez| Jun 08, 2024, 5:47 PM    |
 | Backend | devices    | 29ea2d5| Created devices | Sebastian Lobato | Jun 08, 2024, 8:03pm |
 | Backend | devices    | 6b0c294| Create DeviceController.cs | Sebastian Lobato | Jun 08, 2024, 8:15pm |
 | Backend | devices    | 066d9ea| Create Device.cs | Sebastian Lobato | Jun 08, 2024, 8:21pm |
@@ -1984,9 +1984,9 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215313_upc_edu_pe/EbgZCkW7
 | Backend | devices    | e679676| Update Program.cs | Sebastian Lobato | Jun 08, 2024, 8:57pm |
 | Backend | devices    | 47575e2| Dependencies updates | Sebastian Lobato | Jun 08, 2024, 9:23pm |
 | Backend | devices    | 492f451| Update appsettings.json | Sebastian Lobato | Jun 08, 2024, 9:44pm |
-| Backend | personalSafety       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:18 PM  | 
-| Backend | personalSafety       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:38 PM  |
-| Backend | personalSafety       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:57 PM   |
+| Backend | personalSafety       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
+| Backend | personalSafety       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
+| Backend | personalSafety       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
 
 
 #### [**5.2.3.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
