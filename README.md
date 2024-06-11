@@ -2272,11 +2272,7 @@ Problema:** Ausencia de bot para responde consultas de los usuarios
 **Heurística violada:** Control y libertad del usuario
 **Problema:** Inexistencia de apartado en donde le usuario puede visualizar las camaras a tiempo real 
 
-#### [**5.5. Video About the Product.**](#video-about-the-product)
 
-![ImageTeam](images/ImagenAboutTeam.png)
-
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EXIEIFWh8C9GgLa6zV4LJwQB_ODcy6i_0Q1D0tY-QiT5_A?e=R2OEmt](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EXIEIFWh8C9GgLa6zV4LJwQB_ODcy6i_0Q1D0tY-QiT5_A?e=R2OEmt)
 
 # [**Conclusiones**](#conclusiones)
 **Conclusiones y recomendaciones**
@@ -2287,6 +2283,11 @@ Al principio presentamos dificultades en el desarrollo tanto del frontend como b
 
 El desarrollo de esta aplicación ha sido un proceso desafiante, culminando en una solución que ofrece valor a los usuarios. A través de un enfoque centrado en el usuario, tecnologías y prácticas de desarrollo, se ha logrado crear una herramienta efectiva que contribuye significativamente a la seguridad personal. El aprendizaje obtenido durante este proyecto sienta una base sólida para futuros desarrollos y mejoras continuas.
 
+#### [**5.5. Video About the Product.**](#video-about-the-product)
+
+![ImageTeam](images/ImagenAboutTeam.png)
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EXIEIFWh8C9GgLa6zV4LJwQB_ODcy6i_0Q1D0tY-QiT5_A?e=R2OEmt](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215312_upc_edu_pe/EXIEIFWh8C9GgLa6zV4LJwQB_ODcy6i_0Q1D0tY-QiT5_A?e=R2OEmt)
 # [**Bibliografía**](#bibliografía)
 
 ADT. (s. f.). ADT. [https://www.adtsecurity.com.au/](https://www.adtsecurity.com.au/)
