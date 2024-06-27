@@ -2074,9 +2074,9 @@ Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto
 | ID   | User Story                                                                                                | Work-Item / Task                                       | Description                                                                                                                             | Estimation (Hours) | Assigned To | Status              |
 |------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------|
 | US01 | Registro de usuario                                   | T01: Desarrollar página de registro e inicio de sesión       | Desarrollar la página de registro e inicio de sesión de usuario                                            | 3                  | Mathias Hidalgo  |      Done           |
-|      |                                                                                                           | T02: Validar Datos | Incluir validaciones de datos para garantizar que se ingresen correctamente                              | 2                  | Mathias Hidalgo    |      In progress           |                                                                                                           
+|      |                                                                                                           | T02: Validar Datos | Incluir validaciones de datos para garantizar que se ingresen correctamente                              | 2                  | Mathias Hidalgo    |      Done           |                                                                                                           
 | US05 | Contratar personal de seguridad                                                                                         | T01: Apartado de selección de usuarios    | Mostrar el personal de seguridad contratado por el usuario  | 3                  | Ely Cortez    |      Done           |
-|      |                                                                                                           | T02:  Contratar al personal de seguridad | Crear un sistema de que permita la selección del personal de seguridad que escoja el usuario       | 5                  | Eduard Travezaño   |      In progress           |
+|      |                                                                                                           | T02:  Contratar al personal de seguridad | Crear un sistema de que permita la selección del personal de seguridad que escoja el usuario       | 5                  | Eduard Travezaño   |      Done           |
 |      |                                                                                                           | T03: Sección de vigilante de cámaras | Mostrar una lista del pvigilantes de cámaras que se puede contratar       | 5                  | Eduard Travezaño   |      In progress          |
 | US12 | Pedidos de equipos de seguridad                                                                                      | T01: Ver dispositivos contratados    | Mostrar una lista de dispositivos que fueron conseguidos por el usuario                                 | 3                  | Ely Cortez    |      Done           |
 |      |                                                                                                           | T02: Agregar nuevo dispositivo | Mostrar en la lista el dispositivo agregado por el usuario                      | 5                  | Eduard Travezaño   |      Done           |
@@ -2085,9 +2085,70 @@ Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto
 |      |                                                                                                           | T02: Implementar funcionalidad al apartado | Integrar la funcionalidad dirija al usuario al apartado correspondiente con los servicios encontrados.             | 5                  | Ely Cortez      |      Done           |
 | US11 | Contratos activados en seguridad de vigilancia                                                                    | T01: Crear sección para ver si está vigente o disponible              | Crear una sección en la página de contratación de personal de seguridad que muestre los contratos si estan vigentes o disponibles para contratar.        | 3                  | Astrid Boronda    |      Done           |
 |      |                                                                                                           | T02: Implementar funcionalidad de cancelación       | Integrar la opción para cancelar un contrato de seguridad de vigilancia.       | 2                 | Astrid Boronda   |      Done           |
-| US06 | Contratar personal de seguridad                                                                    | T01: Lista de personal de seguridad | El usuario puede ver perfiles detallados del personal con su disponibilidad    | 4                  | Sebastian Lobato    |      In progress           |
+| US06 | Contratar personal de seguridad                                                                    | T01: Lista de personal de seguridad | El usuario puede ver perfiles detallados del personal con su disponibilidad    | 4                  | Sebastian Lobato    |      Done           |
 |      |                                                                                                           | T02: Cancelar reserva | El usuario puede cancelar o modificar reservas existentes             | 5                  | Ely Cortez      |      Done           |
 
+#### [**5.2.4.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| Backend | main       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
+| Backend | main       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
+| Backend | main       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
+| Backend | activeService       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
+| Backend | activeService       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
+| Backend | activeService       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
+| Backend | develop       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
+| Backend | develop       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
+| Backend | develop       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
+| Backend | devices    | 7bb2c26        | feat:first commit      | Ely Cortez| Jun 05, 2024, 6:12 PM     |
+| Backend | devices    | ce084e6        | feat:add tempalte project       | Ely Cortez| Jun 08, 2024, 4:32 PM   |
+| Backend | devices    | 0b16479        | feat:add default project       | Ely Cortez| Jun 08, 2024, 5:47 PM    |
+| Backend | devices    | 29ea2d5| Created devices | Sebastian Lobato | Jun 08, 2024, 8:03pm |
+| Backend | devices    | 6b0c294| Create DeviceController.cs | Sebastian Lobato | Jun 08, 2024, 8:15pm |
+| Backend | devices    | 066d9ea| Create Device.cs | Sebastian Lobato | Jun 08, 2024, 8:21pm |
+| Backend | devices    | f0a7da2| Create appDbContext.cs | Sebastian Lobato | Jun 08, 2024, 8:33pm |
+| Backend | devices    | d25ba54| Update DeviceController and Device class | Sebastian Lobato | Jun 08, 2024, 8:42pm |
+| Backend | devices    | e679676| Update Program.cs | Sebastian Lobato | Jun 08, 2024, 8:57pm |
+| Backend | devices    | 47575e2| Dependencies updates | Sebastian Lobato | Jun 08, 2024, 9:23pm |
+| Backend | devices    | 492f451| Update appsettings.json | Sebastian Lobato | Jun 08, 2024, 9:44pm |
+| Backend | personalSafety       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
+| Backend | personalSafety       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
+| Backend | personalSafety       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
+
+
+#### [**5.2.4.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
+
+Para la entrega del Sprint 3, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue de la base de datos. Por lo tanto, la
+sección de "Testing" se enfocó en el almacenamiento de datos en dicha base, asi cuando se despliegue el frontend, el usuario pueda ingresar a su cuenta con los datos ya almacenados.
+
+| Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
+|-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
+| https://github.com/GuardianIQ/Backend | Back-end | cc7623be  | from GuardianIQ/develop | 05/06/24           |
+
+#### [**5.2.4.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
+
+![BasedeDatos](images/BaseDatos.png)
+
+
+##### [**5.2.4.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
+En este segundo Sprint tenemos los siguientes servicios:
+
+|EndPoint|Detalles|
+| - | - |
+|/api/device| En esta ruta se muestran los equipos de seguridad.|
+|/api/PersonalSafety| En esta ruta se muestra al personal de seguridad.|
+|/api/ActiveService| En esta ruta se muestran los servicios activos.|
+
+##### [**5.2.4.7. Software Deployment Evidence for Sprint Review.**](#software-deployment-evidence-for-sprint-review)
+
+Utilizando Swagger, herramienta para el desarrollo de API, y en conjunto con ASP.NET Core fue posible desplegar nuestra Back-end, mostrando una una interfaz que permite ver y probar los endpoints disponibles y definidos en el controlador del proyecto.
+
+El despliegue aseguro así que el comportamiento observado durante la revisión sería consistente. Asimismo, permitió realizar pruebas y detectar cualquier problema antes de llevar la aplicación a producción.
+
+#### [**5.2.4.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
+ Team Collaboration Insights during Sprint.
+Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto Rider y git. Como en la anterior entrega, primero un miembro del equipo realizó el primer commit para crear el repositorio. Luego, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales dentro del Rider. Creamos ramas pertenecientes a la asignación de tareas que realizamos, para luego efectuar los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
 
 
 ##### [**5.3. Validation Interviews.**](#validation-interviews)
