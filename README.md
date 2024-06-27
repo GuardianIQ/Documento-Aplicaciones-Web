@@ -2052,6 +2052,43 @@ El despliegue aseguro así que el comportamiento observado durante la revisión 
  Team Collaboration Insights during Sprint.
 Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto Rider y git. Como en la anterior entrega, primero un miembro del equipo realizó el primer commit para crear el repositorio. Luego, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales dentro del Rider. Creamos ramas pertenecientes a la asignación de tareas que realizamos, para luego efectuar los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
 
+### [5.3.4. Sprint 4.](#sprint-4)
+
+#### [5.3.4.1. Sprint Planning 4.](#sprint-planning-4)
+
+|Sprint #|Sprint 4|
+| - | - |
+|**Sprint Planning Background**||
+|Date|03-05-2024|
+|Time|13:00|
+|Location|Reunión realizada mediante Discord|
+|Prepared By|Astrid Jimena Boronda Heidinger|
+|Attendees (to planning meeting)|Eduard Gedeon Travezaño Patiño / Ely Rivaldo Cortez Flores/Lobato Pozo Sebastian Valente/mathias adriano hidalgo lopez	/Astrid Jimena Boronda Heidingerz|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Finalizar las vistas que muestre el funcionamiento del core del negocio junto con el backend.|
+|Sprint 3 Velocity| 70 |
+|Sum of Story Points|70|
+
+#### [5.3.4.2. Sprint Backlog 3.](#sprint-backlog-4)
+
+| ID   | User Story                                                                                                | Work-Item / Task                                       | Description                                                                                                                             | Estimation (Hours) | Assigned To | Status              |
+|------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------|
+| US01 | Registro de usuario                                   | T01: Desarrollar página de registro e inicio de sesión       | Desarrollar la página de registro e inicio de sesión de usuario                                            | 3                  | Mathias Hidalgo  |      Done           |
+|      |                                                                                                           | T02: Validar Datos | Incluir validaciones de datos para garantizar que se ingresen correctamente                              | 2                  | Mathias Hidalgo    |      In progress           |                                                                                                           
+| US05 | Contratar personal de seguridad                                                                                         | T01: Apartado de selección de usuarios    | Mostrar el personal de seguridad contratado por el usuario  | 3                  | Ely Cortez    |      Done           |
+|      |                                                                                                           | T02:  Contratar al personal de seguridad | Crear un sistema de que permita la selección del personal de seguridad que escoja el usuario       | 5                  | Eduard Travezaño   |      In progress           |
+|      |                                                                                                           | T03: Sección de vigilante de cámaras | Mostrar una lista del pvigilantes de cámaras que se puede contratar       | 5                  | Eduard Travezaño   |      In progress          |
+| US12 | Pedidos de equipos de seguridad                                                                                      | T01: Ver dispositivos contratados    | Mostrar una lista de dispositivos que fueron conseguidos por el usuario                                 | 3                  | Ely Cortez    |      Done           |
+|      |                                                                                                           | T02: Agregar nuevo dispositivo | Mostrar en la lista el dispositivo agregado por el usuario                      | 5                  | Eduard Travezaño   |      Done           |
+|      |                                                                                                           | T02: Eliminar dispositivo | Mostrar en la lista el dispositivo eliminado por el usuario                      | 5                  | Eduard Travezaño   |      Done           |
+| US09 | Búsqueda de servicios               | T01: Desarrollar la barra de búsqueda       | Desarrollar la barra de búsqueda en la página principal que permita a los usuarios buscar servicios por palabras clave.       | 4                  | Eduard Travezaño    |      Done           |
+|      |                                                                                                           | T02: Implementar funcionalidad al apartado | Integrar la funcionalidad dirija al usuario al apartado correspondiente con los servicios encontrados.             | 5                  | Ely Cortez      |      Done           |
+| US11 | Contratos activados en seguridad de vigilancia                                                                    | T01: Crear sección para ver si está vigente o disponible              | Crear una sección en la página de contratación de personal de seguridad que muestre los contratos si estan vigentes o disponibles para contratar.        | 3                  | Astrid Boronda    |      Done           |
+|      |                                                                                                           | T02: Implementar funcionalidad de cancelación       | Integrar la opción para cancelar un contrato de seguridad de vigilancia.       | 2                 | Astrid Boronda   |      Done           |
+| US06 | Contratar personal de seguridad                                                                    | T01: Lista de personal de seguridad | El usuario puede ver perfiles detallados del personal con su disponibilidad    | 4                  | Sebastian Lobato    |      In progress           |
+|      |                                                                                                           | T02: Cancelar reserva | El usuario puede cancelar o modificar reservas existentes             | 5                  | Ely Cortez      |      Done           |
+
+
 
 ##### [**5.4. Validation Interviews.**](#validation-interviews)
 
