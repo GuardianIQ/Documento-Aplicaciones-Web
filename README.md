@@ -2069,7 +2069,7 @@ Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto
 |Sprint 3 Velocity| 70 |
 |Sum of Story Points|70|
 
-#### [5.2.4.2. Sprint Backlog 3.](#sprint-backlog-4)
+#### [5.2.4.2. Sprint Backlog 4.](#sprint-backlog-4)
 
 | ID   | User Story                                                                                                | Work-Item / Task                                       | Description                                                                                                                             | Estimation (Hours) | Assigned To | Status              |
 |------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|---------------------|
@@ -2128,7 +2128,7 @@ sección de "Testing" se enfocó en el almacenamiento de datos en dicha base, as
 
 #### [**5.2.4.5. Execution Evidence for Sprint Review.**](#execution-evidence-for-sprint-review)
 
-![BasedeDatos](images/BaseDatos.png)
+
 
 
 ##### [**5.2.4.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
