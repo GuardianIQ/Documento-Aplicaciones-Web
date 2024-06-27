@@ -1770,10 +1770,10 @@ En el primer sprint, el equipo se organizo con la herramienta trello, esta herra
 | GW02 | Apartado del Footer   | G02 | Footer responsivos (Desarrollado en HTML).         | Desarrollo e implementación de  pie de página (Footer) responsivo y estilisado por css.   | 2                  | Sebastian Lobato       | Done                                  |
 | GW03 | Apartado Home         | G03 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de la estructura de la sección inicio predefinida            | 3                  | Astrid Boronda       | Done                                  |
 | GW04 | Apartado Servicio     | G04 | (Desarrollado en HTML y CSS)                             | Desarrollo e implementación de los estilos que corresponden a servicio. Debe ser responsive.                  | 2                  | Mathias HIdalgo | Done                                  |
-| GW05 | Apartado Sobre nosotros     | G05 | Sección "Sobre nosotro"(Desarrollado en HTML)           | Desarrollo e implementación de la estructura  que corresponde a la sección Sobre nosotros. Debe ser responsive y estilisado con los coores establecidos.    | 3                  | Eduard Travezaño       | Done                                  |
+| GW05 | Apartado Sobre nosotros     | G05 | Sección "Sobre nosotro"(Desarrollado en HTML)           | Desarrollo e implementación de la estructura  que corresponde a la sección Sobre nosotros. Debe ser responsive y estilisado con los cores establecidos.    | 3                  | Eduard Travezaño       | Done                                  |
 | GW06 | Apartado Trabaja con nosotros  | G06 | Información de caracteristicas del trabajo (Desarrollado en HTML y CSS)      | Desarrollo e implementación de los estilos que corresponden a la información de de las caracteristicas, implementando los estilos definidos. Debe ser responsive. | 3                  | Ely Cortez      | Done                                  |
 | GW07 | Apartado reseña       | G07 | Estructurar y estilzar las reseñas obtenidas ) | Desarrollo e implementación de los estilos que corresponden a la reseña del servicio. Debe ser responsive.   | 3                  | Sebastian Valente  | Done                                  |
-| GW08 | Apartado de pie de agina   | G08 | Desarrollo responsive de la página                       | Desarrollo e implementación de la estructura de caja de dudas, cumpliento el estilo y estructura prediseñada .                                        | 2                  | Astrid Boronda  | Done                                  |
+| GW08 | Apartado de pie de página   | G08 | Desarrollo responsive de la página                       | Desarrollo e implementación de la estructura de caja de dudas, cumpliento el estilo y estructura prediseñada .                                        | 2                  | Astrid Boronda  | Done                                  |
 
 
 #### [**5.2.1.3. Development Evidence for Sprint Review.**](#development-evidence-for-sprint-review)
@@ -1803,7 +1803,7 @@ En el primer sprint, el equipo se organizo con la herramienta trello, esta herra
 #### [**5.2.1.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
 Para la entrega del Sprint 1, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue del Landing Page. Por lo tanto, la
-sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones faciles de entender e intuitivas.
+sección de "Testing" se enfocó en la implementación de las necesidades de los usuarios, priorizando secciones fáciles de entender e intuitivas.
 
 | Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
 |-------------------------------------------------------------|----------------|-----------|----------------------------------|--------------------|
@@ -1852,7 +1852,7 @@ Para llevar a cabo los commits durante nuestro primer Sprint, hemos utilizado ta
 |Time|13:00|
 |Location|Reunión realizada mediante Discord|
 |Prepared By|Astrid Jimena Boronda Heidinger|
-|Attendees (to planning meeting)|Eduard Gedeon Travezaño Patiño / Ely Rivaldo Cortez Flores/Lobato Pozo Sebastian Valente/mathias adriano hidalgo lopez	/Astrid Jimena Boronda Heidingerz|
+|Attendees (to planning meeting)|Eduard Gedeon Travezaño Patiño / Ely Rivaldo Cortez Flores / Lobato Pozo Sebastian Valente / Mathias Adriano Hidalgo Lopez	/Astrid Jimena Boronda Heidinger|
 |**Sprint Goal & User Stories**||
 |Sprint 2 Goal|Realizar las funcionalidades clave de nuestras historias principales de la aplicación. Estas funcionalidades son cruciales para la interacción del usuario y nuestra monetización.|
 |Sprint 2 Velocity| 70 |
