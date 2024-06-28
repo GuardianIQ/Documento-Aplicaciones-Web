@@ -2043,7 +2043,7 @@ sección de "Testing" se enfocó en el almacenamiento de datos en dicha base, as
 
 
 ##### [**5.2.3.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
-En este segundo Sprint tenemos los siguientes servicios:
+En este tercer Sprint tenemos los siguientes servicios:
 
 |EndPoint|Detalles|
 | - | - |
@@ -2124,7 +2124,7 @@ Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto
 
 #### [**5.2.4.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
 
-Para la entrega del Sprint 3, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue de la base de datos. Por lo tanto, la
+Para la entrega del Sprint 4, nos enfocamos  en lograr el desarrollo completo, la implementación y el despliegue de la base de datos. Por lo tanto, la
 sección de "Testing" se enfocó en el almacenamiento de datos en dicha base, asi cuando se despliegue el frontend, el usuario pueda ingresar a su cuenta con los datos ya almacenados.
 
 | Repository                                                  | Branch         | Commit ID | Commit Message                  | Commited on (Date) |
@@ -2137,7 +2137,7 @@ sección de "Testing" se enfocó en el almacenamiento de datos en dicha base, as
 
 
 ##### [**5.2.4.6. Services Documentation Evidence for Sprint Review.**](#services-documentation-evidence-for-sprint-review)
-En este segundo Sprint tenemos los siguientes servicios:
+En este cuarto Sprint tenemos los siguientes servicios:
 
 |EndPoint|Detalles|
 | - | - |
@@ -2153,7 +2153,7 @@ El despliegue aseguro así que el comportamiento observado durante la revisión 
 
 #### [**5.2.4.8. Team Collaboration Insights during Sprint.**](#team-collaboration-insights-during-sprint)
  Team Collaboration Insights during Sprint.
-Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto Rider y git. Como en la anterior entrega, primero un miembro del equipo realizó el primer commit para crear el repositorio. Luego, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales dentro del Rider. Creamos ramas pertenecientes a la asignación de tareas que realizamos, para luego efectuar los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
+Para llevar a cabo los commits durante este cuarto sprint, hemos utilizado tanto Rider y git. Como en la anterior entrega, primero un miembro del equipo realizó el primer commit para crear el repositorio. Luego, clonamos el repositorio utilizando Git y procedimos a efectuar cambios en ramas individuales dentro del Rider. Creamos ramas pertenecientes a la asignación de tareas que realizamos, para luego efectuar los commits. Estos commits deberán ser revisados en el repositorio de GitHub.
 
 
 ##### [**5.3. Validation Interviews.**](#validation-interviews)
