@@ -2438,6 +2438,8 @@ Problema:** Ausencia de bot para responde consultas de los usuarios
 
 **link:** [https://youtu.be/m7Qkzu7KCjY](https://youtu.be/m7Qkzu7KCjY)
 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210659_upc_edu_pe/EcgGc6juuuRIqhmYhT7f_W4Bjdb6x48tH_kQ5J4r2MZi1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nVuvny
 # [**Conclusiones**](#conclusiones)
 **Conclusiones y recomendaciones**
 
