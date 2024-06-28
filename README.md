@@ -2097,29 +2097,42 @@ Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto
 
 | Repository   | Branch                                      | Commit Id | Commit Message                   | User | Commited on (Date) |
 | ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| Backend | main       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
-| Backend | main       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
-| Backend | main       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
-| Backend | activeService       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
-| Backend | activeService       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
-| Backend | activeService       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
-| Backend | develop       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
-| Backend | develop       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
-| Backend | develop       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
-| Backend | devices    | 7bb2c26        | feat:first commit      | Ely Cortez| Jun 05, 2024, 6:12 PM     |
-| Backend | devices    | ce084e6        | feat:add tempalte project       | Ely Cortez| Jun 08, 2024, 4:32 PM   |
-| Backend | devices    | 0b16479        | feat:add default project       | Ely Cortez| Jun 08, 2024, 5:47 PM    |
-| Backend | devices    | 29ea2d5| Created devices | Sebastian Lobato | Jun 08, 2024, 8:03pm |
-| Backend | devices    | 6b0c294| Create DeviceController.cs | Sebastian Lobato | Jun 08, 2024, 8:15pm |
-| Backend | devices    | 066d9ea| Create Device.cs | Sebastian Lobato | Jun 08, 2024, 8:21pm |
-| Backend | devices    | f0a7da2| Create appDbContext.cs | Sebastian Lobato | Jun 08, 2024, 8:33pm |
-| Backend | devices    | d25ba54| Update DeviceController and Device class | Sebastian Lobato | Jun 08, 2024, 8:42pm |
-| Backend | devices    | e679676| Update Program.cs | Sebastian Lobato | Jun 08, 2024, 8:57pm |
-| Backend | devices    | 47575e2| Dependencies updates | Sebastian Lobato | Jun 08, 2024, 9:23pm |
-| Backend | devices    | 492f451| Update appsettings.json | Sebastian Lobato | Jun 08, 2024, 9:44pm |
-| Backend | personalSafety       | 7bb2c26        | feat:first commit        | Ely Cortez | Jun 05, 2024, 6:12 PM  | 
-| Backend | personalSafety       | ce084e6        | feat:add tempalte project | Ely Cortez| Jun 08, 2024, 4:32 PM  |
-| Backend | personalSafety       | 0b16479        | feat:add default project | Ely Cortez| Jun 08, 2024, 5:47 PM   |
+| Backend | main       | 6e27b5c        | feat:add login        | Ely Cortez | Jun 08, 2024, 4:12 PM  | 
+| Backend | main       | daf50b4        | feat:delete buy context        | Ely Cortez | Jun 08, 2024, 5:47 PM  |
+| Backend | main       | 6125e8d        | feat:add assets        | Ely Cortez | Jun 11, 2024, 3:14 PM  |
+| Backend | main       | b9c1402        | feat:add public components        | Ely Cortez | Jun 11, 2024, 3:42 PM  |
+| Backend | main       | f68b3d4        | fix: change router        | Ely Cortez | Jun 11, 2024, 4:02 PM  |
+| Backend | main       | c750295        | feat:add security context        | Ely Cortez | Jun 11, 2024, 6:12 PM  |
+| Backend | main       | 13b1424        | feat:add shared service        | Ely Cortez | Jun 11, 2024, 6:49 PM  |
+| Backend | main       | 1c00b7e        | feat:add server        | Ely Cortez | Jun 11, 2024, 7:07 PM  |
+| Backend | main       | 2865f37        | feat:updated login & signup        | Ely Cortez | Jun 27, 2024, 4:23 PM  |
+| Backend | main       | 05a58dc        | Activeservices added        | Sebastian Lobato | Jun 27, 2024, 4:58 PM  |
+| Backend | main       | 1a2f3e6        | Update payment.vue        | Sebastian Lobato | Jun 27, 2024, 5:21 PM  |
+| Backend | main       | c61d003        | Update PersonalCard.component.vue        | Sebastian Lobato | Jun 27, 2024, 5:48 PM  |
+| Backend | main       | 4c8ec9b        | Merge pull request #5 from GuardianIQ/feature-ActiveServices        | Ely Cortez | Jun 27, 2024, 6:28 PM  |
+| Backend | develop       | 41c264b        | feat:add section join our team        | Ely Cortez | Jun 09, 2024, 5:10 PM  |
+| Backend | feature-ActiveServices       | 6125e8d        | feat:add assets        | Ely Cortez | Jun 11, 2024, 3:14 PM  |
+| Backend | feature-ActiveServices       | b9c1402        | feat:add public components        | Ely Cortez | Jun 11, 2024, 3:42 PM  |
+| Backend | feature-ActiveServices       | f68b3d4        | fix: change router        | Ely Cortez | Jun 11, 2024, 4:02 PM  |
+| Backend | feature-ActiveServices       | c750295        | feat:add security context        | Ely Cortez | Jun 11, 2024, 6:12 PM  |
+| Backend | feature-ActiveServices       | 13b1424        | feat:add shared service        | Ely Cortez | Jun 11, 2024, 6:49 PM  |
+| Backend | feature-ActiveServices       | 1c00b7e        | feat:add server        | Ely Cortez | Jun 11, 2024, 7:07 PM  |
+| Backend | feature-ActiveServices       | 2865f37        | feat:updated login & signup        | Ely Cortez | Jun 27, 2024, 4:23 PM  |
+| Backend | feature-ActiveServices       | 05a58dc        | Activeservices added        | Sebastian Lobato | Jun 27, 2024, 4:58 PM  |
+| Backend | feature-ActiveServices       | 1a2f3e6        | Update payment.vue        | Sebastian Lobato | Jun 27, 2024, 5:21 PM  |
+| Backend | feature-ActiveServices       | c61d003        | Update PersonalCard.component.vue        | Sebastian Lobato | Jun 27, 2024, 5:48 PM  |
+| Backend | feature-activeService       | 34098ce        | feat: add activeService        | Mathias Hidalgo | Jun 04, 2024, 3:33 PM  |
+| Backend | feature-equiposdeseguridad       | 0414497        | Update App.vue        | Ely Cortez | May 03, 2024, 3:56 PM  | 
+| Backend | feature-equiposdeseguridad       | e38de58        | feat: add SecurityEquipments        | Ely Cortez | May 03, 2024, 2:42 PM  |
+| Backend | feature-personalSafety       | 40cbf9e        | feat(personalsafety): added footer & toolbar        | Ely Cortez | May 03, 2024, 3:22 PM  |
+| Backend | feature-personalSafety       | bf70ca0        | fead(personalSafety): add router        | Ely Cortez | May 03, 2024, 3:58 PM  |
+| Backend | feature-personalSafety       | e7d1f3d        | feat: add plug-ins configuration        | Ely Cortez | May 03, 2024, 4:33 PM  |
+| Backend | feature-staffSecurity       | b8dfc32        | add: Contact        | Eduard Travezaño | May 04, 2024, 4:12 PM  | 
+| Backend | feature-starting-screen       | 44800f6        | feat: initial project        | Astrid Boronda | May 03, 2024, 2:29 PM  | 
+| Backend | feature-starting-screen       | ad53941        | fead: add toolbar component        | Astrid Boronda | May 03, 2024, 2:52 PM  | 
+| Backend | feature-starting-screen       | 6cc85f2        | feat: add popup component        | Astrid Boronda | May 03, 2024, 3:23 PM  | 
+| Backend | feature-starting-screen       | 56834dd        | feat: add footer component        | Astrid Boronda | May 03, 2024, 3:49 PM  | 
+| Backend | feature-starting-screen       | 398097b        | fixed: toolbar component        | Astrid Boronda | May 03, 2024, 4:29 PM  | 
 
 
 #### [**5.2.4.4. Testing Suite Evidence for Sprint Review.**](#testing-suite-evidence-for-sprint-review)
