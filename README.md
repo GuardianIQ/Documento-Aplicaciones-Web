@@ -1664,6 +1664,7 @@ Link del video:
 
 *_Rider_: Rider es un entorno de desarrollo integrado (IDE) para .NET, combinando análisis de código en tiempo real, depuración avanzada y soporte multiplataforma. Utilizamos rider para el desarrollo y despliegue de nuestro backend para el almacenamiento de datos de los usuarios que ingresaran a nuestra aplicacion web.
 
+![Rider](images/rider.jpeg)
 
 
 **Software Deployment**
@@ -1695,6 +1696,10 @@ URL Landing Page desplegada:https://pageguardianiq.vercel.app/
 URL del repositorio de Landing Page:https://github.com/GuardianIQ/LandingPage
 
 URL del repositorio del Reporte Final: https://github.com/GuardianIQ/Documento-Aplicaciones-Web
+
+URL del repositorio del front End: https://github.com/GuardianIQ/GuardianIQ-Front-end.git
+
+URL del repositorio del Back End: https://github.com/GuardianIQ/Backend.git
 
 **Implementacion de Gitflow**
 
