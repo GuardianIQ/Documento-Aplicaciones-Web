@@ -1658,6 +1658,9 @@ Link del video:
 
 ![CSS](images/cssLogo.png)
 
+*_Webstorm_: WebStorm es un IDE desarrollado por JetBrains especializado en el desarrollo de aplicaciones web, ofreciendo herramientas avanzadas para JavaScript, TypeScript, HTML, CSS, y frameworks como Angular, React y Vue.js. Utilizamos Webstorm para el desarrollo de nuestra frontend y crear la vista que el usuario tendra de nuestra pagina web, con todas las funcionalidades y y servicios que se ofrece.
+
+![Webstorm](image/Capturadepantalla2024-06-28ala(s)16.45.47.png)
 
 **Software Deployment**
 
