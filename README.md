@@ -2074,8 +2074,8 @@ Para llevar a cabo los commits durante este tercer sprint, hemos utilizado tanto
 |Prepared By|Astrid Jimena Boronda Heidinger|
 |Attendees (to planning meeting)|Eduard Gedeon Travezaño Patiño / Ely Rivaldo Cortez Flores/Lobato Pozo Sebastian Valente/mathias adriano hidalgo lopez	/Astrid Jimena Boronda Heidingerz|
 |**Sprint Goal & User Stories**||
-|Sprint 3 Goal|Finalizar las vistas que muestre el funcionamiento del core del negocio junto con el backend.|
-|Sprint 3 Velocity| 70 |
+|Sprint 4 Goal|Finalizar las vistas que muestre el funcionamiento del core del negocio y la conexión con el backend.|
+|Sprint 4 Velocity| 70 |
 |Sum of Story Points|70|
 
 #### [5.2.4.2. Sprint Backlog 4.](#sprint-backlog-4)
